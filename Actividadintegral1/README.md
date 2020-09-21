@@ -1,3 +1,6 @@
+Andrea Piñeiro Cavazos
+
+
 ## ORDENA MERGE 
 	** Análisis de complejidad temporal **
 	Este algoritmo tiene complejidad O(n * log(n)). 
