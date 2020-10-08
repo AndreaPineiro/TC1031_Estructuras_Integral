@@ -1,3 +1,7 @@
+### AVANCE 2
+	En este avance implemente una double linked list, para mostrar los datos de los clientes de Black Bull Pachuca, que tiene
+	un registro de los nombres y de la cantidad de cuponeras que han adquirido.
+
 ## DLINK ADD
 	** Análisis de complejidad temporal **
 	Gracias a previous, la función ya no tiene que recorrer todos los elementos para llegar al final. Este apuntador nos permite llegar directamente, y ligar el "next" del nuevo objeto a 0, y el previous del objeto al "tail" anterior. 
