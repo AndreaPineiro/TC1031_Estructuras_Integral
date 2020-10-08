@@ -1,7 +1,7 @@
 // =================================================================
 //
 // File: dlist.h
-// Author: Andrea Piñeiro Cavazos
+// Author: Andrea Pineiro Cavazos
 // Description: This file contains the implementation of a TDA Double
 // Linked List
 //

@@ -1,9 +1,9 @@
 // =================================================================
 //
 // File: dato.h
-// Author: Andrea Piñeiro Cavazos
+// Author: Andrea Pineiro Cavazos
 // Description: Clase data, que va a ser un objeto con los datos 
-// del nombre de la persona y el número de cuponeras adquiridas.
+// del nombre de la persona y el numero de cuponeras adquiridas.
 // Linked List
 //
 // =================================================================
@@ -33,7 +33,7 @@ class Data {
 		string toString();
 };
 
-// Constructor vacío
+// Constructor vacio
 Data::Data(){
 	nombre = "";
 	num_cuponeras = 0;
@@ -45,7 +45,7 @@ Data::Data(string nom, string cup){
 	num_cuponeras = stringToInt(cup);
 }
 
-// Esta función convierte una string a entero
+// Esta funcion convierte una string a entero
 int Data::stringToInt(string i){
 	int x;
 	x = stoi(i);
@@ -70,7 +70,7 @@ bool Data::operator==(int cup){
 	}
 }
 
-// Ayuda a desplegar la información del objeto, nombre y cuponeras.
+// Ayuda a desplegar la informacion del objeto, nombre y cuponeras.
 string Data::toString(){
 	stringstream aux;
 	aux << nombre << " " << num_cuponeras << " ";
