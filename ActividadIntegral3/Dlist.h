@@ -168,11 +168,9 @@ int DList<T>::findFirst(string val) {
 template <class T>
 int DList<T>::findLast(string val) {
 	DLink<T> *p;
-	cout << "PRUEBA 4" << endl;
 	int cont = size;
 	cout << cont << endl;
 	p = tail;
-	cout << "PRUEBA 4" << endl;
 	while (p != 0){
 		if (p -> value == val) {
 			return cont;
@@ -180,7 +178,6 @@ int DList<T>::findLast(string val) {
 		cont--;
 		cout << cont << endl;
 		p = p -> previous;
-		cout << "PRUEBA 5" << endl;
 	}
 	return -1;
 }
