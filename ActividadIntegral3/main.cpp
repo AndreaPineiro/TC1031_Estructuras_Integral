@@ -68,7 +68,6 @@ int main(){
     // Usamos Insertion Sort para ordenar la informacion con respecto al numero de cuponeras
 	dlist.ordenaSeleccion();
 
-	cout << dlist.size;
     
     // Creamos un heap que va a tener objetos tipo Equipo, que tienen
     // el nombre del equipo y la cantidad de elementos prestados.
