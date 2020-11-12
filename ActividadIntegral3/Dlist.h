@@ -169,14 +169,12 @@ template <class T>
 int DList<T>::findLast(string val) {
 	DLink<T> *p;
 	int cont = size;
-	cout << cont << endl;
 	p = tail;
 	while (p != 0){
 		if (p -> value == val) {
 			return cont;
 		}
 		cont--;
-		cout << cont << endl;
 		p = p -> previous;
 	}
 	return -1;
