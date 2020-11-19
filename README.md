@@ -17,3 +17,8 @@ AVANCE 3: En el tercer avance recibimos información de prestamos de equipo de e
 a los atletas del gimansio. Se usa una lista doblemente ligada para mostrar la información ordenada
 y hacer búsquedas por equipo. El heap sirve para guardar el tipo de equipo que se presto y la cantidad
 de objetos que se encuentran prestados.
+
+AVANCE 4: En el cuarto avance implemente grafos; cambié el proyecto. Use la imagen del metro de Roma,
+Italia, y un txt en el que se dan todas las conecciones entre 2 nodos. El proyecto te permite ver todas
+las conecciones de cada nodo, hacer una búsqueda por DFS y por BFS para encontrar el camino más corto 
+desde un lugar de origen a otro, permitiendo al usuario ingresar estos datos.
