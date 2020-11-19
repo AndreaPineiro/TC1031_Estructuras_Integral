@@ -78,7 +78,7 @@ El programa muestra 5 opciones al usuario.
 
 # FUNCIONES AUXILIARES
 
-##ADD EDGE ADJ LIST
+## ADD EDGE ADJ LIST
 	En esta función, se agrega una relación al vector de listas. Recibe 2 string y con esta obtiene 2 datos para agregar el primero a la 
 	lista del segundo y viceversa. 
 	Para esto se usa un ciclo para obtener el primer valor de las listas para saber cual es el nodo
