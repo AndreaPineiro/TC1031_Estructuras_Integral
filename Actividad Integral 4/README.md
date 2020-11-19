@@ -1,3 +1,13 @@
+Este programa recibe datos del CSV "MetroRoma" en este se da la información de las conecciones de todas las estaciones del metro de Roma. Este programa te permite ver todas las conecciones de todos los nodos,o a las estaciones que puedes llegar desde una inicial. Así como darte información de por qué estaciones pasar para llegar de una a otra, y cuál es el camino más corto.
+
+El programa muestra 5 opciones al usuario.
+
+1.  Ver todas las conecciones de cada nodo en un archivo txt
+2.  Obtener las conecciones desde una estación. Recibe el nombre de la estación y recibe sus nodos adyacentes.
+3.  Obtener camino de un punto a otro. Esta función implementa DFS
+4.  Obtener el camino más corto de un punto a otro. Se implementa BFS.
+5.  Salir
+
 ## LOAD GRAPH LIST
 	** Análisis de complejidad temporal **
 	La función lee los datos de un archivo, y con cada línea crea un edge, para guardar la relación entre ambos nodos. Va avanzando en el archivo hasta leer la última línea. Agrega estas conexiones en el vector de listas. 
