@@ -22,6 +22,7 @@ casos de prueba.
 	recorreclo como si fuera un árbol, no se recorren todos los elementos. Por lo que el merge tiene 
 	complejidad O(log (n)).
 	Total: O(n * log(n)).
+	
 ## ORDENA SELECCIÓN
 	** Análisis de complejidad temporal **
 	El primer ciclo es el que determina cuántas veces vamos a tener que recorrer todo el vector; este va desde 
@@ -29,3 +30,14 @@ casos de prueba.
 	El segundo ciclo va a recorrer cada elemento del vector que no este ya en su posición correcta. Buscará el 
 	más pequeño y lo colocará en la posición hasta la izquierda. Este comenzará desde el valor de i (determinado 
 	por el primer ciclo) hasta n. 
+
+## BUSQUEDA BINARIA 
+	** Análisis de complejidad temporal **
+	El algoritmo recorre log(n) pasos, ya que para encontrar el número en el vector no recorre todo el vector. 
+	Obtiene el número de la mitad y lo compara con el número que buscamos, si son iguales, regresamos su índice, 
+	pues ya lo hemos encontrado. Si es menor llama la función de nuevo desde low hasta mid-1; si es mayor la 
+	llama desde mid+1 hasta high. 
+	La función recursiva se detiene cuando se ha encontrado el número o siempre que low sea menor que high. 
+	No recorremos todos los números, pues descartamos la mitad de ellos y luego la siguiente mitad...hasta que 
+	lo encontremos o lleguemos al caso base.
+	Es por eso que la complejidad es O(log(n))
