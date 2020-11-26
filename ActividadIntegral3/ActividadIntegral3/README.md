@@ -1,17 +1,13 @@
-Este programa recibe datos del CSV "Préstamos" en este se da la información del material de entrenamiento que el gimnasio Black Bull fitness prestó a sus clientes donde la cuartentena. 
-Tiene los datos del nombre de la persona, la fecha, la cantidad de piezas y el nombre del equipo de entrenamiento (ej. cuerda, barra).
-Para esta entrega uso una Double Linked List para ordenar los datos con ordena selección. Y esta sirve para guardar los objetos prestamo y poder hacer las búsquedas por nombre de equipo.
-El heap contiene otros objetos llamados equipo, hechos con los mismos datos pero este solo tiene el nombre del equipo de entrenamiento (ej. barra) y la cantidad de barras que se encuentran prestadas. 
+Andrea Piñeiro Cavazos
+
+Este programa recibe datos del CSV "Préstamos" en este se da la información del material de entrenamiento que el gimnasio Black Bull fitness prestó a sus clientes donde la cuartentena. Tiene los datos del nombre de la persona, la fecha, la cantidad de piezas y el nombre del equipo de entrenamiento (ej. cuerda, barra). Para esta entrega uso una Double Linked List para ordenar los datos con ordena selección. Y esta sirve para guardar los objetos prestamo y poder hacer las búsquedas por nombre de equipo. El heap contiene otros objetos llamados equipo, hechos con los mismos datos pero este solo tiene el nombre del equipo de entrenamiento (ej. barra) y la cantidad de barras que se encuentran prestadas.
 
 El programa muestra 4 opciones al usuario.
-1. Ver los datos ordenados
-	Esta opción crea un ".txt" donde el usuario puede ver los datos ordenados 
-2. Buscar por nombre de equipo
-	Esta opción permite al usuario ingresar el nombre del equipo y muestra todos los usuarios que rentaron ese material.
-3. Obtener equipo mas prestado
-	Esta opción nos imprime en consola el nombre del equipo y el número de piezas que están prestadas.
-4. Salir
-	Saca al usuario del programa. 
+
+1. Ver los datos ordenados Esta opción crea un ".txt" donde el usuario puede ver los datos ordenados
+2. Buscar por nombre de equipo Esta opción permite al usuario ingresar el nombre del equipo y muestra todos los usuarios que rentaron ese material.
+3. Obtener equipo mas prestado Esta opción nos imprime en consola el nombre del equipo y el número de piezas que están prestadas.
+4. Salir Saca al usuario del programa.
 
 
 ## DLINK 
