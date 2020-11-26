@@ -1,5 +1,9 @@
 Andrea Piñeiro Cavazos
 
+En este avance se obtienen los datos de un archivo .csv que contiene las asistencias de los atletlas del gimnasio 
+"Black Bull Fitness". En este se encuentra la fecha, el nombre del atleta y la hora en la que asistió. 
+En un vector se ordenan estos datos con Ordena Selección por fecha, y te permite ver la información ordenada y 
+buscar en un rango de fechas.
 
 ## ORDENA MERGE 
 	** Análisis de complejidad temporal **
