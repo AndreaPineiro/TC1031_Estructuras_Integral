@@ -1,0 +1,4775 @@
+02/03/20,Zoe Bello Alfaro,20:30
+02/03/20,Zoe Bello Alfaro,19:30
+02/03/20,Ximena Shady Godinez Garrido,10:00
+02/03/20,Victor Manuel Lopez Medina,08:00
+02/03/20,Vianney Alberto Melo Rios,08:00
+02/03/20,Valerio Ivan Islas Charolet,06:00
+02/03/20,Sergio Rogelio Perez Ramirez,20:30
+02/03/20,Raciel Edmundo Escudero Diaz,06:00
+02/03/20,Pablo Manuel Gayosso Chavez,08:00
+02/03/20,Oscar Nashiel Gonzalez Lara,10:00
+02/03/20,Oscar Duran Soto,17:30
+02/03/20,Octavio Montano Mendoza,18:30
+02/03/20,Norma Aida Pineiro Acosta,17:30
+02/03/20,Mayra Alejandra Tovar Gonzalez,18:30
+02/03/20,Mario Villarreal Mares,19:30
+02/03/20,Mario Villarreal Mares,18:30
+02/03/20,Mario Alberto Mendoza Pineiro,17:30
+02/03/20,Maria Teresa de Jesus Barroeta Sanchez,18:30
+02/03/20,Mar’a Fernanda Camacho Tovar,18:30
+02/03/20,Maria Fernanda Alfaro Gonzalez,10:00
+02/03/20,Maria Evodia Rios Castaneda,17:30
+02/03/20,Maria Concepcion Avila Martinez,09:00
+02/03/20,Marco Antonio Lozada Copca,06:00
+02/03/20,Marco Antonio Banos Rubio,07:00
+02/03/20,Luis David Cruz Olivares,20:30
+02/03/20,Luis Antonio Roldan Bautista,06:00
+02/03/20,Luis Alejandro Cortes Rodriguez,18:30
+02/03/20,Leonardo Restrepo Munoz,08:00
+02/03/20,Julio Cesar Hernandez Velasco,08:00
+02/03/20,Julio Alfredo Cornejo Grimaldo,07:00
+02/03/20,Juan Francisco Bello Jardines,20:30
+02/03/20,Juan Francisco Bello Jardines,19:30
+02/03/20,Jose Luis Marin Gonzalez,06:00
+02/03/20,Jose Daniel Perez Nunez,09:00
+02/03/20,Jose Daniel Garcia Rios,10:00
+02/03/20,Jorge Enrique Vargas Acosta,10:00
+02/03/20,Joel Ramirez Ortega,10:00
+02/03/20,Jalil Aparicio Cortazar,10:00
+02/03/20,Heidy Ceron Islas,20:30
+02/03/20,Hector Adrian Hernandez Segura,17:30
+02/03/20,Gustavo Aparicio Cortazar,19:30
+02/03/20,Gibran Aparicio Cortazar,19:30
+02/03/20,Gaston Ceron Munoz,06:00
+02/03/20,Gabriela Morales Mendez,08:00
+02/03/20,Felipe Ochoa Velasco,18:30
+02/03/20,Felipe Ochoa Velasco,17:30
+02/03/20,Fabiola Hernandez Escudero,07:00
+02/03/20,Elvia Cortazar Martinez,19:30
+02/03/20,Elba Zuzely Vizcaya Barrera,10:00
+02/03/20,Diana Jimena Ramirez Ceron,20:30
+02/03/20,Deyanira Perez Hernandez,17:30
+02/03/20,Claudia Camacho Carreggio,06:00
+02/03/20,Carlos Angel Rodriguez Lopez,07:00
+02/03/20,Carla Guzman Illescas,06:00
+02/03/20,Berenice Alfaro Ponce,20:30
+02/03/20,Berenice Alfaro Ponce,19:30
+02/03/20,Ariadna Pineiro Acosta,17:30
+02/03/20,Angeles Zeydel Olivares,20:30
+02/03/20,Angel Zaid Cruz Olivarez,20:30
+02/03/20,Alma Thais Godinez Garrido,10:00
+02/03/20,Alicia Chavarria Lopez,08:00
+03/03/20,Zaira Sanchez Omana,18:30
+03/03/20,Valerio Ivan Islas Charolet,06:00
+03/03/20,Regina Rojas Crespo,20:30
+03/03/20,Raciel Edmundo Escudero Diaz,06:00
+03/03/20,Pablo Manuel Gayosso Chavez,09:00
+03/03/20,Oscar Nashiel Gonzalez Lara,18:30
+03/03/20,Oscar Duran Soto,18:30
+03/03/20,Octavio Montano Mendoza,17:30
+03/03/20,Nathan Mauricio Flores Ponce,09:00
+03/03/20,Melissa Azpeitia Hernandez,06:00
+03/03/20,Mayra Alejandra Tovar Gonzalez,17:30
+03/03/20,Mario Alberto Mendoza Pineiro,17:30
+03/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+03/03/20,Mar’a Fernanda Camacho Tovar,17:30
+03/03/20,Maria Fernanda Alfaro Gonzalez,10:00
+03/03/20,Maria Evodia Rios Castaneda,17:30
+03/03/20,Marco Antonio Lozada Copca,06:00
+03/03/20,Marco Antonio Banos Rubio,07:00
+03/03/20,Manuel,07:00
+03/03/20,Magali Citlalli Reyes Garcia,18:30
+03/03/20,Luis David Cruz Olivares,20:30
+03/03/20,Luis Antonio Roldan Bautista,06:00
+03/03/20,Luis Alejandro Cortes Rodriguez,18:30
+03/03/20,Leonardo Restrepo Munoz,08:00
+03/03/20,Julio Alfredo Cornejo Grimaldo,07:00
+03/03/20,Juan Francisco Bello Jardines,20:30
+03/03/20,Jose Luis Marin Gonzalez,06:00
+03/03/20,Jose Juan Aviles Abrego,08:00
+03/03/20,Jose Daniel Perez Nunez,19:30
+03/03/20,Jose Daniel Perez Nunez,08:00
+03/03/20,Jose Daniel Garcia Rios,10:00
+03/03/20,Jorge Enrique Vargas Acosta,19:30
+03/03/20,Jalil Aparicio Cortazar,10:00
+03/03/20,Israel Ulises Hernandez Martinez,06:00
+03/03/20,Heidy Ceron Islas,20:30
+03/03/20,Hector Adrian Hernandez Segura,17:30
+03/03/20,Gustavo Aparicio Cortazar,19:30
+03/03/20,Guadalupe Myriam Romero Gomez,08:00
+03/03/20,Gibran Aparicio Cortazar,19:30
+03/03/20,Gaston Ceron Munoz,06:00
+03/03/20,Gabriela Morales Mendez,08:00
+03/03/20,Felipe Ochoa Velasco,17:30
+03/03/20,Fabiola Hernandez Escudero,07:00
+03/03/20,Elvia Cortazar Martinez,19:30
+03/03/20,Elba Zuzely Vizcaya Barrera,10:00
+03/03/20,Eduardo Gonzalez Suarez,08:00
+03/03/20,Dulce Alheli Torres Rodriguez,09:00
+03/03/20,Diana Jimena Ramirez Ceron,20:30
+03/03/20,Danya Sanchez Omana,18:30
+03/03/20,Danya Sanchez Omana,17:30
+03/03/20,Cristal Torres Torres,17:30
+03/03/20,Claudia Camacho Carreggio,06:00
+03/03/20,Cesar Israel Acosta Arias,06:00
+03/03/20,Carla Guzman Illescas,06:00
+03/03/20,Berenice Alfaro Ponce,20:30
+03/03/20,Ariadna Pineiro Acosta,17:30
+03/03/20,Angeles Zeydel Olivares,20:30
+03/03/20,Angel Zaid Cruz Olivarez,20:30
+03/03/20,Alma Thais Godinez Garrido,10:00
+03/03/20,Alicia Chavarria Lopez,08:00
+03/03/20,Alejandro Martinez Rodriguez,10:00
+03/03/20,Alba Leticia Badillo Ramirez,10:00
+03/03/20,Aida Hernandez Ramirez,06:00
+04/03/20,Zoe Bello Alfaro,17:30
+04/03/20,Zaira Sanchez Omana,17:30
+04/03/20,Victor Manuel Lopez Medina,08:00
+04/03/20,Vianney Alberto Melo Rios,08:00
+04/03/20,Valerio Ivan Islas Charolet,06:00
+04/03/20,Ulises Alan Carrenno Mejia,06:00
+04/03/20,Regina Rojas Crespo,17:30
+04/03/20,Raciel Edmundo Escudero Diaz,06:00
+04/03/20,Pablo Manuel Gayosso Chavez,08:00
+04/03/20,Oscar Nashiel Gonzalez Lara,10:00
+04/03/20,Oscar Duran Soto,17:30
+04/03/20,Orlando Jair Lopez Santiago,10:00
+04/03/20,Octavio Montano Mendoza,17:30
+04/03/20,Norma Aida Pineiro Acosta,17:30
+04/03/20,Naoli Alfaro Ponce,17:30
+04/03/20,Mario Villarreal Mares,17:30
+04/03/20,Mariana Camacho Ortega,10:00
+04/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+04/03/20,Mar’a Fernanda Camacho Tovar,17:30
+04/03/20,Maria Fernanda Alfaro Gonzalez,10:00
+04/03/20,Maria Esther Hernandez Diaz,20:30
+04/03/20,Maria Concepcion Avila Martinez,09:00
+04/03/20,Marco Antonio Lozada Copca,06:00
+04/03/20,Marco Antonio Banos Rubio,07:00
+04/03/20,Magali Citlalli Reyes Garcia,18:30
+04/03/20,Luis David Cruz Olivares,20:30
+04/03/20,Luis Antonio Roldan Bautista,06:00
+04/03/20,Leonardo Restrepo Munoz,08:00
+04/03/20,Julio Cesar Hernandez Velasco,08:00
+04/03/20,Julio Alfredo Cornejo Grimaldo,07:00
+04/03/20,Juan Francisco Bello Jardines,17:30
+04/03/20,Jose Manuel Gachuz Moreno,18:30
+04/03/20,Jose Luis Marin Gonzalez,06:00
+04/03/20,Jose Daniel Garcia Rios,10:00
+04/03/20,Jorge Enrique Vargas Acosta,10:00
+04/03/20,Jorge Eduardo Vargas Cortes,08:00
+04/03/20,Jalil Aparicio Cortazar,10:00
+04/03/20,Israel Ulises Hernandez Martinez,06:00
+04/03/20,Gustavo Aparicio Cortazar,18:30
+04/03/20,Guadalupe Myriam Romero Gomez,09:00
+04/03/20,Guadalupe Myriam Romero Gomez,08:00
+04/03/20,Gibran Aparicio Cortazar,18:30
+04/03/20,Gaston Ceron Munoz,06:00
+04/03/20,Gabriela Morales Mendez,08:00
+04/03/20,Felipe Ochoa Velasco,17:30
+04/03/20,Fabiola Hernandez Escudero,07:00
+04/03/20,Elvia Cortazar Martinez,18:30
+04/03/20,Elba Zuzely Vizcaya Barrera,10:00
+04/03/20,Efrain Sanchez Becerril,10:00
+04/03/20,Eduardo Gonzalez Suarez,09:00
+04/03/20,Eduardo Gonzalez Suarez,08:00
+04/03/20,Dulce Alheli Torres Rodriguez,09:00
+04/03/20,Diana Jimena Ramirez Ceron,20:30
+04/03/20,Deyanira Perez Hernandez,17:30
+04/03/20,Danya Sanchez Omana,17:30
+04/03/20,Claudia Camacho Carreggio,06:00
+04/03/20,Celinn Mirell Gutierrez Rodriguez,18:30
+04/03/20,Carla Guzman Illescas,06:00
+04/03/20,Berenice Alfaro Ponce,17:30
+04/03/20,Ariadna Pineiro Acosta,17:30
+04/03/20,Angeles Zeydel Olivares,20:30
+04/03/20,Angel Zaid Cruz Olivarez,20:30
+04/03/20,Andrea Cortes Barroeta,19:30
+04/03/20,Alicia Chavarria Lopez,08:00
+04/03/20,Alejandro Martinez Rodriguez,10:00
+04/03/20,Aida Hernandez Ramirez,07:00
+04/03/20,Adolfo Miguel Pontigo Tovar,10:00
+05/03/20,Zoe Bello Alfaro,19:30
+05/03/20,Zoe Bello Alfaro,18:30
+05/03/20,Zaira Sanchez Omana,17:30
+05/03/20,Ximena Shady Godinez Garrido,10:00
+05/03/20,Victor Manuel Lopez Medina,08:00
+05/03/20,Vianney Alberto Melo Rios,08:00
+05/03/20,Ulises Alan Carrenno Mejia,06:00
+05/03/20,Regina Rojas Crespo,19:30
+05/03/20,Regina Rojas Crespo,18:30
+05/03/20,Raul Duran Soto,10:00
+05/03/20,Raciel Edmundo Escudero Diaz,06:00
+05/03/20,Oscar Nashiel Gonzalez Lara,17:30
+05/03/20,Octavio Montano Mendoza,17:30
+05/03/20,Norma Aida Pineiro Acosta,17:30
+05/03/20,Naoli Alfaro Ponce,19:30
+05/03/20,Naoli Alfaro Ponce,18:30
+05/03/20,Mayra Alejandra Tovar Gonzalez,17:30
+05/03/20,Mario Villarreal Mares,17:30
+05/03/20,Mario Alberto Mendoza Pineiro,17:30
+05/03/20,Maria Evodia Rios Castaneda,17:30
+05/03/20,Maria Esther Hernandez Diaz,17:30
+05/03/20,Maria Concepcion Avila Martinez,18:30
+05/03/20,Marco Antonio Banos Rubio,07:00
+05/03/20,Manuel,07:00
+05/03/20,Luis Antonio Roldan Bautista,06:00
+05/03/20,Luis Alejandro Cortes Rodriguez,19:30
+05/03/20,Luis Alejandro Cortes Rodriguez,19:30
+05/03/20,Lucero,09:00
+05/03/20,Luba Miriam Laski Cobarruvias,19:30
+05/03/20,Leonardo Restrepo Munoz,08:00
+05/03/20,Kaj,09:00
+05/03/20,Juan Francisco Bello Jardines,19:30
+05/03/20,Juan Francisco Bello Jardines,18:30
+05/03/20,Jose Luis Marin Gonzalez,06:00
+05/03/20,Jose Juan Aviles Abrego,10:00
+05/03/20,Jose Daniel Garcia Rios,10:00
+05/03/20,Jorge Eduardo Vargas Cortes,08:00
+05/03/20,Israel Ulises Hernandez Martinez,06:00
+05/03/20,Hector Adrian Hernandez Segura,17:30
+05/03/20,Gustavo Aparicio Cortazar,18:30
+05/03/20,Guadalupe Myriam Romero Gomez,08:00
+05/03/20,Gibran Aparicio Cortazar,19:30
+05/03/20,Gaston Ceron Munoz,06:00
+05/03/20,Gabriela Morales Mendez,08:00
+05/03/20,Felipe Ochoa Velasco,17:30
+05/03/20,Fabiola Hernandez Escudero,07:00
+05/03/20,Elvia Cortazar Martinez,18:30
+05/03/20,Elba Zuzely Vizcaya Barrera,10:00
+05/03/20,Eduardo Gonzalez Suarez,08:00
+05/03/20,Deyanira Perez Hernandez,17:30
+05/03/20,Danya Sanchez Omana,17:30
+05/03/20,Claudia Camacho Carreggio,06:00
+05/03/20,Carla Guzman Illescas,06:00
+05/03/20,Berenice Alfaro Ponce,19:30
+05/03/20,Axel Ishac Licona Calderon,19:30
+05/03/20,Alma Thais Godinez Garrido,10:00
+05/03/20,Alicia Chavarria Lopez,08:00
+05/03/20,Alba Leticia Badillo Ramirez,10:00
+05/03/20,Aida Hernandez Ramirez,07:00
+05/03/20,Adolfo Miguel Pontigo Tovar,10:00
+06/03/20,Zoe Bello Alfaro,18:30
+06/03/20,Raul Duran Soto,10:00
+06/03/20,Raciel Edmundo Escudero Diaz,06:00
+06/03/20,Pablo Manuel Gayosso Chavez,10:00
+06/03/20,Pablo Manuel Gayosso Chavez,08:00
+06/03/20,Oscar Nashiel Gonzalez Lara,10:00
+06/03/20,Oscar Duran Soto,18:30
+06/03/20,Norma Aida Pineiro Acosta,17:30
+06/03/20,Nathan Mauricio Flores Ponce,09:00
+06/03/20,Melissa Azpeitia Hernandez,07:00
+06/03/20,Mario Villarreal Mares,18:30
+06/03/20,Mario Alberto Mendoza Pineiro,17:30
+06/03/20,Maria Fernanda Alfaro Gonzalez,10:00
+06/03/20,Maria Concepcion Avila Martinez,08:00
+06/03/20,Marco Antonio Banos Rubio,07:00
+06/03/20,Luba Miriam Laski Cobarruvias,19:30
+06/03/20,Leonardo Restrepo Munoz,08:00
+06/03/20,Julio Cesar Hernandez Velasco,08:00
+06/03/20,Juan Francisco Bello Jardines,18:30
+06/03/20,Jose Manuel Gachuz Moreno,09:00
+06/03/20,Jose Luis Marin Gonzalez,06:00
+06/03/20,Jose Daniel Garcia Rios,10:00
+06/03/20,Jorge Enrique Vargas Acosta,10:00
+06/03/20,Jorge Eduardo Vargas Cortes,08:00
+06/03/20,Hector Adrian Hernandez Segura,17:30
+06/03/20,Gaston Ceron Munoz,06:00
+06/03/20,Gabriela Morales Mendez,08:00
+06/03/20,Felipe Ochoa Velasco,17:30
+06/03/20,Fabiola Hernandez Escudero,07:00
+06/03/20,Deyanira Perez Hernandez,07:00
+06/03/20,Claudia Camacho Carreggio,06:00
+06/03/20,Cesar Israel Acosta Arias,07:00
+06/03/20,Carla Guzman Illescas,06:00
+06/03/20,Berenice Alfaro Ponce,18:30
+06/03/20,Axel Ishac Licona Calderon,19:30
+06/03/20,Ariadna Pineiro Acosta,17:30
+06/03/20,Alicia Chavarria Lopez,08:00
+06/03/20,Alejandro Martinez Rodriguez,10:00
+06/03/20,Alba Leticia Badillo Ramirez,10:00
+06/03/20,Aida Hernandez Ramirez,07:00
+06/03/20,Adolfo Miguel Pontigo Tovar,10:00
+07/03/20,Pablo Manuel Gayosso Chavez,10:30
+07/03/20,Mario Villarreal Mares,07:30
+07/03/20,Maria Fernanda Alfaro Gonzalez,10:30
+07/03/20,Maria Fernanda Alfaro Gonzalez,09:30
+07/03/20,Maria Esther Hernandez Diaz,09:30
+07/03/20,Maria Esther Hernandez Diaz,20:30
+07/03/20,Luis Antonio Roldan Bautista,07:30
+07/03/20,Luis Alejandro Cortes Rodriguez,07:30
+07/03/20,Juan Francisco Bello Jardines,20:30
+07/03/20,Jose Manuel Gachuz Moreno,09:30
+07/03/20,Jose Manuel Gachuz Moreno,20:30
+07/03/20,Jorge Enrique Vargas Acosta,09:30
+07/03/20,Felipe Ochoa Velasco,07:30
+07/03/20,Efrain Sanchez Becerril,10:30
+07/03/20,Efrain Sanchez Becerril,09:30
+07/03/20,Cesar Israel Acosta Arias,07:30
+07/03/20,Carolina Alfaro Gonzalez,10:30
+07/03/20,Carolina Alfaro Gonzalez,10:30
+07/03/20,Carolina Alfaro Gonzalez,09:30
+07/03/20,Axel Ishac Licona Calderon,09:30
+07/03/20,Axel Ishac Licona Calderon,20:30
+07/03/20,Alma Thais Godinez Garrido,10:30
+07/03/20,Adolfo Miguel Pontigo Tovar,10:30
+09/03/20,Victor Manuel Lopez Medina,08:00
+09/03/20,Tomas Adrian Reyes Gutierrez,20:30
+09/03/20,Rodrigo Osvaldo Cortes Montiel,08:00
+09/03/20,Raul Sampedro Camora,10:00
+09/03/20,Raul Duran Soto,10:00
+09/03/20,Raciel Edmundo Escudero Diaz,06:00
+09/03/20,Oscar Nashiel Gonzalez Lara,10:00
+09/03/20,Oscar Duran Soto,18:30
+09/03/20,Miguel Angel Perez Hernandez,08:00
+09/03/20,Mayra Anay Avila Martinez,08:00
+09/03/20,Mario Villarreal Mares,19:30
+09/03/20,Mario Villarreal Mares,18:30
+09/03/20,Mariana Berenice Gonzalez Garrido,20:30
+09/03/20,Maria Fernanda Alfaro Gonzalez,10:00
+09/03/20,Maria Evodia Rios Castaneda,17:30
+09/03/20,Maria Concepcion Avila Martinez,08:00
+09/03/20,Marco Antonio Lozada Copca,06:00
+09/03/20,Marco Antonio Banos Rubio,07:00
+09/03/20,Luis David Cruz Olivares,20:30
+09/03/20,Luis Antonio Roldan Bautista,06:00
+09/03/20,Luis Alejandro Cortes Rodriguez,18:30
+09/03/20,Luba Miriam Laski Cobarruvias,17:30
+09/03/20,Julio Sanchez Ramirez,08:00
+09/03/20,Julio Cesar Hernandez Velasco,07:00
+09/03/20,Juan Francisco Bello Jardines,19:30
+09/03/20,Juan Francisco Bello Jardines,18:30
+09/03/20,Jose Luis Marin Gonzalez,06:00
+09/03/20,Jose Daniel Garcia Rios,10:00
+09/03/20,Jorge Enrique Vargas Acosta,10:00
+09/03/20,Gibran Aparicio Cortazar,19:30
+09/03/20,Gaston Ceron Munoz,06:00
+09/03/20,Gabriela Barranco Mendoza,17:30
+09/03/20,Felipe Ochoa Velasco,18:30
+09/03/20,Felipe Ochoa Velasco,17:30
+09/03/20,Fabiola Hernandez Escudero,07:00
+09/03/20,Elba Zuzely Vizcaya Barrera,10:00
+09/03/20,Efrain Sanchez Becerril,10:00
+09/03/20,Eduardo Garcia Gomez,20:30
+09/03/20,Claudia Camacho Carreggio,06:00
+09/03/20,Cesar Israel Acosta Arias,17:30
+09/03/20,Carolina Alfaro Gonzalez,10:00
+09/03/20,Carla Guzman Illescas,06:00
+09/03/20,Axel Ishac Licona Calderon,17:30
+09/03/20,Angeles Zeydel Olivares,20:30
+09/03/20,Angel Zaid Cruz Olivarez,20:30
+09/03/20,Alejandro Martinez Rodriguez,10:00
+09/03/20,Adolfo Miguel Pontigo Tovar,10:00
+10/03/20,Zoe Bello Alfaro,20:30
+10/03/20,Zaira Sanchez Omana,17:30
+10/03/20,Ximena Shady Godinez Garrido,10:00
+10/03/20,Victor Manuel Lopez Medina,08:00
+10/03/20,Vianney Alberto Melo Rios,08:00
+10/03/20,Tomas Adrian Reyes Gutierrez,10:00
+10/03/20,Sandra Karina Tapia Navarrete,09:00
+10/03/20,Regina Rojas Crespo,20:30
+10/03/20,Raul Duran Soto,10:00
+10/03/20,Raciel Edmundo Escudero Diaz,06:00
+10/03/20,Pablo Manuel Gayosso Chavez,10:00
+10/03/20,Oscar Nashiel Gonzalez Lara,17:30
+10/03/20,Oscar Duran Soto,18:30
+10/03/20,Oscar Duran Soto,18:30
+10/03/20,Octavio Montano Mendoza,17:30
+10/03/20,Norma Aida Pineiro Acosta,17:30
+10/03/20,Nathan Mauricio Flores Ponce,09:00
+10/03/20,Naoli Alfaro Ponce,20:30
+10/03/20,Mayra Anay Avila Martinez,08:00
+10/03/20,Mayra Alejandra Tovar Gonzalez,17:30
+10/03/20,Mario Villarreal Mares,19:30
+10/03/20,Mario Villarreal Mares,18:30
+10/03/20,Mario Villarreal Mares,18:30
+10/03/20,Mario Alberto Mendoza Pineiro,17:30
+10/03/20,Mariana Camacho Ortega,10:00
+10/03/20,Mariana Berenice Gonzalez Garrido,19:30
+10/03/20,Mar’a Fernanda Camacho Tovar,17:30
+10/03/20,Maria Evodia Rios Castaneda,17:30
+10/03/20,Maria Esther Hernandez Diaz,19:30
+10/03/20,Maria Esther Hernandez Diaz,18:30
+10/03/20,Maria Esther Hernandez Diaz,18:30
+10/03/20,Maria de los Angeles Villanueva Espinosa,09:00
+10/03/20,Maria Concepcion Avila Martinez,08:00
+10/03/20,Marco Antonio Lozada Copca,06:00
+10/03/20,Magali Citlalli Reyes Garcia,18:30
+10/03/20,Magali Citlalli Reyes Garcia,18:30
+10/03/20,Luis David Cruz Olivares,19:30
+10/03/20,Luis Antonio Roldan Bautista,06:00
+10/03/20,Luis Alejandro Cortes Rodriguez,19:30
+10/03/20,Luba Miriam Laski Cobarruvias,18:30
+10/03/20,Luba Miriam Laski Cobarruvias,18:30
+10/03/20,Juan Manuel Santander Ledezma,09:00
+10/03/20,Juan Francisco Bello Jardines,20:30
+10/03/20,Jose Manuel Salazar Rodriguez,07:00
+10/03/20,Jose Manuel Gachuz Moreno,20:30
+10/03/20,Jose Luis Marin Gonzalez,06:00
+10/03/20,Jose Luis,09:00
+10/03/20,Jose Daniel Garcia Rios,10:00
+10/03/20,Jorge Enrique Vargas Acosta,19:30
+10/03/20,Jorge Eduardo Vargas Cortes,08:00
+10/03/20,Jalil Aparicio Cortazar,10:00
+10/03/20,Iran del Castillo Arciniega,19:30
+10/03/20,Heidy Ceron Islas,20:30
+10/03/20,Hector Adrian Hernandez Segura,17:30
+10/03/20,Gustavo Aparicio Cortazar,19:30
+10/03/20,Guadalupe Myriam Romero Gomez,08:00
+10/03/20,Gibran Aparicio Cortazar,19:30
+10/03/20,Gaston Ceron Munoz,06:00
+10/03/20,Gabriela Morales Mendez,08:00
+10/03/20,Felipe Ochoa Velasco,18:30
+10/03/20,Felipe Ochoa Velasco,18:30
+10/03/20,Felipe Ochoa Velasco,17:30
+10/03/20,Fabiola Hernandez Escudero,07:00
+10/03/20,Ernesto Gonzalez de la Cruz,09:00
+10/03/20,Elvia Cortazar Martinez,19:30
+10/03/20,Elba Zuzely Vizcaya Barrera,10:00
+10/03/20,Elba Barrera Hernandez,09:00
+10/03/20,Don Beto,09:00
+10/03/20,Diana Jimena Ramirez Ceron,20:30
+10/03/20,Deyanira Perez Hernandez,17:30
+10/03/20,Danya Sanchez Omana,17:30
+10/03/20,Claudia Camacho Carreggio,06:00
+10/03/20,Cesar Israel Acosta Arias,18:30
+10/03/20,Cesar Israel Acosta Arias,18:30
+10/03/20,Carla Guzman Illescas,06:00
+10/03/20,Berenice Alfaro Ponce,20:30
+10/03/20,Axel Ishac Licona Calderon,18:30
+10/03/20,Axel Ishac Licona Calderon,18:30
+10/03/20,Ariadna Pineiro Acosta,17:30
+10/03/20,Angeles Zeydel Olivares,19:30
+10/03/20,Angel Zaid Cruz Olivarez,19:30
+10/03/20,Alma Thais Godinez Garrido,10:00
+10/03/20,Alejandro Martinez Rodriguez,10:00
+10/03/20,Alba Leticia Badillo Ramirez,10:00
+11/03/20,Zoe Bello Alfaro,20:30
+11/03/20,Zoe Bello Alfaro,19:30
+11/03/20,Zaira Sanchez Omana,17:30
+11/03/20,Vianney Alberto Melo Rios,08:00
+11/03/20,Tomas Adrian Reyes Gutierrez,10:00
+11/03/20,Sergio Rogelio Perez Ramirez,20:30
+11/03/20,Sandra Karina Tapia Navarrete,09:00
+11/03/20,Regina Rojas Crespo,19:30
+11/03/20,Raciel Edmundo Escudero Diaz,06:00
+11/03/20,Pablo Manuel Gayosso Chavez,10:00
+11/03/20,Oscar Nashiel Gonzalez Lara,10:00
+11/03/20,Oscar Duran Soto,18:30
+11/03/20,Octavio Montano Mendoza,18:30
+11/03/20,Norma Aida Pineiro Acosta,18:30
+11/03/20,Nathan Mauricio Flores Ponce,09:00
+11/03/20,Naoli Alfaro Ponce,19:30
+11/03/20,Melissa Azpeitia Hernandez,07:00
+11/03/20,Mayra Anay Avila Martinez,08:00
+11/03/20,Mayra Alejandra Tovar Gonzalez,18:30
+11/03/20,Mario Villarreal Mares,18:30
+11/03/20,Mario Alberto Mendoza Pineiro,18:30
+11/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+11/03/20,Maria Fernanda Alfaro Gonzalez,10:00
+11/03/20,Maria Esther Hernandez Diaz,20:30
+11/03/20,Maria Concepcion Avila Martinez,09:00
+11/03/20,Marco Antonio Lozada Copca,06:00
+11/03/20,Marco Antonio Banos Rubio,07:00
+11/03/20,Luis David Cruz Olivares,19:30
+11/03/20,Luis Antonio Roldan Bautista,06:00
+11/03/20,Luis Alejandro Cortes Rodriguez,19:30
+11/03/20,Luis Alejandro Cortes Rodriguez,18:30
+11/03/20,Lucero Perez Chequer,09:00
+11/03/20,Luba Miriam Laski Cobarruvias,20:30
+11/03/20,Kaj Van Son,09:00
+11/03/20,Julio Cesar Hernandez Velasco,08:00
+11/03/20,Juan Francisco Bello Jardines,20:30
+11/03/20,Juan Francisco Bello Jardines,19:30
+11/03/20,Jose Luis Marin Gonzalez,06:00
+11/03/20,Jose Juan Aviles Abrego,10:00
+11/03/20,Jose Daniel Perez Nunez,19:30
+11/03/20,Jose Daniel Garcia Rios,10:00
+11/03/20,Jorge Enrique Vargas Acosta,10:00
+11/03/20,Jalil Aparicio Cortazar,10:00
+11/03/20,Gustavo Aparicio Cortazar,18:30
+11/03/20,Guadalupe Myriam Romero Gomez,08:00
+11/03/20,Gibran Aparicio Cortazar,18:30
+11/03/20,Gaston Ceron Munoz,06:00
+11/03/20,Gabriela Morales Mendez,08:00
+11/03/20,Felipe Ochoa Velasco,17:30
+11/03/20,Fabiola Hernandez Escudero,07:00
+11/03/20,Ernesto Gonzalez de la Cruz,09:00
+11/03/20,Elvia Cortazar Martinez,18:30
+11/03/20,Eleazar Azpeitia Hernandez,07:00
+11/03/20,Eduardo Gonzalez Suarez,08:00
+11/03/20,Eduardo Garcia Gomez,20:30
+11/03/20,Dulce Alheli Torres Rodriguez,09:00
+11/03/20,Diana Jimena Ramirez Ceron,20:30
+11/03/20,Deyanira Perez Hernandez,17:30
+11/03/20,Danya Sanchez Omana,17:30
+11/03/20,Claudia Camacho Carreggio,06:00
+11/03/20,Carla Guzman Illescas,06:00
+11/03/20,Berenice Alfaro Ponce,20:30
+11/03/20,Berenice Alfaro Ponce,19:30
+11/03/20,Axel Ishac Licona Calderon,20:30
+11/03/20,Angeles Zeydel Olivares,19:30
+11/03/20,Angel Zaid Cruz Olivarez,20:30
+11/03/20,Angel Zaid Cruz Olivarez,19:30
+11/03/20,Andrea Cortes Barroeta,19:30
+11/03/20,Alma Thais Godinez Garrido,10:00
+11/03/20,Alba Leticia Badillo Ramirez,20:30
+11/03/20,Aida Hernandez Ramirez,07:00
+11/03/20,Adolfo Miguel Pontigo Tovar,10:00
+12/03/20,Zoe Bello Alfaro,20:30
+12/03/20,Zaira Sanchez Omana,17:30
+12/03/20,Victor Manuel Lopez Medina,08:00
+12/03/20,Vianney Alberto Melo Rios,08:00
+12/03/20,Ulises Alan Carrenno Mejia,06:00
+12/03/20,Regina Rojas Crespo,20:30
+12/03/20,Raciel Edmundo Escudero Diaz,06:00
+12/03/20,Oscar Nashiel Gonzalez Lara,17:30
+12/03/20,Oscar Duran Soto,18:30
+12/03/20,Octavio Montano Mendoza,17:30
+12/03/20,Norma Aida Pineiro Acosta,17:30
+12/03/20,Naoli Alfaro Ponce,20:30
+12/03/20,Melissa Azpeitia Hernandez,06:00
+12/03/20,Mayra Alejandra Tovar Gonzalez,17:30
+12/03/20,Mario Villarreal Mares,19:30
+12/03/20,Mario Villarreal Mares,18:30
+12/03/20,Mario Alberto Mendoza Pineiro,17:30
+12/03/20,Mariana Camacho Ortega,10:00
+12/03/20,Mariana Berenice Gonzalez Garrido,19:30
+12/03/20,Maria Teresa de Jesus Barroeta Sanchez,20:30
+12/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+12/03/20,Maria Evodia Rios Castaneda,17:30
+12/03/20,Maria Esther Hernandez Diaz,19:30
+12/03/20,Luis David Cruz Olivares,19:30
+12/03/20,Luis Antonio Roldan Bautista,06:00
+12/03/20,Luis Alejandro Cortes Rodriguez,19:30
+12/03/20,Luis Alejandro Cortes Rodriguez,18:30
+12/03/20,Luba Miriam Laski Cobarruvias,19:30
+12/03/20,Luba Miriam Laski Cobarruvias,18:30
+12/03/20,Julio Alfredo Cornejo Grimaldo,06:00
+12/03/20,Juan Francisco Bello Jardines,20:30
+12/03/20,Jose Manuel Salazar Rodriguez,07:00
+12/03/20,Jose Luis Marin Gonzalez,06:00
+12/03/20,Jose Juan Aviles Abrego,10:00
+12/03/20,Jose Daniel Perez Nunez,20:30
+12/03/20,Jose Daniel Perez Nunez,10:00
+12/03/20,Jose Daniel Perez Nunez,09:00
+12/03/20,Jose Daniel Garcia Rios,10:00
+12/03/20,Itzel Martinez Rocha,08:00
+12/03/20,Iran del Castillo Arciniega,20:30
+12/03/20,Iran del Castillo Arciniega,19:30
+12/03/20,Hector Adrian Hernandez Segura,17:30
+12/03/20,Guadalupe Myriam Romero Gomez,08:00
+12/03/20,Gibran Aparicio Cortazar,20:30
+12/03/20,Gaston Ceron Munoz,06:00
+12/03/20,Gabriela Morales Mendez,08:00
+12/03/20,Felipe Ochoa Velasco,17:30
+12/03/20,Fabiola Hernandez Escudero,07:00
+12/03/20,Elvia Cortazar Martinez,20:30
+12/03/20,Eleazar Azpeitia Hernandez,06:00
+12/03/20,Elba Barrera Hernandez,09:00
+12/03/20,Eduardo Gonzalez Suarez,08:00
+12/03/20,Dulce Alheli Torres Rodriguez,09:00
+12/03/20,Don Beto,09:00
+12/03/20,Deyanira Perez Hernandez,17:30
+12/03/20,Danya Sanchez Omana,17:30
+12/03/20,Claudia Camacho Carreggio,06:00
+12/03/20,Cesar Israel Acosta Arias,06:00
+12/03/20,Carla Guzman Illescas,06:00
+12/03/20,Candy Nohemi Calderon Chavarria,17:30
+12/03/20,Berenice Alfaro Ponce,20:30
+12/03/20,Axel Ishac Licona Calderon,19:30
+12/03/20,Axel Ishac Licona Calderon,18:30
+12/03/20,Ariadna Pineiro Acosta,17:30
+12/03/20,Angeles Zeydel Olivares,20:30
+12/03/20,Angeles Zeydel Olivares,19:30
+12/03/20,Angel Zaid Cruz Olivarez,20:30
+12/03/20,Angel Zaid Cruz Olivarez,19:30
+12/03/20,Alicia Chavarria Lopez,08:00
+12/03/20,Alejandro Martinez Rodriguez,10:00
+12/03/20,Alejandro Martinez Rodriguez,09:00
+12/03/20,Alba Leticia Badillo Ramirez,10:00
+12/03/20,Aida Hernandez Ramirez,06:00
+13/03/20,Zoe Bello Alfaro,19:30
+13/03/20,Ximena Shady Godinez Garrido,10:00
+13/03/20,Vianney Alberto Melo Rios,08:00
+13/03/20,Regina Rojas Crespo,19:30
+13/03/20,Raul Duran Soto,10:00
+13/03/20,Raciel Edmundo Escudero Diaz,06:00
+13/03/20,Pablo Manuel Gayosso Chavez,09:00
+13/03/20,Pablo Manuel Gayosso Chavez,07:00
+13/03/20,Oscar Nashiel Gonzalez Lara,10:00
+13/03/20,Norma Aida Pineiro Acosta,19:30
+13/03/20,Naoli Alfaro Ponce,19:30
+13/03/20,Melissa Azpeitia Hernandez,07:00
+13/03/20,Mario Villarreal Mares,17:30
+13/03/20,Maribel Delgado,09:00
+13/03/20,Maria Concepcion Avila Martinez,08:00
+13/03/20,Luis Antonio Roldan Bautista,06:00
+13/03/20,Luba Miriam Laski Cobarruvias,17:30
+13/03/20,Jose Manuel Salazar Rodriguez,07:00
+13/03/20,Jose Luis Marin Gonzalez,06:00
+13/03/20,Jose Daniel Garcia Rios,10:00
+13/03/20,Jorge Enrique Vargas Acosta,18:30
+13/03/20,Jalil Aparicio Cortazar,10:00
+13/03/20,Iran del Castillo Arciniega,06:00
+13/03/20,Hector Adrian Hernandez Segura,17:30
+13/03/20,Gustavo Aparicio Cortazar,18:30
+13/03/20,Gibran Aparicio Cortazar,19:30
+13/03/20,Gaston Ceron Munoz,06:00
+13/03/20,Gabriela Morales Mendez,08:00
+13/03/20,Felipe Ochoa Velasco,17:30
+13/03/20,Fabiola Hernandez Escudero,07:00
+13/03/20,Elvia Cortazar Martinez,18:30
+13/03/20,Eleazar Azpeitia Hernandez,07:00
+13/03/20,Elba Zuzely Vizcaya Barrera,10:00
+13/03/20,Daniel Morales Castillo,07:00
+13/03/20,Cristal Torres Torres,07:00
+13/03/20,Claudia Camacho Carreggio,06:00
+13/03/20,Cesar Israel Acosta Arias,18:30
+13/03/20,Carla Guzman Illescas,06:00
+13/03/20,Candy Nohemi Calderon Chavarria,19:30
+13/03/20,Berenice Alfaro Ponce,19:30
+13/03/20,Axel Ishac Licona Calderon,17:30
+13/03/20,Ariadna Pineiro Acosta,19:30
+13/03/20,Alma Thais Godinez Garrido,10:00
+13/03/20,Alba Leticia Badillo Ramirez,10:00
+13/03/20,Alba Leticia Badillo Ramirez,09:00
+13/03/20,Aida Hernandez Ramirez,07:00
+13/03/20,Adolfo Miguel Pontigo Tovar,10:00
+14/03/20,Pablo Manuel Gayosso Chavez,20:30
+14/03/20,Mario Villarreal Mares,20:30
+14/03/20,Maria Esther Hernandez Diaz,20:30
+14/03/20,Marco Antonio Lozada Copca,07:30
+14/03/20,Luis Antonio Roldan Bautista,07:30
+14/03/20,Luba Miriam Laski Cobarruvias,20:30
+14/03/20,Jose Manuel Gachuz Moreno,20:30
+14/03/20,Joel Ramirez Ortega,20:30
+14/03/20,Jalil Aparicio Cortazar,10:30
+14/03/20,Gustavo Aparicio Cortazar,10:30
+14/03/20,Gibran Aparicio Cortazar,10:30
+14/03/20,Elba Zuzely Vizcaya Barrera,10:30
+14/03/20,Cesar Israel Acosta Arias,07:30
+14/03/20,Axel Ishac Licona Calderon,20:30
+14/03/20,Alma Thais Godinez Garrido,10:30
+14/03/20,Adolfo Miguel Pontigo Tovar,10:30
+16/03/20,Pablo Manuel Gayosso Chavez,09:00
+16/03/20,Oscar Nashiel Gonzalez Lara,10:00
+16/03/20,Orlando Jair Lopez Santiago,10:00
+16/03/20,Mayra Anay Avila Martinez,08:00
+16/03/20,Mario Villarreal Mares,09:00
+16/03/20,Maria Esther Hernandez Diaz,09:00
+16/03/20,Maria Concepcion Avila Martinez,08:00
+16/03/20,Marco Antonio Lozada Copca,08:00
+16/03/20,Lucero Perez Chequer,09:00
+16/03/20,Kaj Van Son,09:00
+16/03/20,Jose Manuel Gachuz Moreno,09:00
+16/03/20,Jose Luis Marin Gonzalez,08:00
+16/03/20,Jose Juan Aviles Abrego,10:00
+16/03/20,Jose Daniel Perez Nunez,08:00
+16/03/20,Jalil Aparicio Cortazar,10:00
+16/03/20,Gustavo Aparicio Cortazar,10:00
+16/03/20,Gibran Aparicio Cortazar,10:00
+16/03/20,Fabiola Hernandez Escudero,08:00
+16/03/20,Elba Zuzely Vizcaya Barrera,09:00
+16/03/20,Daniel Morales Castillo,08:00
+16/03/20,Claudia Camacho Carreggio,08:00
+16/03/20,Alejandro Martinez Rodriguez,10:00
+16/03/20,Adolfo Miguel Pontigo Tovar,10:00
+17/03/20,Victor Manuel Lopez Medina,08:00
+17/03/20,Sandra Karina Tapia Navarrete,09:00
+17/03/20,Regina Rojas Crespo,20:30
+17/03/20,Raul Duran Soto,10:00
+17/03/20,Raciel Edmundo Escudero Diaz,06:00
+17/03/20,Pablo Manuel Gayosso Chavez,08:00
+17/03/20,Oscar Nashiel Gonzalez Lara,17:30
+17/03/20,Orlando Jair Lopez Santiago,19:30
+17/03/20,Naoli Alfaro Ponce,20:30
+17/03/20,Melissa Azpeitia Hernandez,07:00
+17/03/20,Melissa Azpeitia Hernandez,06:00
+17/03/20,Mayra Anay Avila Martinez,08:00
+17/03/20,Mario Villarreal Mares,19:30
+17/03/20,Mario Villarreal Mares,18:30
+17/03/20,Mariana Berenice Gonzalez Garrido,20:30
+17/03/20,Mariana Berenice Gonzalez Garrido,19:30
+17/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+17/03/20,Maria Fernanda Alfaro Gonzalez,18:30
+17/03/20,Maria Esther Hernandez Diaz,19:30
+17/03/20,Maria Concepcion Avila Martinez,08:00
+17/03/20,Magali Citlalli Reyes Garcia,18:30
+17/03/20,Luis Alejandro Cortes Rodriguez,19:30
+17/03/20,Luis Alejandro Cortes Rodriguez,18:30
+17/03/20,Luba Miriam Laski Cobarruvias,18:30
+17/03/20,Leonardo Restrepo Munoz,09:00
+17/03/20,Juan Francisco Bello Jardines,20:30
+17/03/20,Jose Manuel Gachuz Moreno,10:00
+17/03/20,Jose Luis Marin Gonzalez,06:00
+17/03/20,Jose Eduardo Gonzalez Romero,08:00
+17/03/20,Jose Daniel Perez Nunez,09:00
+17/03/20,Jose Daniel Garcia Rios,10:00
+17/03/20,Jalil Aparicio Cortazar,10:00
+17/03/20,Iran del Castillo Arciniega,19:30
+17/03/20,Heidy Ceron Islas,20:30
+17/03/20,Hector Adrian Hernandez Segura,17:30
+17/03/20,Gustavo Aparicio Cortazar,19:30
+17/03/20,Guadalupe Myriam Romero Gomez,08:00
+17/03/20,Gaston Ceron Munoz,06:00
+17/03/20,Felipe Ochoa Velasco,07:00
+17/03/20,Fabiola Hernandez Escudero,07:00
+17/03/20,Ernesto Gonzalez de la Cruz,09:00
+17/03/20,Elvia Cortazar Martinez,19:30
+17/03/20,Elba Zuzely Vizcaya Barrera,10:00
+17/03/20,Efrain Sanchez Becerril,18:30
+17/03/20,Diana Jimena Ramirez Ceron,20:30
+17/03/20,Deyanira Perez Hernandez,08:00
+17/03/20,Danya Sanchez Omana,17:30
+17/03/20,Daniel Morales Castillo,07:00
+17/03/20,Claudia Camacho Carreggio,06:00
+17/03/20,Cesar Israel Acosta Arias,07:00
+17/03/20,Cesar Israel Acosta Arias,06:00
+17/03/20,Carolina Alfaro Gonzalez,18:30
+17/03/20,Carla Guzman Illescas,06:00
+17/03/20,Berenice Alfaro Ponce,20:30
+17/03/20,Axel Ishac Licona Calderon,18:30
+17/03/20,Alma Thais Godinez Garrido,10:00
+17/03/20,Alicia Chavarria Lopez,08:00
+17/03/20,Alejandro Martinez Rodriguez,10:00
+17/03/20,Alejandro Martinez Rodriguez,09:00
+17/03/20,Alba Leticia Badillo Ramirez,10:00
+17/03/20,Aida Hernandez Ramirez,07:00
+17/03/20,Aida Hernandez Ramirez,06:00
+17/03/20,Adolfo Miguel Pontigo Tovar,10:00
+18/03/20,Ximena Shady Godinez Garrido,10:00
+18/03/20,Victor Manuel Lopez Medina,08:00
+18/03/20,Raul Duran Soto,10:00
+18/03/20,Raul Daen Ramirez Rodriguez,09:00
+18/03/20,Pablo Manuel Gayosso Chavez,08:00
+18/03/20,Oscar Nashiel Gonzalez Lara,10:00
+18/03/20,Orlando Jair Lopez Santiago,10:00
+18/03/20,Nathan Mauricio Flores Ponce,09:00
+18/03/20,Naoli Alfaro Ponce,19:30
+18/03/20,Mario Villarreal Mares,19:30
+18/03/20,Mario Villarreal Mares,17:30
+18/03/20,Mario Alberto Mendoza Pineiro,19:30
+18/03/20,Maria Teresa de Jesus Barroeta Sanchez,20:30
+18/03/20,Maria Esther Hernandez Diaz,20:30
+18/03/20,Maria Concepcion Avila Martinez,08:00
+18/03/20,Marco Antonio Banos Rubio,07:00
+18/03/20,Magali Citlalli Reyes Garcia,18:30
+18/03/20,Luis Alejandro Cortes Rodriguez,20:30
+18/03/20,Luba Miriam Laski Cobarruvias,20:30
+18/03/20,Leonardo Restrepo Munoz,10:00
+18/03/20,Julio Cesar Hernandez Velasco,08:00
+18/03/20,Juan Francisco Bello Jardines,19:30
+18/03/20,Jose Manuel Gachuz Moreno,19:30
+18/03/20,Jose Manuel Gachuz Moreno,18:30
+18/03/20,Jose Luis Marin Gonzalez,06:00
+18/03/20,Jose Daniel Perez Nunez,19:30
+18/03/20,Jose Daniel Perez Nunez,18:30
+18/03/20,Heidy Ceron Islas,20:30
+18/03/20,Gustavo Aparicio Cortazar,18:30
+18/03/20,Guadalupe Myriam Romero Gomez,08:00
+18/03/20,Gibran Aparicio Cortazar,18:30
+18/03/20,Gaston Ceron Munoz,07:00
+18/03/20,Felipe Ochoa Velasco,07:00
+18/03/20,Fabiola Hernandez Escudero,07:00
+18/03/20,Elvia Cortazar Martinez,18:30
+18/03/20,Elba Zuzely Vizcaya Barrera,10:00
+18/03/20,Diana Jimena Ramirez Ceron,20:30
+18/03/20,Deyanira Perez Hernandez,17:30
+18/03/20,Cristal Torres Torres,17:30
+18/03/20,Carla Guzman Illescas,06:00
+18/03/20,Berenice Alfaro Ponce,19:30
+18/03/20,Axel Ishac Licona Calderon,20:30
+18/03/20,Alma Thais Godinez Garrido,10:00
+18/03/20,Adolfo Miguel Pontigo Tovar,10:00
+19/03/20,Ximena Shady Godinez Garrido,10:00
+19/03/20,Maria Concepcion Avila Martinez,09:00
+19/03/20,Maria Concepcion Avila Martinez,08:00
+19/03/20,Leonardo Restrepo Munoz,10:00
+19/03/20,Guadalupe Myriam Romero Gomez,08:00
+19/03/20,Felipe Ochoa Velasco,07:00
+19/03/20,Fabiola Hernandez Escudero,07:00
+19/03/20,Elba Barrera Hernandez,09:00
+19/03/20,Don Beto,09:00
+19/03/20,Alma Thais Godinez Garrido,10:00
+19/03/20,Alba Leticia Badillo Ramirez,10:00
+20/03/20,Raciel Edmundo Escudero Diaz,06:00
+20/03/20,Mario Villarreal Mares,09:00
+20/03/20,Julio Cesar Hernandez Velasco,08:00
+20/03/20,Jose Daniel Perez Nunez,08:00
+20/03/20,Gaston Ceron Munoz,06:00
+20/03/20,Felipe Ochoa Velasco,08:00
+20/03/20,Fabiola Hernandez Escudero,07:00
+20/03/20,Claudia Camacho Carreggio,06:00
+20/03/20,Carla Guzman Illescas,06:00
+20/03/20,Alba Leticia Badillo Ramirez,10:00
+23/03/20,Zoe Bello Alfaro,18:00
+23/03/20,Yueh Molano Laorre,06:30
+23/03/20,Ximena Shady Godinez Garrido,10:00
+23/03/20,Vianney Alberto Melo Rios,08:00
+23/03/20,Valerio Ivan Islas Charolet,06:30
+23/03/20,Selma Janett Calleja Jaramillo,19:30
+23/03/20,Raul Duran Soto,10:00
+23/03/20,Raciel Edmundo Escudero Diaz,06:30
+23/03/20,Pablo Manuel Gayosso Chavez,18:00
+23/03/20,Norma Aida Pineiro Acosta,18:00
+23/03/20,Naoli Alfaro Ponce,18:00
+23/03/20,Melissa Azpeitia Hernandez,18:00
+23/03/20,Mayra Anay Avila Martinez,08:00
+23/03/20,Mario Villarreal Mares,18:00
+23/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+23/03/20,Maria Evodia Rios Castaneda,18:00
+23/03/20,Maria Esther Hernandez Diaz,18:00
+23/03/20,Maria Concepcion Avila Martinez,08:00
+23/03/20,Marco Antonio Lozada Copca,06:30
+23/03/20,Marco Antonio Banos Rubio,19:30
+23/03/20,Magali Citlalli Reyes Garcia,19:30
+23/03/20,Luis David Cruz Olivares,19:30
+23/03/20,Luis Alejandro Cortes Rodriguez,19:30
+23/03/20,Luba Miriam Laski Cobarruvias,19:30
+23/03/20,Julio Cesar Hernandez Velasco,08:00
+23/03/20,Juan Francisco Bello Jardines,18:00
+23/03/20,Jose Manuel Salazar Rodriguez,06:30
+23/03/20,Jose Daniel Perez Nunez,08:00
+23/03/20,Jose Daniel Garcia Rios,18:00
+23/03/20,Jorge Enrique Vargas Acosta,19:30
+23/03/20,Ivan Oyervides Vega,19:30
+23/03/20,Itzel Martinez Rocha,08:00
+23/03/20,Gabriela Morales Mendez,08:00
+23/03/20,Felipe Ochoa Velasco,18:00
+23/03/20,Elba Zuzely Vizcaya Barrera,10:00
+23/03/20,Efrain Sanchez Becerril,10:00
+23/03/20,Dulce Alheli Torres Rodriguez,06:30
+23/03/20,Claudia Camacho Carreggio,06:30
+23/03/20,Cesar Israel Acosta Arias,18:00
+23/03/20,Cassandra,19:30
+23/03/20,Carla Guzman Illescas,06:30
+23/03/20,Beto Vizcaya Barrera,19:30
+23/03/20,Berenice Alfaro Ponce,18:00
+23/03/20,Axel Ishac Licona Calderon,19:30
+23/03/20,Angeles Zeydel Olivares,19:30
+23/03/20,Angel Zaid Cruz Olivarez,19:30
+23/03/20,Andrea Cortes Barroeta,19:30
+23/03/20,Alma Thais Godinez Garrido,10:00
+23/03/20,Aida Hernandez Ramirez,18:00
+23/03/20,Adolfo Miguel Pontigo Tovar,10:00
+24/03/20,Zoe Bello Alfaro,10:00
+24/03/20,Yueh Molano Laorre,06:30
+24/03/20,Ximena Shady Godinez Garrido,10:00
+24/03/20,Vianney Alberto Melo Rios,08:00
+24/03/20,Raul Duran Soto,08:00
+24/03/20,Raciel Edmundo Escudero Diaz,06:30
+24/03/20,Norma Aida Pineiro Acosta,18:00
+24/03/20,Naoli Alfaro Ponce,10:00
+24/03/20,Melissa Azpeitia Hernandez,08:00
+24/03/20,Mayra Anay Avila Martinez,08:00
+24/03/20,Mario Villarreal Mares,18:00
+24/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+24/03/20,Maria Esther Hernandez Diaz,18:00
+24/03/20,Maria Concepcion Avila Martinez,08:00
+24/03/20,Marco Antonio Lozada Copca,06:30
+24/03/20,Marco Antonio Banos Rubio,19:30
+24/03/20,Magali Citlalli Reyes Garcia,19:30
+24/03/20,Luis David Cruz Olivares,19:30
+24/03/20,Luis Alejandro Cortes Rodriguez,19:30
+24/03/20,Luba Miriam Laski Cobarruvias,19:30
+24/03/20,Juan Francisco Bello Jardines,10:00
+24/03/20,Jose Manuel Salazar Rodriguez,06:30
+24/03/20,Jose Daniel Perez Nunez,08:00
+24/03/20,Ivan Oyervides Vega,19:30
+24/03/20,Gaston Ceron Munoz,06:30
+24/03/20,Gabriela Morales Mendez,08:00
+24/03/20,Felipe Ochoa Velasco,18:00
+24/03/20,Elba Zuzely Vizcaya Barrera,18:00
+24/03/20,Claudia Camacho Carreggio,06:30
+24/03/20,Cesar Israel Acosta Arias,08:00
+24/03/20,Carla Guzman Illescas,06:30
+24/03/20,Berenice Alfaro Ponce,10:00
+24/03/20,Axel Ishac Licona Calderon,19:30
+24/03/20,Angeles Zeydel Olivares,19:30
+24/03/20,Angel Zaid Cruz Olivarez,19:30
+24/03/20,Andrea Cortes Barroeta,19:30
+24/03/20,Alma Thais Godinez Garrido,10:00
+24/03/20,Alejandro Martinez Rodriguez,10:00
+24/03/20,Aida Hernandez Ramirez,08:00
+24/03/20,Adolfo Miguel Pontigo Tovar,10:00
+25/03/20,Zoe Bello Alfaro,18:00
+25/03/20,Yueh Molano Laorre,06:30
+25/03/20,Ximena Shady Godinez Garrido,10:00
+25/03/20,Vianney Alberto Melo Rios,08:00
+25/03/20,Valerio Ivan Islas Charolet,06:30
+25/03/20,Selma Janett Calleja Jaramillo,19:30
+25/03/20,Raciel Edmundo Escudero Diaz,06:30
+25/03/20,Pablo Manuel Gayosso Chavez,18:00
+25/03/20,Oscar Duran Soto,19:30
+25/03/20,Naoli Alfaro Ponce,18:00
+25/03/20,Melissa Azpeitia Hernandez,08:00
+25/03/20,Mayra Anay Avila Martinez,08:00
+25/03/20,Mario Villarreal Mares,18:00
+25/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+25/03/20,Maria Esther Hernandez Diaz,18:00
+25/03/20,Maria Concepcion Avila Martinez,08:00
+25/03/20,Marco Antonio Lozada Copca,06:30
+25/03/20,Marco Antonio Banos Rubio,19:30
+25/03/20,Magali Citlalli Reyes Garcia,19:30
+25/03/20,Luis David Cruz Olivares,19:30
+25/03/20,Luis Alejandro Cortes Rodriguez,19:30
+25/03/20,Luba Miriam Laski Cobarruvias,19:30
+25/03/20,Julio Cesar Hernandez Velasco,08:00
+25/03/20,Juan Francisco Bello Jardines,18:00
+25/03/20,Jose Daniel Garcia Rios,19:30
+25/03/20,Gaston Ceron Munoz,06:30
+25/03/20,Gabriela Morales Mendez,08:00
+25/03/20,Gabriela Barranco Mendoza,19:30
+25/03/20,Felipe Ochoa Velasco,19:30
+25/03/20,Claudia Camacho Carreggio,06:30
+25/03/20,Cesar Israel Acosta Arias,08:00
+25/03/20,Cassandra,19:30
+25/03/20,Carla Guzman Illescas,06:30
+25/03/20,Berenice Alfaro Ponce,18:00
+25/03/20,Axel Ishac Licona Calderon,19:30
+25/03/20,Angeles Zeydel Olivares,19:30
+25/03/20,Angel Zaid Cruz Olivarez,19:30
+25/03/20,Andrea Cortes Barroeta,19:30
+25/03/20,Alma Thais Godinez Garrido,10:00
+25/03/20,Alejandro Martinez Rodriguez,10:00
+25/03/20,Aida Hernandez Ramirez,08:00
+25/03/20,Adolfo Miguel Pontigo Tovar,10:00
+26/03/20,Zoe Bello Alfaro,18:00
+26/03/20,Yueh Molano Laorre,06:30
+26/03/20,Ximena Shady Godinez Garrido,10:00
+26/03/20,Vianney Alberto Melo Rios,08:00
+26/03/20,Selma Janett Calleja Jaramillo,19:30
+26/03/20,Raciel Edmundo Escudero Diaz,06:30
+26/03/20,Pablo Manuel Gayosso Chavez,18:00
+26/03/20,Naoli Alfaro Ponce,18:00
+26/03/20,Melissa Azpeitia Hernandez,08:00
+26/03/20,Mayra Anay Avila Martinez,08:00
+26/03/20,Mario Villarreal Mares,18:00
+26/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+26/03/20,Maria Esther Hernandez Diaz,18:00
+26/03/20,Maria Concepcion Avila Martinez,08:00
+26/03/20,Marco Antonio Lozada Copca,06:30
+26/03/20,Marco Antonio Banos Rubio,19:30
+26/03/20,Luis David Cruz Olivares,19:30
+26/03/20,Luis Alejandro Cortes Rodriguez,19:30
+26/03/20,Luba Miriam Laski Cobarruvias,19:30
+26/03/20,Juan Francisco Bello Jardines,18:00
+26/03/20,Jose Manuel Salazar Rodriguez,06:30
+26/03/20,Jose Daniel Perez Nunez,08:00
+26/03/20,Ivan Oyervides Vega,19:30
+26/03/20,Israel Ulises Hernandez Martinez,06:30
+26/03/20,Gaston Ceron Munoz,06:30
+26/03/20,Gabriela Morales Mendez,08:00
+26/03/20,Felipe Ochoa Velasco,18:00
+26/03/20,Elba Zuzely Vizcaya Barrera,10:00
+26/03/20,Claudia Camacho Carreggio,06:30
+26/03/20,Cesar Israel Acosta Arias,08:00
+26/03/20,Carla Guzman Illescas,06:30
+26/03/20,Berenice Alfaro Ponce,18:00
+26/03/20,Axel Ishac Licona Calderon,19:30
+26/03/20,Angeles Zeydel Olivares,19:30
+26/03/20,Angel Zaid Cruz Olivarez,19:30
+26/03/20,Andrea Cortes Barroeta,19:30
+26/03/20,Alma Thais Godinez Garrido,10:00
+26/03/20,Aida Hernandez Ramirez,08:00
+26/03/20,Adolfo Miguel Pontigo Tovar,10:00
+27/03/20,Zoe Bello Alfaro,18:00
+27/03/20,Yueh Molano Laorre,06:30
+27/03/20,Ximena Shady Godinez Garrido,10:00
+27/03/20,Vianney Alberto Melo Rios,08:00
+27/03/20,Selma Janett Calleja Jaramillo,19:30
+27/03/20,Raul Duran Soto,19:30
+27/03/20,Raciel Edmundo Escudero Diaz,06:30
+27/03/20,Pablo Manuel Gayosso Chavez,18:00
+27/03/20,Naoli Alfaro Ponce,18:00
+27/03/20,Melissa Azpeitia Hernandez,06:30
+27/03/20,Mayra Anay Avila Martinez,08:00
+27/03/20,Mario Villarreal Mares,18:00
+27/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+27/03/20,Maria Esther Hernandez Diaz,18:00
+27/03/20,Marco Antonio Lozada Copca,06:30
+27/03/20,Marco Antonio Banos Rubio,19:30
+27/03/20,Luis Alejandro Cortes Rodriguez,19:30
+27/03/20,Julio Alfredo Cornejo Grimaldo,08:00
+27/03/20,Juan Francisco Bello Jardines,18:00
+27/03/20,Jose Manuel Salazar Rodriguez,06:30
+27/03/20,Jose Daniel Perez Nunez,08:00
+27/03/20,Jalil Aparicio Cortazar,18:00
+27/03/20,Ivan Oyervides Vega,19:30
+27/03/20,Israel Ulises Hernandez Martinez,06:30
+27/03/20,Gaston Ceron Munoz,06:30
+27/03/20,Gabriela Morales Mendez,08:00
+27/03/20,Felipe Ochoa Velasco,18:00
+27/03/20,Elba Zuzely Vizcaya Barrera,10:00
+27/03/20,Claudia Camacho Carreggio,06:30
+27/03/20,Cesar Israel Acosta Arias,06:30
+27/03/20,Carla Guzman Illescas,06:30
+27/03/20,Berenice Alfaro Ponce,18:00
+27/03/20,Andrea Cortes Barroeta,19:30
+27/03/20,Alma Thais Godinez Garrido,10:00
+27/03/20,Alejandro Martinez Rodriguez,10:00
+27/03/20,Aida Hernandez Ramirez,06:30
+27/03/20,Adolfo Miguel Pontigo Tovar,10:00
+28/03/20,Raul Duran Soto,08:00
+28/03/20,Raciel Emilio Escudero Camacho,08:00
+28/03/20,Mario Villarreal Mares,09:30
+28/03/20,Marco Antonio Banos Rubio,08:00
+28/03/20,Luis Alejandro Cortes Rodriguez,08:00
+28/03/20,Jose Daniel Garcia Rios,09:30
+28/03/20,Israel Ulises Hernandez Martinez,08:00
+28/03/20,Felipe Ochoa Velasco,08:00
+28/03/20,Claudia Camacho Carreggio,08:00
+28/03/20,Andrea Cortes Barroeta,08:00
+30/03/20,Zoe Bello Alfaro,18:00
+30/03/20,Yueh Molano Laorre,06:30
+30/03/20,Ximena Shady Godinez Garrido,10:00
+30/03/20,Vianney Alberto Melo Rios,08:00
+30/03/20,Selma Janett Calleja Jaramillo,19:30
+30/03/20,Raciel Edmundo Escudero Diaz,06:30
+30/03/20,Nini,06:30
+30/03/20,Naoli Alfaro Ponce,18:00
+30/03/20,Melissa Azpeitia Hernandez,18:00
+30/03/20,Mayra Anay Avila Martinez,18:00
+30/03/20,Mario Villarreal Mares,18:00
+30/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+30/03/20,Maria Concepcion Avila Martinez,18:00
+30/03/20,Marco Antonio Lozada Copca,06:30
+30/03/20,Marco Antonio Banos Rubio,08:00
+30/03/20,Magdalena Ponce,18:00
+30/03/20,Luis David Cruz Olivares,19:30
+30/03/20,Luis Alejandro Cortes Rodriguez,19:30
+30/03/20,Luba Miriam Laski Cobarruvias,19:30
+30/03/20,Julio Cesar Hernandez Velasco,08:00
+30/03/20,Juan Francisco Bello Jardines,18:00
+30/03/20,Jose Daniel Perez Nunez,08:00
+30/03/20,Israel Ulises Hernandez Martinez,06:30
+30/03/20,Gabriela Morales Mendez,08:00
+30/03/20,Elba Zuzely Vizcaya Barrera,19:30
+30/03/20,Efrain Sanchez Becerril,10:00
+30/03/20,Claudia Camacho Carreggio,06:30
+30/03/20,Carla Guzman Illescas,06:30
+30/03/20,Candy Nohemi Calderon Chavarria,19:30
+30/03/20,Berenice Alfaro Ponce,18:00
+30/03/20,Axel Ishac Licona Calderon,19:30
+30/03/20,Angel Zaid Cruz Olivarez,19:30
+30/03/20,Andrea Cortes Barroeta,19:30
+30/03/20,Alma Thais Godinez Garrido,10:00
+30/03/20,Aida Hernandez Ramirez,18:00
+30/03/20,Adolfo Miguel Pontigo Tovar,10:00
+31/03/20,Zoe Bello Alfaro,08:00
+31/03/20,Yueh Molano Laorre,06:30
+31/03/20,Ximena Shady Godinez Garrido,10:00
+31/03/20,Vianney Alberto Melo Rios,08:00
+31/03/20,Selma Janett Calleja Jaramillo,19:30
+31/03/20,Raul Duran Soto,19:30
+31/03/20,Raciel Edmundo Escudero Diaz,06:30
+31/03/20,Naoli Alfaro Ponce,08:00
+31/03/20,Melissa Azpeitia Hernandez,06:30
+31/03/20,Mayra Anay Avila Martinez,08:00
+31/03/20,Mario Villarreal Mares,18:00
+31/03/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+31/03/20,Maria Fernanda Alfaro Gonzalez,10:00
+31/03/20,Maria Concepcion Avila Martinez,18:00
+31/03/20,Marco Antonio Lozada Copca,06:30
+31/03/20,Marco Antonio Banos Rubio,19:30
+31/03/20,Marco Antonio Banos Rubio,08:00
+31/03/20,Magali Citlalli Reyes Garcia,19:30
+31/03/20,Luis David Cruz Olivares,19:30
+31/03/20,Luis Alejandro Cortes Rodriguez,19:30
+31/03/20,Luba Miriam Laski Cobarruvias,19:30
+31/03/20,Juan Francisco Bello Jardines,08:00
+31/03/20,Jose Manuel Salazar Rodriguez,06:30
+31/03/20,Jose Daniel Perez Nunez,19:30
+31/03/20,Jose Daniel Garcia Rios,19:30
+31/03/20,Israel Ulises Hernandez Martinez,06:30
+31/03/20,Gaston Ceron Munoz,06:30
+31/03/20,Gabriela Morales Mendez,08:00
+31/03/20,Elba Zuzely Vizcaya Barrera,08:00
+31/03/20,Efrain Sanchez Becerril,10:00
+31/03/20,Claudia Camacho Carreggio,06:30
+31/03/20,Cesar Israel Acosta Arias,06:30
+31/03/20,Cassandra,08:00
+31/03/20,Carolina Alfaro Gonzalez,10:00
+31/03/20,Carla Guzman Illescas,06:30
+31/03/20,Candy Nohemi Calderon Chavarria,19:30
+31/03/20,Beto Vizcaya Barrera,19:30
+31/03/20,Berenice Alfaro Ponce,08:00
+31/03/20,Angel Zaid Cruz Olivarez,19:30
+31/03/20,Andrea Cortes Barroeta,19:30
+31/03/20,Alma Thais Godinez Garrido,10:00
+31/03/20,Alejandro Martinez Rodriguez,10:00
+31/03/20,Aida Hernandez Ramirez,06:30
+31/03/20,Adolfo Miguel Pontigo Tovar,10:00
+01/04/20,Zoe Bello Alfaro,18:00
+01/04/20,Zoe Bello Alfaro,18:00
+01/04/20,Yueh Molano Laorre,06:30
+01/04/20,Ximena Shady Godinez Garrido,10:00
+01/04/20,Vianney Alberto Melo Rios,08:00
+01/04/20,Selma Janett Calleja Jaramillo,19:30
+01/04/20,Raciel Edmundo Escudero Diaz,06:30
+01/04/20,Naoli Alfaro Ponce,18:00
+01/04/20,Naoli Alfaro Ponce,18:00
+01/04/20,Mario Villarreal Mares,18:00
+01/04/20,Mario Villarreal Mares,18:00
+01/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+01/04/20,Maria Concepcion Avila Martinez,18:00
+01/04/20,Maria Concepcion Avila Martinez,18:00
+01/04/20,Marco Antonio Lozada Copca,06:30
+01/04/20,Marco Antonio Banos Rubio,19:30
+01/04/20,Marco Antonio Banos Rubio,08:00
+01/04/20,Magdalena Ponce,18:00
+01/04/20,Luis David Cruz Olivares,19:30
+01/04/20,Karen Danae Avila Martinez,18:00
+01/04/20,Julio Cesar Hernandez Velasco,08:00
+01/04/20,Juan Francisco Bello Jardines,18:00
+01/04/20,Jose Daniel Perez Nunez,08:00
+01/04/20,Jose Daniel Garcia Rios,19:30
+01/04/20,Israel Ulises Hernandez Martinez,06:30
+01/04/20,Gaston Ceron Munoz,06:30
+01/04/20,Gabriela Morales Mendez,08:00
+01/04/20,Gabriela Barranco Mendoza,19:30
+01/04/20,Elba Barrera Hernandez,19:30
+01/04/20,Efrain Sanchez Becerril,10:00
+01/04/20,Don Beto,19:30
+01/04/20,Claudia Camacho Carreggio,06:30
+01/04/20,Carla Guzman Illescas,06:30
+01/04/20,Berenice Alfaro Ponce,18:00
+01/04/20,Berenice Alfaro Ponce,18:00
+01/04/20,Angel Zaid Cruz Olivarez,19:30
+01/04/20,Andrea Cortes Barroeta,19:30
+01/04/20,Alma Thais Godinez Garrido,10:00
+01/04/20,Alejandro Martinez Rodriguez,10:00
+01/04/20,Adolfo Miguel Pontigo Tovar,10:00
+02/04/20,Zoe Bello Alfaro,18:00
+02/04/20,Yueh Molano Laorre,06:30
+02/04/20,Ximena Shady Godinez Garrido,10:00
+02/04/20,Vianney Alberto Melo Rios,08:00
+02/04/20,Sergio Rogelio Perez Ramirez,19:30
+02/04/20,Selma Janett Calleja Jaramillo,08:00
+02/04/20,Raul Duran Soto,08:00
+02/04/20,Raciel Emilio Escudero Camacho,06:30
+02/04/20,Omar Hernandez Rojas,19:30
+02/04/20,Mayra Anay Avila Martinez,08:00
+02/04/20,Mario Villarreal Mares,18:00
+02/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+02/04/20,Maria Concepcion Avila Martinez,18:00
+02/04/20,Marco Antonio Lozada Copca,06:30
+02/04/20,Marco Antonio Banos Rubio,19:30
+02/04/20,Marco Antonio Banos Rubio,10:00
+02/04/20,Magali Citlalli Reyes Garcia,19:30
+02/04/20,Luis David Cruz Olivares,19:30
+02/04/20,Luis Alejandro Cortes Rodriguez,19:30
+02/04/20,Luba Miriam Laski Cobarruvias,19:30
+02/04/20,Juan Francisco Bello Jardines,18:00
+02/04/20,Jose Manuel Salazar Rodriguez,06:30
+02/04/20,Ivan Oyervides Vega,19:30
+02/04/20,Israel Ulises Hernandez Martinez,06:30
+02/04/20,Gaston Ceron Munoz,06:30
+02/04/20,Gabriela Morales Mendez,08:00
+02/04/20,Dulce Alheli Torres Rodriguez,08:00
+02/04/20,Claudia Camacho Carreggio,06:30
+02/04/20,Cesar Israel Acosta Arias,18:00
+02/04/20,Cassandra,10:00
+02/04/20,Carla Guzman Illescas,06:30
+02/04/20,Caridad Mendoza,19:30
+02/04/20,Candy Nohemi Calderon Chavarria,19:30
+02/04/20,Berenice Alfaro Ponce,18:00
+02/04/20,Axel Ishac Licona Calderon,19:30
+02/04/20,Angeles Zeydel Olivares,19:30
+02/04/20,Angel Zaid Cruz Olivarez,19:30
+02/04/20,Andrea Cortes Barroeta,19:30
+02/04/20,Alma Thais Godinez Garrido,10:00
+02/04/20,Adolfo Miguel Pontigo Tovar,10:00
+03/04/20,Yueh Molano Laorre,06:30
+03/04/20,Ximena Shady Godinez Garrido,10:00
+03/04/20,Sergio Rogelio Perez Ramirez,18:00
+03/04/20,Selma Janett Calleja Jaramillo,08:00
+03/04/20,Raciel Edmundo Escudero Diaz,06:30
+03/04/20,Omar Hernandez Rojas,19:30
+03/04/20,Naoli Alfaro Ponce,18:00
+03/04/20,Mayra Anay Avila Martinez,18:00
+03/04/20,Mario Villarreal Mares,18:00
+03/04/20,Maria Concepcion Avila Martinez,18:00
+03/04/20,Marco Antonio Lozada Copca,06:30
+03/04/20,Marco Antonio Banos Rubio,19:30
+03/04/20,Marco Antonio Banos Rubio,08:00
+03/04/20,Karen Danae Avila Martinez,18:00
+03/04/20,Julio Cesar Hernandez Velasco,08:00
+03/04/20,Juan Francisco Bello Jardines,18:00
+03/04/20,Jose Juan Aviles Abrego,10:00
+03/04/20,Jose Daniel Perez Nunez,08:00
+03/04/20,Israel Ulises Hernandez Martinez,06:30
+03/04/20,Gaston Ceron Munoz,06:30
+03/04/20,Gabriela Morales Mendez,08:00
+03/04/20,Efrain Sanchez Becerril,10:00
+03/04/20,Claudia Camacho Carreggio,06:30
+03/04/20,Cassandra,08:00
+03/04/20,Carla Guzman Illescas,06:30
+03/04/20,Caridad Mendoza,18:00
+03/04/20,Berenice Alfaro Ponce,18:00
+03/04/20,Andrea Cortes Barroeta,19:30
+03/04/20,Alma Thais Godinez Garrido,10:00
+03/04/20,Alejandro Martinez Rodriguez,10:00
+03/04/20,Adolfo Miguel Pontigo Tovar,10:00
+04/04/20,Raciel Edmundo Escudero Diaz,08:00
+04/04/20,Mario Villarreal Mares,09:30
+04/04/20,Maria Teresa de Jesus Barroeta Sanchez,09:30
+04/04/20,Marco Antonio Lozada Copca,08:00
+04/04/20,Luis David Cruz Olivares,08:00
+04/04/20,Luis Alejandro Cortes Rodriguez,09:30
+04/04/20,Claudia Camacho Carreggio,08:00
+04/04/20,Caridad Mendoza,09:30
+04/04/20,Angeles Zeydel Olivares,08:00
+04/04/20,Angel Zaid Cruz Olivarez,08:00
+04/04/20,Andrea Cortes Barroeta,09:30
+04/04/20,Alejandro Martinez Rodriguez,09:30
+04/04/20,Alba Leticia Badillo Ramirez,09:30
+06/04/20,Zoe Bello Alfaro,18:00
+06/04/20,Yueh Molano Laorre,06:30
+06/04/20,Ximena Shady Godinez Garrido,10:00
+06/04/20,Selma Janett Calleja Jaramillo,10:00
+06/04/20,Regina Rojas Crespo,18:00
+06/04/20,Raciel Edmundo Escudero Diaz,06:30
+06/04/20,Omar Hernandez Rojas,19:30
+06/04/20,Naoli Alfaro Ponce,18:00
+06/04/20,Mayra Anay Avila Martinez,18:00
+06/04/20,Mario Villarreal Mares,18:00
+06/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+06/04/20,Maria Evodia Rios Castaneda,19:30
+06/04/20,Maria Concepcion Avila Martinez,18:00
+06/04/20,Marco Antonio Lozada Copca,06:30
+06/04/20,Marco Antonio Banos Rubio,19:30
+06/04/20,Marco Antonio Banos Rubio,06:30
+06/04/20,Magdalena Ponce,18:00
+06/04/20,Luis David Cruz Olivares,19:30
+06/04/20,Luis Alejandro Cortes Rodriguez,19:30
+06/04/20,Leo sobrino Daniel P,18:00
+06/04/20,Karen Danae Avila Martinez,18:00
+06/04/20,Juan Francisco Bello Jardines,18:00
+06/04/20,Jose Juan Aviles Abrego,10:00
+06/04/20,Jose Daniel Garcia Rios,19:30
+06/04/20,Ivan Oyervides Vega,18:00
+06/04/20,Gaston Ceron Munoz,06:30
+06/04/20,Diego Alberto Ramirez Ceron,19:30
+06/04/20,Daniel Eduardo Ramos Cortes,18:00
+06/04/20,Claudia Camacho Carreggio,06:30
+06/04/20,Cassandra,19:30
+06/04/20,Carla Guzman Illescas,10:00
+06/04/20,Caridad Mendoza,19:30
+06/04/20,Berenice Alfaro Ponce,18:00
+06/04/20,Angeles Zeydel Olivares,19:30
+06/04/20,Angel Zaid Cruz Olivarez,19:30
+06/04/20,Andrea Cortes Barroeta,19:30
+06/04/20,Alma Thais Godinez Garrido,10:00
+06/04/20,Adolfo Miguel Pontigo Tovar,10:00
+07/04/20,Zoe Bello Alfaro,18:00
+07/04/20,Yueh Molano Laorre,06:30
+07/04/20,Ximena Shady Godinez Garrido,10:00
+07/04/20,Vianney Alberto Melo Rios,08:00
+07/04/20,Selma Janett Calleja Jaramillo,10:00
+07/04/20,Regina Rojas Crespo,18:00
+07/04/20,Raul Duran Soto,10:00
+07/04/20,Raciel Edmundo Escudero Diaz,06:30
+07/04/20,Naoli Alfaro Ponce,18:00
+07/04/20,Mario Villarreal Mares,18:00
+07/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+07/04/20,Marco Antonio Lozada Copca,06:30
+07/04/20,Marco Antonio Banos Rubio,19:30
+07/04/20,Marco Antonio Banos Rubio,08:00
+07/04/20,Magdalena Ponce,18:00
+07/04/20,Magali Citlalli Reyes Garcia,19:30
+07/04/20,Luis David Cruz Olivares,19:30
+07/04/20,Luis Alejandro Cortes Rodriguez,19:30
+07/04/20,Luba Miriam Laski Cobarruvias,19:30
+07/04/20,Juan Francisco Bello Jardines,18:00
+07/04/20,Joel Ramirez Ortega,08:00
+07/04/20,Israel Ulises Hernandez Martinez,06:30
+07/04/20,Gaston Ceron Munoz,06:30
+07/04/20,Gabriela Morales Mendez,08:00
+07/04/20,Diego Alberto Ramirez Ceron,19:30
+07/04/20,Claudia Camacho Carreggio,06:30
+07/04/20,Carla Guzman Illescas,08:00
+07/04/20,Caridad Mendoza,19:30
+07/04/20,Candy Nohemi Calderon Chavarria,19:30
+07/04/20,Berenice Alfaro Ponce,18:00
+07/04/20,Axel Ishac Licona Calderon,19:30
+07/04/20,Angeles Zeydel Olivares,19:30
+07/04/20,Angel Zaid Cruz Olivarez,19:30
+07/04/20,Andrea Cortes Barroeta,19:30
+07/04/20,Alma Thais Godinez Garrido,10:00
+07/04/20,Alejandro Martinez Rodriguez,10:00
+07/04/20,Adolfo Miguel Pontigo Tovar,10:00
+08/04/20,Zoe Bello Alfaro,18:00
+08/04/20,Yueh Molano Laorre,06:30
+08/04/20,Ximena Shady Godinez Garrido,10:00
+08/04/20,Vianney Alberto Melo Rios,08:00
+08/04/20,Selma Janett Calleja Jaramillo,08:00
+08/04/20,Regina Rojas Crespo,19:30
+08/04/20,Raul Duran Soto,10:00
+08/04/20,Omar Hernandez Rojas,19:30
+08/04/20,Naoli Alfaro Ponce,18:00
+08/04/20,Melissa Azpeitia Hernandez,08:00
+08/04/20,Mario Villarreal Mares,18:00
+08/04/20,Mario Alberto Mendoza Pineiro,18:00
+08/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+08/04/20,Maria Concepcion Avila Martinez,18:00
+08/04/20,Marco Antonio Banos Rubio,19:30
+08/04/20,Marco Antonio Banos Rubio,10:00
+08/04/20,Magali Citlalli Reyes Garcia,19:30
+08/04/20,Luis David Cruz Olivares,19:30
+08/04/20,Luis Alejandro Cortes Rodriguez,19:30
+08/04/20,Luba Miriam Laski Cobarruvias,18:00
+08/04/20,Karen Danae Avila Martinez,18:00
+08/04/20,Julio Cesar Hernandez Velasco,08:00
+08/04/20,Juan Francisco Bello Jardines,18:00
+08/04/20,Jose Manuel Gachuz Moreno,10:00
+08/04/20,Joel Ramirez Ortega,19:30
+08/04/20,Israel Ulises Hernandez Martinez,06:30
+08/04/20,Gaston Ceron Munoz,06:30
+08/04/20,Gabriela Morales Mendez,08:00
+08/04/20,Diego Alberto Ramirez Ceron,19:30
+08/04/20,Claudia Camacho Carreggio,06:30
+08/04/20,Cesar Israel Acosta Arias,08:00
+08/04/20,Cassandra,10:00
+08/04/20,Carla Guzman Illescas,08:00
+08/04/20,Candy Nohemi Calderon Chavarria,18:00
+08/04/20,Berenice Alfaro Ponce,18:00
+08/04/20,Axel Ishac Licona Calderon,18:00
+08/04/20,Angeles Zeydel Olivares,19:30
+08/04/20,Angel Zaid Cruz Olivarez,19:30
+08/04/20,Andrea Cortes Barroeta,19:30
+08/04/20,Alma Thais Godinez Garrido,10:00
+08/04/20,Aida Hernandez Ramirez,08:00
+08/04/20,Adolfo Miguel Pontigo Tovar,10:00
+09/04/20,Zoe Bello Alfaro,19:30
+09/04/20,Yueh Molano Laorre,06:30
+09/04/20,Ximena Shady Godinez Garrido,10:00
+09/04/20,Vianney Alberto Melo Rios,08:00
+09/04/20,Valerio Ivan Islas Charolet,08:00
+09/04/20,Selma Janett Calleja Jaramillo,08:00
+09/04/20,Regina Rojas Crespo,18:00
+09/04/20,Raciel Edmundo Escudero Diaz,06:30
+09/04/20,Naoli Alfaro Ponce,18:00
+09/04/20,Melissa Azpeitia Hernandez,08:00
+09/04/20,Mario Villarreal Mares,19:30
+09/04/20,Mario Villarreal Mares,18:00
+09/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+09/04/20,Maria Evodia Rios Castaneda,19:30
+09/04/20,Maria Esther Hernandez Diaz,19:30
+09/04/20,Marco Antonio Lozada Copca,06:30
+09/04/20,Marco Antonio Banos Rubio,19:30
+09/04/20,Marco Antonio Banos Rubio,10:00
+09/04/20,Magdalena Ponce,19:30
+09/04/20,Magali Citlalli Reyes Garcia,19:30
+09/04/20,Luis Alejandro Cortes Rodriguez,19:30
+09/04/20,Juan Francisco Bello Jardines,19:30
+09/04/20,Juan Francisco Bello Jardines,18:00
+09/04/20,Jose Daniel Garcia Rios,19:30
+09/04/20,Jorge Enrique Vargas Acosta,19:30
+09/04/20,Jorge Enrique Vargas Acosta,19:30
+09/04/20,Ivan Oyervides Vega,19:30
+09/04/20,Gaston Ceron Munoz,06:30
+09/04/20,Gabriela Morales Mendez,08:00
+09/04/20,Elba Zuzely Vizcaya Barrera,10:00
+09/04/20,Claudia Camacho Carreggio,06:30
+09/04/20,Cesar Israel Acosta Arias,08:00
+09/04/20,Carla Guzman Illescas,08:00
+09/04/20,Candy Nohemi Calderon Chavarria,19:30
+09/04/20,Candy Nohemi Calderon Chavarria,19:30
+09/04/20,Berenice Alfaro Ponce,19:30
+09/04/20,Berenice Alfaro Ponce,19:30
+09/04/20,Berenice Alfaro Ponce,18:00
+09/04/20,Axel Ishac Licona Calderon,19:30
+09/04/20,Andrea Cortes Barroeta,19:30
+09/04/20,Alma Thais Godinez Garrido,10:00
+09/04/20,Aida Hernandez Ramirez,08:00
+09/04/20,Adolfo Miguel Pontigo Tovar,10:00
+10/04/20,Zoe Bello Alfaro,18:00
+10/04/20,Ximena Shady Godinez Garrido,10:00
+10/04/20,Vianney Alberto Melo Rios,08:00
+10/04/20,Selma Janett Calleja Jaramillo,08:00
+10/04/20,Regina Rojas Crespo,18:00
+10/04/20,Raul Duran Soto,10:00
+10/04/20,Raciel Edmundo Escudero Diaz,08:00
+10/04/20,Omar Hernandez Rojas,19:30
+10/04/20,Naoli Alfaro Ponce,18:00
+10/04/20,Mayra Anay Avila Martinez,18:00
+10/04/20,Mario Villarreal Mares,18:00
+10/04/20,Maria Concepcion Avila Martinez,18:00
+10/04/20,Marco Antonio Banos Rubio,19:30
+10/04/20,Marco Antonio Banos Rubio,10:00
+10/04/20,Magdalena Ponce,18:00
+10/04/20,Magali Citlalli Reyes Garcia,19:30
+10/04/20,Luis David Cruz Olivares,19:30
+10/04/20,Karen Danae Avila Martinez,18:00
+10/04/20,Julio Cesar Hernandez Velasco,08:00
+10/04/20,Juan Francisco Bello Jardines,18:00
+10/04/20,Jose Daniel Garcia Rios,10:00
+10/04/20,Gaston Ceron Munoz,08:00
+10/04/20,Gabriela Morales Mendez,08:00
+10/04/20,Elba Zuzely Vizcaya Barrera,10:00
+10/04/20,Diego Alberto Ramirez Ceron,19:30
+10/04/20,Claudia Camacho Carreggio,08:00
+10/04/20,Caridad Mendoza,19:30
+10/04/20,Candy Nohemi Calderon Chavarria,19:30
+10/04/20,Berenice Alfaro Ponce,18:00
+10/04/20,Axel Ishac Licona Calderon,19:30
+10/04/20,Angeles Zeydel Olivares,19:30
+10/04/20,Angel Zaid Cruz Olivarez,19:30
+10/04/20,Alma Thais Godinez Garrido,10:00
+10/04/20,Adolfo Miguel Pontigo Tovar,10:00
+11/04/20,Sergio Rogelio Perez Ramirez,09:30
+11/04/20,Raciel Edmundo Escudero Diaz,08:00
+11/04/20,Maria Evodia Rios Castaneda,09:30
+11/04/20,Marco Antonio Lozada Copca,08:00
+11/04/20,Luis Alejandro Cortes Rodriguez,09:30
+11/04/20,Jose Daniel Garcia Rios,09:30
+11/04/20,Claudia Camacho Carreggio,08:00
+11/04/20,Cassandra,09:30
+11/04/20,Andrea Cortes Barroeta,09:30
+13/04/20,Yueh Molano Laorre,06:30
+13/04/20,Ximena Shady Godinez Garrido,10:00
+13/04/20,Vianney Alberto Melo Rios,08:00
+13/04/20,Sergio Rogelio Perez Ramirez,19:30
+13/04/20,Selma Janett Calleja Jaramillo,10:00
+13/04/20,Raul Duran Soto,19:30
+13/04/20,Raciel Edmundo Escudero Diaz,06:30
+13/04/20,Omar Hernandez Rojas,19:30
+13/04/20,Naoli Alfaro Ponce,18:00
+13/04/20,Melissa Azpeitia Hernandez,18:00
+13/04/20,Mayra Anay Avila Martinez,18:00
+13/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+13/04/20,Maria Concepcion Avila Martinez,18:00
+13/04/20,Marco Antonio Lozada Copca,06:30
+13/04/20,Marco Antonio Banos Rubio,19:30
+13/04/20,Magali Citlalli Reyes Garcia,19:30
+13/04/20,Luis David Cruz Olivares,19:30
+13/04/20,Luis Alejandro Cortes Rodriguez,19:30
+13/04/20,Luba Miriam Laski Cobarruvias,19:30
+13/04/20,Karen Danae Avila Martinez,18:00
+13/04/20,Julio Cesar Hernandez Velasco,08:00
+13/04/20,Jose Daniel Garcia Rios,19:30
+13/04/20,Ivan Oyervides Vega,18:00
+13/04/20,Gaston Ceron Munoz,06:30
+13/04/20,Gabriela Morales Mendez,08:00
+13/04/20,Elba Zuzely Vizcaya Barrera,19:30
+13/04/20,Claudia Camacho Carreggio,06:30
+13/04/20,Claudia,10:00
+13/04/20,Cesar Israel Acosta Arias,18:00
+13/04/20,Carla Guzman Illescas,06:30
+13/04/20,Caridad Mendoza,19:30
+13/04/20,Candy Nohemi Calderon Chavarria,19:30
+13/04/20,Berenice Alfaro Ponce,18:00
+13/04/20,Axel Ishac Licona Calderon,19:30
+13/04/20,Angeles Zeydel Olivares,19:30
+13/04/20,Angel Zaid Cruz Olivarez,19:30
+13/04/20,Andrea Cortes Barroeta,19:30
+13/04/20,Alma Thais Godinez Garrido,10:00
+13/04/20,Adolfo Miguel Pontigo Tovar,10:00
+14/04/20,Yueh Molano Laorre,06:30
+14/04/20,Ximena Shady Godinez Garrido,10:00
+14/04/20,Valerio Ivan Islas Charolet,06:30
+14/04/20,Selma Janett Calleja Jaramillo,08:00
+14/04/20,Raul Duran Soto,19:30
+14/04/20,Raciel Edmundo Escudero Diaz,06:30
+14/04/20,Omar Hernandez Rojas,19:30
+14/04/20,Mayra Anay Avila Martinez,19:30
+14/04/20,Mario Villarreal Mares,18:00
+14/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+14/04/20,Maria Concepcion Avila Martinez,19:30
+14/04/20,Marco Antonio Lozada Copca,06:30
+14/04/20,Marco Antonio Banos Rubio,19:30
+14/04/20,Marco Antonio Banos Rubio,08:00
+14/04/20,Magali Citlalli Reyes Garcia,19:30
+14/04/20,Luis David Cruz Olivares,19:30
+14/04/20,Luis Alejandro Cortes Rodriguez,19:30
+14/04/20,Luba Miriam Laski Cobarruvias,18:00
+14/04/20,Jose Daniel Perez Nunez,08:00
+14/04/20,Joel Ramirez Ortega,19:30
+14/04/20,Gaston Ceron Munoz,06:30
+14/04/20,Gabriela Morales Mendez,08:00
+14/04/20,Elba Zuzely Vizcaya Barrera,19:30
+14/04/20,Daniel Morales Castillo,19:30
+14/04/20,Claudia Camacho Carreggio,06:30
+14/04/20,Cesar Israel Acosta Arias,18:00
+14/04/20,Cassandra,19:30
+14/04/20,Carla Guzman Illescas,06:30
+14/04/20,Candy Nohemi Calderon Chavarria,18:00
+14/04/20,Axel Ishac Licona Calderon,18:00
+14/04/20,Angeles Zeydel Olivares,19:30
+14/04/20,Angel Zaid Cruz Olivarez,19:30
+14/04/20,Andrea Cortes Barroeta,19:30
+14/04/20,Alma Thais Godinez Garrido,10:00
+14/04/20,Alejandro Martinez Rodriguez,10:00
+14/04/20,Adolfo Miguel Pontigo Tovar,10:00
+15/04/20,Yueh Molano Laorre,06:30
+15/04/20,Ximena Shady Godinez Garrido,10:00
+15/04/20,Vianney Alberto Melo Rios,08:00
+15/04/20,Sergio Rogelio Perez Ramirez,19:30
+15/04/20,Selma Janett Calleja Jaramillo,08:00
+15/04/20,Raul Duran Soto,19:30
+15/04/20,Raciel Edmundo Escudero Diaz,06:30
+15/04/20,Omar Hernandez Rojas,19:30
+15/04/20,Naoli Alfaro Ponce,18:00
+15/04/20,Melissa Azpeitia Hernandez,08:00
+15/04/20,Mayra Anay Avila Martinez,18:00
+15/04/20,Mario Villarreal Mares,18:00
+15/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+15/04/20,Maria Concepcion Avila Martinez,18:00
+15/04/20,Marco Antonio Lozada Copca,06:30
+15/04/20,Marco Antonio Banos Rubio,10:00
+15/04/20,Magdalena Ponce,18:00
+15/04/20,Luis David Cruz Olivares,19:30
+15/04/20,Luis Alejandro Cortes Rodriguez,19:30
+15/04/20,Luba Miriam Laski Cobarruvias,18:00
+15/04/20,Julio Cesar Hernandez Velasco,08:00
+15/04/20,Juan Francisco Bello Jardines,18:00
+15/04/20,Jose Daniel Garcia Rios,10:00
+15/04/20,Joel Ramirez Ortega,19:30
+15/04/20,Israel Ulises Hernandez Martinez,06:30
+15/04/20,Gaston Ceron Munoz,06:30
+15/04/20,Gabriela Morales Mendez,08:00
+15/04/20,Elba Zuzely Vizcaya Barrera,19:30
+15/04/20,Diego Alberto Ramirez Ceron,19:30
+15/04/20,Claudia Camacho Carreggio,06:30
+15/04/20,Claudia,08:00
+15/04/20,Cesar Israel Acosta Arias,08:00
+15/04/20,Carla Guzman Illescas,06:30
+15/04/20,Caridad Mendoza,19:30
+15/04/20,Candy Nohemi Calderon Chavarria,18:00
+15/04/20,Berenice Alfaro Ponce,18:00
+15/04/20,Axel Ishac Licona Calderon,18:00
+15/04/20,Angeles Zeydel Olivares,19:30
+15/04/20,Angel Zaid Cruz Olivarez,19:30
+15/04/20,Alma Thais Godinez Garrido,10:00
+15/04/20,Adolfo Miguel Pontigo Tovar,10:00
+16/04/20,Yueh Molano Laorre,06:30
+16/04/20,Ximena Shady Godinez Garrido,10:00
+16/04/20,Vianney Alberto Melo Rios,08:00
+16/04/20,Valerio Ivan Islas Charolet,08:00
+16/04/20,Ulises Alan Carrenno Mejia,06:30
+16/04/20,Selma Janett Calleja Jaramillo,08:00
+16/04/20,Regina Rojas Crespo,18:00
+16/04/20,Raciel Edmundo Escudero Diaz,06:30
+16/04/20,Omar Hernandez Rojas,19:30
+16/04/20,Naoli Alfaro Ponce,18:00
+16/04/20,Melissa Azpeitia Hernandez,08:00
+16/04/20,Melissa Azpeitia Hernandez,06:30
+16/04/20,Mayra Anay Avila Martinez,18:00
+16/04/20,Mario Villarreal Mares,19:30
+16/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+16/04/20,Maria Concepcion Avila Martinez,18:00
+16/04/20,Marco Antonio Banos Rubio,10:00
+16/04/20,Magdalena Ponce,18:00
+16/04/20,Magali Citlalli Reyes Garcia,19:30
+16/04/20,Luis David Cruz Olivares,19:30
+16/04/20,Luis Alejandro Cortes Rodriguez,19:30
+16/04/20,Luba Miriam Laski Cobarruvias,19:30
+16/04/20,Juan Francisco Bello Jardines,18:00
+16/04/20,Jose Juan Aviles Abrego,18:00
+16/04/20,Ivan Oyervides Vega,19:30
+16/04/20,Gaston Ceron Munoz,06:30
+16/04/20,Gabriela Morales Mendez,08:00
+16/04/20,Diego Alberto Ramirez Ceron,19:30
+16/04/20,Claudia Camacho Carreggio,06:30
+16/04/20,Cesar Israel Acosta Arias,08:00
+16/04/20,Carla Guzman Illescas,06:30
+16/04/20,Candy Nohemi Calderon Chavarria,19:30
+16/04/20,Berenice Alfaro Ponce,18:00
+16/04/20,Axel Ishac Licona Calderon,19:30
+16/04/20,Angeles Zeydel Olivares,19:30
+16/04/20,Angel Zaid Cruz Olivarez,19:30
+16/04/20,Andrea Cortes Barroeta,19:30
+16/04/20,Alma Thais Godinez Garrido,10:00
+16/04/20,Aida Hernandez Ramirez,06:30
+16/04/20,Adolfo Miguel Pontigo Tovar,10:00
+17/04/20,Yueh Molano Laorre,06:30
+17/04/20,Vianney Alberto Melo Rios,08:00
+17/04/20,Valerio Ivan Islas Charolet,06:30
+17/04/20,Selma Janett Calleja Jaramillo,08:00
+17/04/20,Raciel Edmundo Escudero Diaz,06:30
+17/04/20,Omar Hernandez Rojas,19:30
+17/04/20,Naoli Alfaro Ponce,18:00
+17/04/20,Mayra Anay Avila Martinez,18:00
+17/04/20,Mario Villarreal Mares,18:00
+17/04/20,Maria Concepcion Avila Martinez,18:00
+17/04/20,Marco Antonio Lozada Copca,06:30
+17/04/20,Marco Antonio Banos Rubio,19:30
+17/04/20,Marco Antonio Banos Rubio,10:00
+17/04/20,Magdalena Ponce,18:00
+17/04/20,Luis Alejandro Cortes Rodriguez,19:30
+17/04/20,Luba Miriam Laski Cobarruvias,19:30
+17/04/20,Karen Danae Avila Martinez,18:00
+17/04/20,Julio Cesar Hernandez Velasco,08:00
+17/04/20,Juan Francisco Bello Jardines,18:00
+17/04/20,Jose Juan Aviles Abrego,10:00
+17/04/20,Joel Ramirez Ortega,19:30
+17/04/20,Gaston Ceron Munoz,06:30
+17/04/20,Gabriela Morales Mendez,08:00
+17/04/20,Diego Alberto Ramirez Ceron,19:30
+17/04/20,Claudia Camacho Carreggio,06:30
+17/04/20,Claudia,08:00
+17/04/20,Carla Guzman Illescas,06:30
+17/04/20,Candy Nohemi Calderon Chavarria,19:30
+17/04/20,Berenice Alfaro Ponce,18:00
+17/04/20,Axel Ishac Licona Calderon,19:30
+17/04/20,Alma Thais Godinez Garrido,10:00
+17/04/20,Alejandro Martinez Rodriguez,10:00
+17/04/20,Aida Hernandez Ramirez,06:30
+17/04/20,Adolfo Miguel Pontigo Tovar,10:00
+18/04/20,Raciel Edmundo Escudero Diaz,08:00
+18/04/20,Maria Teresa de Jesus Barroeta Sanchez,09:30
+18/04/20,Marco Antonio Lozada Copca,08:00
+18/04/20,Jose Juan Aviles Abrego,08:00
+18/04/20,Claudia Camacho Carreggio,08:00
+18/04/20,Caridad Mendoza,09:30
+18/04/20,Andrea Cortes Barroeta,09:30
+20/04/20,Yueh Molano Laorre,06:30
+20/04/20,Ximena Shady Godinez Garrido,10:00
+20/04/20,Vianney Alberto Melo Rios,08:00
+20/04/20,Selma Janett Calleja Jaramillo,08:00
+20/04/20,Selma Janett Calleja Jaramillo,10:00
+20/04/20,Regina Rojas Crespo,18:00
+20/04/20,Raciel Edmundo Escudero Diaz,06:30
+20/04/20,Naoli Alfaro Ponce,18:00
+20/04/20,Melissa Azpeitia Hernandez,06:30
+20/04/20,Mayra Anay Avila Martinez,18:00
+20/04/20,Maria Concepcion Avila Martinez,18:00
+20/04/20,Marco Antonio Banos Rubio,19:30
+20/04/20,Magali Citlalli Reyes Garcia,19:30
+20/04/20,Luis Alejandro Cortes Rodriguez,19:30
+20/04/20,Karen Danae Avila Martinez,18:00
+20/04/20,Julio Cesar Hernandez Velasco,08:00
+20/04/20,Juan Francisco Bello Jardines,18:00
+20/04/20,Gaston Ceron Munoz,06:30
+20/04/20,Gabriela Morales Mendez,08:00
+20/04/20,Elba Zuzely Vizcaya Barrera,19:30
+20/04/20,Diego Alberto Ramirez Ceron,19:30
+20/04/20,Claudia Camacho Carreggio,06:30
+20/04/20,Claudia,10:00
+20/04/20,Cesar Israel Acosta Arias,06:30
+20/04/20,Cassandra,19:30
+20/04/20,Candy Nohemi Calderon Chavarria,19:30
+20/04/20,Berenice Alfaro Ponce,18:00
+20/04/20,Axel Ishac Licona Calderon,19:30
+20/04/20,Alma Thais Godinez Garrido,10:00
+20/04/20,Aida Hernandez Ramirez,06:30
+20/04/20,Adolfo Miguel Pontigo Tovar,10:00
+21/04/20,Yueh Molano Laorre,06:30
+21/04/20,Ximena Shady Godinez Garrido,10:00
+21/04/20,Vianney Alberto Melo Rios,08:00
+21/04/20,Selma Janett Calleja Jaramillo,08:00
+21/04/20,Regina Rojas Crespo,19:30
+21/04/20,Raciel Edmundo Escudero Diaz,06:30
+21/04/20,Omar Hernandez Rojas,19:30
+21/04/20,Naoli Alfaro Ponce,19:30
+21/04/20,Melissa Azpeitia Hernandez,06:30
+21/04/20,Mayra Anay Avila Martinez,18:00
+21/04/20,Mario Villarreal Mares,18:00
+21/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+21/04/20,Maria Concepcion Avila Martinez,18:00
+21/04/20,Marco Antonio Banos Rubio,19:30
+21/04/20,Magali Citlalli Reyes Garcia,19:30
+21/04/20,Luis David Cruz Olivares,19:30
+21/04/20,Luis Alejandro Cortes Rodriguez,19:30
+21/04/20,Luba Miriam Laski Cobarruvias,19:30
+21/04/20,Juan Francisco Bello Jardines,19:30
+21/04/20,Ivan Oyervides Vega,19:30
+21/04/20,Gaston Ceron Munoz,06:30
+21/04/20,Gabriela Morales Mendez,08:00
+21/04/20,Diego Alberto Ramirez Ceron,19:30
+21/04/20,Claudia Camacho Carreggio,06:30
+21/04/20,Cesar Israel Acosta Arias,06:30
+21/04/20,Cassandra,19:30
+21/04/20,Caridad Mendoza,19:30
+21/04/20,Candy Nohemi Calderon Chavarria,19:30
+21/04/20,Berenice Alfaro Ponce,19:30
+21/04/20,Axel Ishac Licona Calderon,19:30
+21/04/20,Angeles Zeydel Olivares,19:30
+21/04/20,Angel Zaid Cruz Olivarez,19:30
+21/04/20,Andrea Cortes Barroeta,19:30
+21/04/20,Alma Thais Godinez Garrido,10:00
+21/04/20,Aida Hernandez Ramirez,06:30
+21/04/20,Adolfo Miguel Pontigo Tovar,10:00
+22/04/20,Ximena Shady Godinez Garrido,10:00
+22/04/20,Vianney Alberto Melo Rios,08:00
+22/04/20,Selma Janett Calleja Jaramillo,06:30
+22/04/20,Regina Rojas Crespo,10:00
+22/04/20,Raul Duran Soto,06:30
+22/04/20,Raciel Edmundo Escudero Diaz,06:30
+22/04/20,Omar Hernandez Rojas,19:30
+22/04/20,Melissa Azpeitia Hernandez,06:30
+22/04/20,Mayra Anay Avila Martinez,18:00
+22/04/20,Mario Villarreal Mares,18:00
+22/04/20,Maria Concepcion Avila Martinez,18:00
+22/04/20,Marco Antonio Lozada Copca,06:30
+22/04/20,Marco Antonio Banos Rubio,19:30
+22/04/20,Magali Citlalli Reyes Garcia,19:30
+22/04/20,Luis David Cruz Olivares,19:30
+22/04/20,Luis Alejandro Cortes Rodriguez,19:30
+22/04/20,Luba Miriam Laski Cobarruvias,18:00
+22/04/20,Karen Danae Avila Martinez,18:00
+22/04/20,Julio Cesar Hernandez Velasco,08:00
+22/04/20,Juan Francisco Bello Jardines,19:30
+22/04/20,Jose Juan Aviles Abrego,10:00
+22/04/20,Ivan Oyervides Vega,19:30
+22/04/20,Guadalupe Myriam Romero Gomez,08:00
+22/04/20,Gaston Ceron Munoz,06:30
+22/04/20,Gabriela Morales Mendez,08:00
+22/04/20,Daniela Nava Olvera,19:30
+22/04/20,Daniel Morales Castillo,19:30
+22/04/20,Claudia Camacho Carreggio,06:30
+22/04/20,Claudia,06:30
+22/04/20,Cesar Israel Acosta Arias,06:30
+22/04/20,Cassandra,19:30
+22/04/20,Carla Guzman Illescas,06:30
+22/04/20,Berenice Alfaro Ponce,19:30
+22/04/20,Axel Ishac Licona Calderon,18:00
+22/04/20,Angeles Zeydel Olivares,19:30
+22/04/20,Angel Zaid Cruz Olivarez,19:30
+22/04/20,Andrea Cortes Barroeta,19:30
+22/04/20,Alma Thais Godinez Garrido,10:00
+22/04/20,Aida Hernandez Ramirez,06:30
+22/04/20,Adolfo Miguel Pontigo Tovar,10:00
+23/04/20,Ximena Shady Godinez Garrido,10:00
+23/04/20,Selma Janett Calleja Jaramillo,06:30
+23/04/20,Regina Rojas Crespo,18:00
+23/04/20,Raciel Edmundo Escudero Diaz,06:30
+23/04/20,Omar Hernandez Rojas,19:30
+23/04/20,Naoli Alfaro Ponce,19:30
+23/04/20,Melissa Azpeitia Hernandez,06:30
+23/04/20,Mayra Anay Avila Martinez,18:00
+23/04/20,Mario Villarreal Mares,18:00
+23/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+23/04/20,Maria Concepcion Avila Martinez,18:00
+23/04/20,Marco Antonio Lozada Copca,06:30
+23/04/20,Marco Antonio Banos Rubio,19:30
+23/04/20,Marco Antonio Banos Rubio,10:00
+23/04/20,Magali Citlalli Reyes Garcia,19:30
+23/04/20,Luis David Cruz Olivares,19:30
+23/04/20,Luis Alejandro Cortes Rodriguez,19:30
+23/04/20,Juan Francisco Bello Jardines,19:30
+23/04/20,Jose Juan Aviles Abrego,10:00
+23/04/20,Joel Ramirez Ortega,19:30
+23/04/20,Gaston Ceron Munoz,06:30
+23/04/20,Gabriela Morales Mendez,08:00
+23/04/20,Diego Alberto Ramirez Ceron,19:30
+23/04/20,Claudia Camacho Carreggio,06:30
+23/04/20,Cesar Israel Acosta Arias,06:30
+23/04/20,Cassandra,19:30
+23/04/20,Carla Guzman Illescas,06:30
+23/04/20,Berenice Alfaro Ponce,19:30
+23/04/20,Angeles Zeydel Olivares,19:30
+23/04/20,Angel Zaid Cruz Olivarez,19:30
+23/04/20,Andrea Cortes Barroeta,19:30
+23/04/20,Alma Thais Godinez Garrido,10:00
+23/04/20,Aida Hernandez Ramirez,06:30
+23/04/20,Adolfo Miguel Pontigo Tovar,10:00
+24/04/20,Ximena Shady Godinez Garrido,10:00
+24/04/20,Vianney Alberto Melo Rios,08:00
+24/04/20,Selma Janett Calleja Jaramillo,08:00
+24/04/20,Regina Rojas Crespo,19:30
+24/04/20,Raciel Edmundo Escudero Diaz,06:30
+24/04/20,Naoli Alfaro Ponce,19:30
+24/04/20,Melissa Azpeitia Hernandez,06:30
+24/04/20,Mayra Anay Avila Martinez,18:00
+24/04/20,Mario Villarreal Mares,18:00
+24/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+24/04/20,Maria Concepcion Avila Martinez,18:00
+24/04/20,Marco Antonio Lozada Copca,06:30
+24/04/20,Marco Antonio Banos Rubio,19:30
+24/04/20,Luis Alejandro Cortes Rodriguez,19:30
+24/04/20,Karen Danae Avila Martinez,18:00
+24/04/20,Julio Cesar Hernandez Velasco,08:00
+24/04/20,Juan Francisco Bello Jardines,19:30
+24/04/20,Gaston Ceron Munoz,06:30
+24/04/20,Gabriela Morales Mendez,08:00
+24/04/20,Eleazar Azpeitia Hernandez,06:30
+24/04/20,Diego Alberto Ramirez Ceron,19:30
+24/04/20,Claudia Camacho Carreggio,06:30
+24/04/20,Claudia,08:00
+24/04/20,Cesar Israel Acosta Arias,06:30
+24/04/20,Cassandra,19:30
+24/04/20,Carla Guzman Illescas,06:30
+24/04/20,Berenice Alfaro Ponce,19:30
+24/04/20,Andrea Cortes Barroeta,19:30
+24/04/20,Alma Thais Godinez Garrido,10:00
+24/04/20,Aida Hernandez Ramirez,06:30
+24/04/20,Adolfo Miguel Pontigo Tovar,10:00
+25/04/20,Marco Antonio Lozada Copca,08:00
+27/04/20,Ximena Shady Godinez Garrido,10:00
+27/04/20,Vianney Alberto Melo Rios,08:00
+27/04/20,Sergio Rogelio Perez Ramirez,19:30
+27/04/20,Selma Janett Calleja Jaramillo,06:30
+27/04/20,Regina Rojas Crespo,18:00
+27/04/20,Raciel Edmundo Escudero Diaz,06:30
+27/04/20,Naoli Alfaro Ponce,19:30
+27/04/20,Mishe,10:00
+27/04/20,Melissa Azpeitia Hernandez,08:00
+27/04/20,Mayra Anay Avila Martinez,18:00
+27/04/20,Mario Villarreal Mares,19:30
+27/04/20,Maria Concepcion Avila Martinez,18:00
+27/04/20,Marco Antonio Lozada Copca,06:30
+27/04/20,Magdalena Ponce,19:30
+27/04/20,Luis David Cruz Olivares,19:30
+27/04/20,Luba Miriam Laski Cobarruvias,19:30
+27/04/20,Karen Danae Avila Martinez,18:00
+27/04/20,Julio Cesar Hernandez Velasco,08:00
+27/04/20,Juan Francisco Bello Jardines,19:30
+27/04/20,Gaston Ceron Munoz,06:30
+27/04/20,Gabriela Morales Mendez,08:00
+27/04/20,Diego Alberto Ramirez Ceron,18:00
+27/04/20,Claudia Camacho Carreggio,06:30
+27/04/20,Cesar Israel Acosta Arias,08:00
+27/04/20,Cassandra,19:30
+27/04/20,Carla Guzman Illescas,06:30
+27/04/20,Caridad Mendoza,19:30
+27/04/20,Berenice Alfaro Ponce,19:30
+27/04/20,Axel Ishac Licona Calderon,19:30
+27/04/20,Angeles Zeydel Olivares,19:30
+27/04/20,Andrea Banos Gomez,19:30
+27/04/20,Alma Thais Godinez Garrido,10:00
+27/04/20,Alejandro Martinez Rodriguez,10:00
+27/04/20,Aida Hernandez Ramirez,08:00
+27/04/20,Adolfo Miguel Pontigo Tovar,10:00
+28/04/20,Ximena Shady Godinez Garrido,10:00
+28/04/20,Selma Janett Calleja Jaramillo,10:00
+28/04/20,Raciel Edmundo Escudero Diaz,06:30
+28/04/20,Naoli Alfaro Ponce,19:30
+28/04/20,Mishe,10:00
+28/04/20,Melissa Azpeitia Hernandez,06:30
+28/04/20,Mario Villarreal Mares,19:30
+28/04/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+28/04/20,Marco Antonio Lozada Copca,06:30
+28/04/20,Marco Antonio Banos Rubio,19:30
+28/04/20,Magdalena Ponce,19:30
+28/04/20,Luis Alejandro Cortes Rodriguez,19:30
+28/04/20,Juan Francisco Bello Jardines,19:30
+28/04/20,Ivan Oyervides Vega,19:30
+28/04/20,Gaston Ceron Munoz,06:30
+28/04/20,Elba Zuzely Vizcaya Barrera,18:00
+28/04/20,Diego Alberto Ramirez Ceron,19:30
+28/04/20,Daniel Morales Castillo,10:00
+28/04/20,Claudia Camacho Carreggio,06:30
+28/04/20,Cesar Israel Acosta Arias,06:30
+28/04/20,Cassandra,19:30
+28/04/20,Carla Guzman Illescas,06:30
+28/04/20,Berenice Alfaro Ponce,19:30
+28/04/20,Angeles Zeydel Olivares,19:30
+28/04/20,Angel Zaid Cruz Olivarez,19:30
+28/04/20,Andrea Banos Gomez,19:30
+28/04/20,Alma Thais Godinez Garrido,10:00
+28/04/20,Alejandro Martinez Rodriguez,10:00
+28/04/20,Aida Hernandez Ramirez,06:30
+28/04/20,Adolfo Miguel Pontigo Tovar,10:00
+29/04/20,Zoe Bello Alfaro,19:30
+29/04/20,Ximena Shady Godinez Garrido,10:00
+29/04/20,Vianney Alberto Melo Rios,08:00
+29/04/20,Selma Janett Calleja Jaramillo,06:30
+29/04/20,Raciel Edmundo Escudero Diaz,06:30
+29/04/20,Mayra Anay Avila Martinez,18:00
+29/04/20,Mario Villarreal Mares,18:00
+29/04/20,Maria Concepcion Avila Martinez,18:00
+29/04/20,Marco Antonio Lozada Copca,06:30
+29/04/20,Marco Antonio Banos Rubio,19:30
+29/04/20,Marco Antonio Banos Rubio,08:00
+29/04/20,Magali Citlalli Reyes Garcia,19:30
+29/04/20,Luis David Cruz Olivares,19:30
+29/04/20,Luba Miriam Laski Cobarruvias,19:30
+29/04/20,Julio Cesar Hernandez Velasco,08:00
+29/04/20,Juan Francisco Bello Jardines,19:30
+29/04/20,Jose Daniel Perez Nunez,10:00
+29/04/20,Gaston Ceron Munoz,06:30
+29/04/20,Gabriela Morales Mendez,08:00
+29/04/20,Diego Alberto Ramirez Ceron,18:00
+29/04/20,Claudia Camacho Carreggio,06:30
+29/04/20,Berenice Alfaro Ponce,19:30
+29/04/20,Axel Ishac Licona Calderon,19:30
+29/04/20,Angeles Zeydel Olivares,19:30
+29/04/20,Angel Zaid Cruz Olivarez,19:30
+29/04/20,Alma Thais Godinez Garrido,10:00
+29/04/20,Adolfo Miguel Pontigo Tovar,10:00
+30/04/20,Zoe Bello Alfaro,19:30
+30/04/20,Vianney Alberto Melo Rios,08:00
+30/04/20,Selma Janett Calleja Jaramillo,06:30
+30/04/20,Regina Rojas Crespo,19:30
+30/04/20,Raciel Edmundo Escudero Diaz,06:30
+30/04/20,Naoli Alfaro Ponce,19:30
+30/04/20,Melissa Azpeitia Hernandez,06:30
+30/04/20,Mayra Anay Avila Martinez,18:00
+30/04/20,Mario Villarreal Mares,18:00
+30/04/20,Maria Concepcion Avila Martinez,18:00
+30/04/20,Marco Antonio Lozada Copca,06:30
+30/04/20,Marco Antonio Banos Rubio,08:00
+30/04/20,Magali Citlalli Reyes Garcia,19:30
+30/04/20,Karen Danae Avila Martinez,18:00
+30/04/20,Juan Francisco Bello Jardines,19:30
+30/04/20,Gaston Ceron Munoz,06:30
+30/04/20,Gabriela Morales Mendez,08:00
+30/04/20,Claudia Camacho Carreggio,06:30
+30/04/20,Cesar Israel Acosta Arias,06:30
+30/04/20,Carla Guzman Illescas,06:30
+30/04/20,Berenice Alfaro Ponce,19:30
+30/04/20,Aida Hernandez Ramirez,06:30
+30/04/20,Adolfo Miguel Pontigo Tovar,10:00
+01/05/20,Ximena Shady Godinez Garrido,10:00
+01/05/20,Regina Rojas Crespo,19:30
+01/05/20,Raul Duran Soto,10:00
+01/05/20,Raciel Edmundo Escudero Diaz,08:00
+01/05/20,Melissa Azpeitia Hernandez,08:00
+01/05/20,Mayra Anay Avila Martinez,18:00
+01/05/20,Mario Villarreal Mares,18:00
+01/05/20,Maria Concepcion Avila Martinez,18:00
+01/05/20,Marco Antonio Lozada Copca,08:00
+01/05/20,Marco Antonio Banos Rubio,19:30
+01/05/20,Luis David Cruz Olivares,19:30
+01/05/20,Luis Alejandro Cortes Rodriguez,19:30
+01/05/20,Julio Cesar Hernandez Velasco,08:00
+01/05/20,Juan Francisco Bello Jardines,19:30
+01/05/20,Elba Zuzely Vizcaya Barrera,19:30
+01/05/20,Claudia Camacho Carreggio,08:00
+01/05/20,Cesar Israel Acosta Arias,08:00
+01/05/20,Cassandra,19:30
+01/05/20,Berenice Alfaro Ponce,19:30
+01/05/20,Angel Zaid Cruz Olivarez,19:30
+01/05/20,Alma Thais Godinez Garrido,10:00
+01/05/20,Aida Hernandez Ramirez,08:00
+01/05/20,Adolfo Miguel Pontigo Tovar,10:00
+02/05/20,Marco Antonio Banos Rubio,08:00
+02/05/20,Luis Alejandro Cortes Rodriguez,09:30
+02/05/20,Claudia Camacho Carreggio,08:00
+02/05/20,Carla Guzman Illescas,08:00
+04/05/20,Zoe Bello Alfaro,19:30
+04/05/20,Ximena Shady Godinez Garrido,10:00
+04/05/20,Vianney Alberto Melo Rios,08:00
+04/05/20,Sergio Rogelio Perez Ramirez,19:30
+04/05/20,Selma Janett Calleja Jaramillo,06:30
+04/05/20,Raciel Edmundo Escudero Diaz,06:30
+04/05/20,Naoli Alfaro Ponce,19:30
+04/05/20,Melissa Azpeitia Hernandez,06:30
+04/05/20,Mario Villarreal Mares,18:00
+04/05/20,Maria Concepcion Avila Martinez,18:00
+04/05/20,Marco Antonio Banos Rubio,19:30
+04/05/20,Luis Alejandro Cortes Rodriguez,19:30
+04/05/20,Luba Miriam Laski Cobarruvias,19:30
+04/05/20,Karen Danae Avila Martinez,18:00
+04/05/20,Julio Cesar Hernandez Velasco,08:00
+04/05/20,Juan Francisco Bello Jardines,19:30
+04/05/20,Joel Ramirez Ortega,19:30
+04/05/20,Gaston Ceron Munoz,06:30
+04/05/20,Gabriela Morales Mendez,08:00
+04/05/20,Diego Alberto Ramirez Ceron,18:00
+04/05/20,Claudia Camacho Carreggio,06:30
+04/05/20,Cesar Israel Acosta Arias,06:30
+04/05/20,Carla Guzman Illescas,06:30
+04/05/20,Caridad Mendoza,19:30
+04/05/20,Berenice Alfaro Ponce,19:30
+04/05/20,Axel Ishac Licona Calderon,19:30
+04/05/20,Angel Zaid Cruz Olivarez,19:30
+04/05/20,Alma Thais Godinez Garrido,10:00
+04/05/20,Aida Hernandez Ramirez,06:30
+04/05/20,Adolfo Miguel Pontigo Tovar,10:00
+05/05/20,Zoe Bello Alfaro,19:30
+05/05/20,Ximena Shady Godinez Garrido,10:00
+05/05/20,Selma Janett Calleja Jaramillo,06:30
+05/05/20,Regina Rojas Crespo,18:00
+05/05/20,Raciel Edmundo Escudero Diaz,06:30
+05/05/20,Naoli Alfaro Ponce,19:30
+05/05/20,Melissa Azpeitia Hernandez,06:30
+05/05/20,Mayra Anay Avila Martinez,18:00
+05/05/20,Mario Villarreal Mares,19:30
+05/05/20,Maria Concepcion Avila Martinez,18:00
+05/05/20,Marco Antonio Banos Rubio,10:00
+05/05/20,Magdalena Ponce,19:30
+05/05/20,Luis Alejandro Cortes Rodriguez,19:30
+05/05/20,Juan Francisco Bello Jardines,19:30
+05/05/20,Ivan Oyervides Vega,19:30
+05/05/20,Gaston Ceron Munoz,06:30
+05/05/20,Claudia Camacho Carreggio,06:30
+05/05/20,Cesar Israel Acosta Arias,06:30
+05/05/20,Carla Guzman Illescas,06:30
+05/05/20,Caridad Mendoza,19:30
+05/05/20,Berenice Alfaro Ponce,19:30
+05/05/20,Angeles Zeydel Olivares,19:30
+05/05/20,Angel Zaid Cruz Olivarez,19:30
+05/05/20,Andrea Cortes Barroeta,19:30
+05/05/20,Alma Thais Godinez Garrido,10:00
+05/05/20,Aida Hernandez Ramirez,06:30
+05/05/20,Adolfo Miguel Pontigo Tovar,10:00
+06/05/20,Zoe Bello Alfaro,19:30
+06/05/20,Ximena Shady Godinez Garrido,10:00
+06/05/20,Vianney Alberto Melo Rios,18:00
+06/05/20,Selma Janett Calleja Jaramillo,06:30
+06/05/20,Regina Rojas Crespo,19:30
+06/05/20,Raul Duran Soto,18:00
+06/05/20,Raciel Edmundo Escudero Diaz,06:30
+06/05/20,Mayra Anay Avila Martinez,18:00
+06/05/20,Mario Villarreal Mares,18:00
+06/05/20,Maria Concepcion Avila Martinez,18:00
+06/05/20,Marco Antonio Lozada Copca,06:30
+06/05/20,Marco Antonio Banos Rubio,19:30
+06/05/20,Marco Antonio Banos Rubio,18:00
+06/05/20,Luis Alejandro Cortes Rodriguez,19:30
+06/05/20,Karen Danae Avila Martinez,18:00
+06/05/20,Julio Cesar Hernandez Velasco,18:00
+06/05/20,Juan Francisco Bello Jardines,19:30
+06/05/20,Joel Ramirez Ortega,19:30
+06/05/20,Gaston Ceron Munoz,06:30
+06/05/20,Gabriela Morales Mendez,18:00
+06/05/20,Diego Alberto Ramirez Ceron,18:00
+06/05/20,Claudia Camacho Carreggio,06:30
+06/05/20,Carla Guzman Illescas,06:30
+06/05/20,Berenice Alfaro Ponce,19:30
+06/05/20,Andrea Cortes Barroeta,19:30
+06/05/20,Alma Thais Godinez Garrido,10:00
+06/05/20,Aida Hernandez Ramirez,06:30
+06/05/20,Adolfo Miguel Pontigo Tovar,10:00
+07/05/20,Ximena Shady Godinez Garrido,10:00
+07/05/20,Vianney Alberto Melo Rios,08:00
+07/05/20,Sergio Jose Pereira Rosado,19:30
+07/05/20,Selma Janett Calleja Jaramillo,06:30
+07/05/20,Regina Rojas Crespo,18:00
+07/05/20,Raciel Edmundo Escudero Diaz,06:30
+07/05/20,Melissa Azpeitia Hernandez,18:00
+07/05/20,Mayra Anay Avila Martinez,18:00
+07/05/20,Mario Villarreal Mares,18:00
+07/05/20,Maria Concepcion Avila Martinez,18:00
+07/05/20,Marco Antonio Lozada Copca,06:30
+07/05/20,Marco Antonio Banos Rubio,10:00
+07/05/20,Magali Citlalli Reyes Garcia,19:30
+07/05/20,Luis David Cruz Olivares,19:30
+07/05/20,Luba Miriam Laski Cobarruvias,19:30
+07/05/20,Gaston Ceron Munoz,06:30
+07/05/20,Gabriela Morales Mendez,08:00
+07/05/20,Gabriela Barranco Mendoza,10:00
+07/05/20,Diego Alberto Ramirez Ceron,19:30
+07/05/20,Claudia Camacho Carreggio,06:30
+07/05/20,Cesar Israel Acosta Arias,18:00
+07/05/20,Carla Guzman Illescas,06:30
+07/05/20,Caridad Merino Garcia,19:30
+07/05/20,Axel Ishac Licona Calderon,19:30
+07/05/20,Angeles Zeydel Olivares,19:30
+07/05/20,Angel Zaid Cruz Olivarez,19:30
+07/05/20,Alma Thais Godinez Garrido,10:00
+07/05/20,Adolfo Miguel Pontigo Tovar,10:00
+08/05/20,Ximena Shady Godinez Garrido,10:00
+08/05/20,Vianney Alberto Melo Rios,08:00
+08/05/20,Sergio Jose Pereira Rosado,19:30
+08/05/20,Selma Janett Calleja Jaramillo,06:30
+08/05/20,Regina Rojas Crespo,19:30
+08/05/20,Raciel Edmundo Escudero Diaz,06:30
+08/05/20,Naoli Alfaro Ponce,19:30
+08/05/20,Mario Villarreal Mares,19:30
+08/05/20,Marco Antonio Lozada Copca,06:30
+08/05/20,Marco Antonio Banos Rubio,19:30
+08/05/20,Marco Antonio Banos Rubio,08:00
+08/05/20,Julio Cesar Hernandez Velasco,08:00
+08/05/20,Juan Francisco Bello Jardines,19:30
+08/05/20,Joel Ramirez Ortega,19:30
+08/05/20,Gaston Ceron Munoz,06:30
+08/05/20,Gabriela Morales Mendez,08:00
+08/05/20,Diego Alberto Ramirez Ceron,18:00
+08/05/20,Claudia Camacho Carreggio,06:30
+08/05/20,Cassandra,19:30
+08/05/20,Carla Guzman Illescas,06:30
+08/05/20,Caridad Merino Garcia,19:30
+08/05/20,Berenice Alfaro Ponce,19:30
+08/05/20,Alma Thais Godinez Garrido,10:00
+08/05/20,Adolfo Miguel Pontigo Tovar,10:00
+09/05/20,Raciel Edmundo Escudero Diaz,08:00
+09/05/20,Marco Antonio Lozada Copca,08:00
+09/05/20,Elba Zuzely Vizcaya Barrera,09:30
+09/05/20,Claudia Camacho Carreggio,08:00
+11/05/20,Zoe Bello Alfaro,18:00
+11/05/20,Ximena Shady Godinez Garrido,10:00
+11/05/20,Vianney Alberto Melo Rios,08:00
+11/05/20,Sergio Jose Pereira Rosado,19:30
+11/05/20,Selma Janett Calleja Jaramillo,06:30
+11/05/20,Raul Duran Soto,19:30
+11/05/20,Naoli Alfaro Ponce,18:00
+11/05/20,Mayra Anay Avila Martinez,18:00
+11/05/20,Mario Villarreal Mares,18:00
+11/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+11/05/20,Marco Antonio Lozada Copca,06:30
+11/05/20,Marco Antonio Banos Rubio,19:30
+11/05/20,Marco Antonio Banos Rubio,10:00
+11/05/20,Luis Alejandro Cortes Rodriguez,19:30
+11/05/20,Julio Cesar Hernandez Velasco,08:00
+11/05/20,Juan Francisco Bello Jardines,18:00
+11/05/20,Gaston Ceron Munoz,06:30
+11/05/20,Gabriela Morales Mendez,08:00
+11/05/20,Diego Alberto Ramirez Ceron,19:30
+11/05/20,Claudia Camacho Carreggio,06:30
+11/05/20,Carla Guzman Illescas,06:30
+11/05/20,Caridad Merino Garcia,19:30
+11/05/20,Berenice Alfaro Ponce,18:00
+11/05/20,Angeles Zeydel Olivares,19:30
+11/05/20,Angel Zaid Cruz Olivarez,19:30
+11/05/20,Andrea Cortes Barroeta,19:30
+11/05/20,Alma Thais Godinez Garrido,10:00
+11/05/20,Alejandra Cortes Barroeta,19:30
+11/05/20,Adolfo Miguel Pontigo Tovar,10:00
+12/05/20,Ximena Shady Godinez Garrido,10:00
+12/05/20,Vianney Alberto Melo Rios,08:00
+12/05/20,Selma Janett Calleja Jaramillo,06:30
+12/05/20,Regina Rojas Crespo,18:00
+12/05/20,Raul Duran Soto,19:30
+12/05/20,Raciel Emilio Escudero Camacho,06:30
+12/05/20,Naoli Alfaro Ponce,19:30
+12/05/20,Melissa Azpeitia Hernandez,06:30
+12/05/20,Mayra Anay Avila Martinez,18:00
+12/05/20,Mario Villarreal Mares,18:00
+12/05/20,Maria Concepcion Avila Martinez,18:00
+12/05/20,Marco Antonio Banos Rubio,18:00
+12/05/20,Luba Miriam Laski Cobarruvias,19:30
+12/05/20,Karen Danae Avila Martinez,18:00
+12/05/20,Juan Francisco Bello Jardines,19:30
+12/05/20,Gaston Ceron Munoz,06:30
+12/05/20,Gabriela Morales Mendez,08:00
+12/05/20,Elba Zuzely Vizcaya Barrera,19:30
+12/05/20,Claudia Camacho Carreggio,06:30
+12/05/20,Cesar Israel Acosta Arias,06:30
+12/05/20,Carla Guzman Illescas,06:30
+12/05/20,Berenice Alfaro Ponce,19:30
+12/05/20,Axel Ishac Licona Calderon,19:30
+12/05/20,Alma Thais Godinez Garrido,10:00
+12/05/20,Aida Hernandez Ramirez,06:30
+12/05/20,Adolfo Miguel Pontigo Tovar,10:00
+13/05/20,Ximena Shady Godinez Garrido,10:00
+13/05/20,Vianney Alberto Melo Rios,08:00
+13/05/20,Sergio Jose Pereira Rosado,19:30
+13/05/20,Selma Janett Calleja Jaramillo,06:30
+13/05/20,Regina Rojas Crespo,10:00
+13/05/20,Raciel Edmundo Escudero Diaz,06:30
+13/05/20,Pablo Manuel Gayosso Chavez,18:00
+13/05/20,Naoli Alfaro Ponce,19:30
+13/05/20,Mayra Anay Avila Martinez,19:30
+13/05/20,Mario Villarreal Mares,19:30
+13/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+13/05/20,Maria Concepcion Avila Martinez,19:30
+13/05/20,Marco Antonio Lozada Copca,06:30
+13/05/20,Marco Antonio Banos Rubio,19:30
+13/05/20,Marco Antonio Banos Rubio,08:00
+13/05/20,Magali Citlalli Reyes Garcia,19:30
+13/05/20,Luis Alejandro Cortes Rodriguez,19:30
+13/05/20,Karen Danae Avila Martinez,19:30
+13/05/20,Julio Cesar Hernandez Velasco,08:00
+13/05/20,Juan Francisco Bello Jardines,19:30
+13/05/20,Jose Daniel Garcia Rios,10:00
+13/05/20,Joel Ramirez Ortega,19:30
+13/05/20,Ivan Oyervides Vega,19:30
+13/05/20,Gaston Ceron Munoz,06:30
+13/05/20,Gabriela Morales Mendez,08:00
+13/05/20,Diego Alberto Ramirez Ceron,18:00
+13/05/20,Claudia Camacho Carreggio,06:30
+13/05/20,Cassandra,19:30
+13/05/20,Carla Guzman Illescas,06:30
+13/05/20,Caridad Merino Garcia,19:30
+13/05/20,Berenice Alfaro Ponce,19:30
+13/05/20,Angeles Zeydel Olivares,19:30
+13/05/20,Angel Zaid Cruz Olivarez,19:30
+13/05/20,Andrea Cortes Barroeta,19:30
+13/05/20,Alma Thais Godinez Garrido,10:00
+13/05/20,Aida Hernandez Ramirez,06:30
+13/05/20,Adolfo Miguel Pontigo Tovar,10:00
+14/05/20,Yueh Molano Laorre,06:30
+14/05/20,Ximena Shady Godinez Garrido,10:00
+14/05/20,Selma Janett Calleja Jaramillo,06:30
+14/05/20,Regina Rojas Crespo,18:00
+14/05/20,Raciel Edmundo Escudero Diaz,06:30
+14/05/20,Naoli Alfaro Ponce,18:00
+14/05/20,Mayra Anay Avila Martinez,18:00
+14/05/20,Mario Villarreal Mares,18:00
+14/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+14/05/20,Maria Concepcion Avila Martinez,18:00
+14/05/20,Marco Antonio Lozada Copca,10:00
+14/05/20,Marco Antonio Banos Rubio,19:30
+14/05/20,Magdalena Ponce,18:00
+14/05/20,Luis Alejandro Cortes Rodriguez,19:30
+14/05/20,Luba Miriam Laski Cobarruvias,19:30
+14/05/20,Karen Danae Avila Martinez,18:00
+14/05/20,Juan Francisco Bello Jardines,18:00
+14/05/20,Jose Daniel Garcia Rios,10:00
+14/05/20,Gaston Ceron Munoz,06:30
+14/05/20,Gabriela Morales Mendez,08:00
+14/05/20,Efrain Sanchez Becerril,10:00
+14/05/20,Claudia Camacho Carreggio,06:30
+14/05/20,Cassandra,19:30
+14/05/20,Carla Guzman Illescas,06:30
+14/05/20,Berenice Alfaro Ponce,18:00
+14/05/20,Axel Ishac Licona Calderon,19:30
+14/05/20,Alma Thais Godinez Garrido,10:00
+14/05/20,Alejandra Cortes Barroeta,08:00
+14/05/20,Aida Hernandez Ramirez,06:30
+14/05/20,Adolfo Miguel Pontigo Tovar,10:00
+15/05/20,Ximena Shady Godinez Garrido,10:00
+15/05/20,Vianney Alberto Melo Rios,08:00
+15/05/20,Selma Janett Calleja Jaramillo,06:30
+15/05/20,Regina Rojas Crespo,18:00
+15/05/20,Raciel Edmundo Escudero Diaz,06:30
+15/05/20,Naoli Alfaro Ponce,19:30
+15/05/20,Mayra Anay Avila Martinez,18:00
+15/05/20,Martha Guerrero Olvera,19:30
+15/05/20,Mario Villarreal Mares,18:00
+15/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+15/05/20,Maria Concepcion Avila Martinez,18:00
+15/05/20,Marco Antonio Lozada Copca,06:30
+15/05/20,Marco Antonio Banos Rubio,19:30
+15/05/20,Marco Antonio Banos Rubio,08:00
+15/05/20,Magdalena Ponce,19:30
+15/05/20,Luis David Cruz Olivares,19:30
+15/05/20,Luis Alejandro Cortes Rodriguez,19:30
+15/05/20,Luba Miriam Laski Cobarruvias,19:30
+15/05/20,Julio Cesar Hernandez Velasco,08:00
+15/05/20,Juan Francisco Bello Jardines,19:30
+15/05/20,Jose Daniel Perez Nunez,08:00
+15/05/20,Joel Ramirez Ortega,19:30
+15/05/20,Ivan Oyervides Vega,19:30
+15/05/20,Gaston Ceron Munoz,06:30
+15/05/20,Gabriela Morales Mendez,08:00
+15/05/20,Diego Alberto Ramirez Ceron,19:30
+15/05/20,Claudia Camacho Carreggio,06:30
+15/05/20,Carla Guzman Illescas,06:30
+15/05/20,Berenice Alfaro Ponce,19:30
+15/05/20,Axel Ishac Licona Calderon,19:30
+15/05/20,Angeles Zeydel Olivares,19:30
+15/05/20,Angel Zaid Cruz Olivarez,19:30
+15/05/20,Andrea Cortes Barroeta,19:30
+15/05/20,Andrea Cortes Barroeta,08:00
+15/05/20,Alma Thais Godinez Garrido,10:00
+15/05/20,Adolfo Miguel Pontigo Tovar,10:00
+18/05/20,Ximena Shady Godinez Garrido,10:00
+18/05/20,Vianney Alberto Melo Rios,08:00
+18/05/20,Valerio Ivan Islas Charolet,06:30
+18/05/20,Sergio Jose Pereira Rosado,18:00
+18/05/20,Selma Janett Calleja Jaramillo,06:30
+18/05/20,Raciel Edmundo Escudero Diaz,06:30
+18/05/20,Melissa Azpeitia Hernandez,19:30
+18/05/20,Martha Guerrero Olvera,19:30
+18/05/20,Mario Villarreal Mares,18:00
+18/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+18/05/20,Maria Concepcion Avila Martinez,19:30
+18/05/20,Marco Antonio Banos Rubio,19:30
+18/05/20,Marco Antonio Banos Rubio,08:00
+18/05/20,Magdalena Ponce,19:30
+18/05/20,Magali Citlalli Reyes Garcia,19:30
+18/05/20,Luis David Cruz Olivares,19:30
+18/05/20,Luis Alejandro Cortes Rodriguez,19:30
+18/05/20,Luba Miriam Laski Covarrubias,19:30
+18/05/20,Juan Francisco Bello Jardines,19:30
+18/05/20,Jose Daniel Garcia Rios,10:00
+18/05/20,Gaston Ceron Munoz,06:30
+18/05/20,Gabriela Morales Mendez,08:00
+18/05/20,Claudia Camacho Carreggio,06:30
+18/05/20,Cesar Israel Acosta Arias,19:30
+18/05/20,Caridad Merino Garcia,18:00
+18/05/20,Berenice Alfaro Ponce,19:30
+18/05/20,Axel Ishac Licona Calderon,19:30
+18/05/20,Angeles Zeydel Olivares,19:30
+18/05/20,Angel Zaid Cruz Olivarez,19:30
+18/05/20,Andrea Cortes Barroeta,19:30
+18/05/20,Alma Thais Godinez Garrido,10:00
+18/05/20,Alejandra Cortes Barroeta,19:30
+18/05/20,Aida Hernandez Ramirez,06:30
+18/05/20,Adolfo Miguel Pontigo Tovar,10:00
+19/05/20,Zyanya Cano Barroeta,19:30
+19/05/20,Zyanya Cano Barroeta,08:00
+19/05/20,Yueh Molano Laorre,06:30
+19/05/20,Ximena Shady Godinez Garrido,10:00
+19/05/20,Vianney Alberto Melo Rios,08:00
+19/05/20,Sergio Jose Pereira Rosado,18:00
+19/05/20,Selma Janett Calleja Jaramillo,06:30
+19/05/20,Regina Rojas Crespo,19:30
+19/05/20,Raciel Edmundo Escudero Diaz,06:30
+19/05/20,Naoli Alfaro Ponce,19:30
+19/05/20,Melissa Azpeitia Hernandez,19:30
+19/05/20,Mayra Anay Avila Martinez,18:00
+19/05/20,Martha Guerrero Olvera,19:30
+19/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+19/05/20,Maria Concepcion Avila Martinez,18:00
+19/05/20,Marco Antonio Lozada Copca,06:30
+19/05/20,Marco Antonio Banos Rubio,19:30
+19/05/20,Marco Antonio Banos Rubio,08:00
+19/05/20,Magali Citlalli Reyes Garcia,19:30
+19/05/20,Luis David Cruz Olivares,19:30
+19/05/20,Juan Francisco Bello Jardines,19:30
+19/05/20,Jose Daniel Garcia Rios,10:00
+19/05/20,Ivan Oyervides Vega,19:30
+19/05/20,Gaston Ceron Munoz,06:30
+19/05/20,Gabriela Morales Mendez,08:00
+19/05/20,Diego Alberto Ramirez Ceron,19:30
+19/05/20,Claudia Camacho Carreggio,06:30
+19/05/20,Cesar Israel Acosta Arias,19:30
+19/05/20,Carla Guzman Illescas,06:30
+19/05/20,Caridad Merino Garcia,18:00
+19/05/20,Berenice Alfaro Ponce,19:30
+19/05/20,Angeles Zeydel Olivares,19:30
+19/05/20,Angel Zaid Cruz Olivarez,19:30
+19/05/20,Andrea Cortes Barroeta,08:00
+19/05/20,Alma Thais Godinez Garrido,10:00
+19/05/20,Aida Hernandez Ramirez,06:30
+19/05/20,Adrian Cortes Barroeta,19:30
+19/05/20,Adolfo Miguel Pontigo Tovar,10:00
+20/05/20,Zyanya Cano Barroeta,08:00
+20/05/20,Yueh Molano Laorre,06:30
+20/05/20,Ximena Shady Godinez Garrido,10:00
+20/05/20,Vianney Alberto Melo Rios,08:00
+20/05/20,Valerio Ivan Islas Charolet,06:30
+20/05/20,Sergio Jose Pereira Rosado,19:30
+20/05/20,Selma Janett Calleja Jaramillo,06:30
+20/05/20,Regina Rojas Crespo,18:00
+20/05/20,Raciel Edmundo Escudero Diaz,06:30
+20/05/20,Naoli Alfaro Ponce,19:30
+20/05/20,Melissa Azpeitia Hernandez,18:00
+20/05/20,Martha Guerrero Olvera,19:30
+20/05/20,Mario Villarreal Mares,18:00
+20/05/20,Maria Concepcion Avila Martinez,18:00
+20/05/20,Marco Antonio Banos Rubio,19:30
+20/05/20,Marco Antonio Banos Rubio,08:00
+20/05/20,Magdalena Ponce,19:30
+20/05/20,Magali Citlalli Reyes Garcia,19:30
+20/05/20,Luis David Cruz Olivares,19:30
+20/05/20,Luis Alejandro Cortes Rodriguez,19:30
+20/05/20,Julio Cesar Hernandez Velasco,08:00
+20/05/20,Juan Francisco Bello Jardines,19:30
+20/05/20,Jose Juan Aviles Abrego,10:00
+20/05/20,Jose Daniel Garcia Rios,10:00
+20/05/20,Joel Ramirez Ortega,19:30
+20/05/20,Gaston Ceron Munoz,06:30
+20/05/20,Gabriela Morales Mendez,08:00
+20/05/20,Claudia Camacho Carreggio,06:30
+20/05/20,Cesar Israel Acosta Arias,18:00
+20/05/20,Cassandra,19:30
+20/05/20,Carla Guzman Illescas,06:30
+20/05/20,Caridad Merino Garcia,19:30
+20/05/20,Berenice Alfaro Ponce,19:30
+20/05/20,Angeles Zeydel Olivares,19:30
+20/05/20,Angel Zaid Cruz Olivarez,19:30
+20/05/20,Andrea Banos Gomez,08:00
+20/05/20,Alma Thais Godinez Garrido,10:00
+20/05/20,Aida Hernandez Ramirez,06:30
+20/05/20,Adolfo Miguel Pontigo Tovar,10:00
+21/05/20,Yueh Molano Laorre,06:30
+21/05/20,Ximena Shady Godinez Garrido,10:00
+21/05/20,Vianney Alberto Melo Rios,08:00
+21/05/20,Sergio Jose Pereira Rosado,18:00
+21/05/20,Selma Janett Calleja Jaramillo,06:30
+21/05/20,Raciel Edmundo Escudero Diaz,06:30
+21/05/20,Naoli Alfaro Ponce,19:30
+21/05/20,Mayra Anay Avila Martinez,18:00
+21/05/20,Martha Guerrero Olvera,19:30
+21/05/20,Mario Villarreal Mares,18:00
+21/05/20,Maria Concepcion Avila Martinez,18:00
+21/05/20,Marco Antonio Banos Rubio,19:30
+21/05/20,Marco Antonio Banos Rubio,08:00
+21/05/20,Magdalena Ponce,19:30
+21/05/20,Magali Citlalli Reyes Garcia,19:30
+21/05/20,Luis David Cruz Olivares,19:30
+21/05/20,Luis Alejandro Cortes Rodriguez,19:30
+21/05/20,Karen Danae Avila Martinez,18:00
+21/05/20,Juan Francisco Bello Jardines,19:30
+21/05/20,Jose Daniel Garcia Rios,10:00
+21/05/20,Joel Ramirez Ortega,19:30
+21/05/20,Ivan Oyervides Vega,19:30
+21/05/20,Gaston Ceron Munoz,06:30
+21/05/20,Gabriela Morales Mendez,08:00
+21/05/20,Claudia Camacho Carreggio,06:30
+21/05/20,Carla Guzman Illescas,06:30
+21/05/20,Caridad Merino Garcia,18:00
+21/05/20,Berenice Alfaro Ponce,19:30
+21/05/20,Axel Ishac Licona Calderon,06:30
+21/05/20,Angeles Zeydel Olivares,19:30
+21/05/20,Angel Zaid Cruz Olivarez,19:30
+21/05/20,Alma Thais Godinez Garrido,10:00
+21/05/20,Adolfo Miguel Pontigo Tovar,10:00
+22/05/20,Zyanya Cano Barroeta,08:00
+22/05/20,Yueh Molano Laorre,06:30
+22/05/20,Ximena Shady Godinez Garrido,10:00
+22/05/20,Vianney Alberto Melo Rios,08:00
+22/05/20,Valerio Ivan Islas Charolet,06:30
+22/05/20,Selma Janett Calleja Jaramillo,06:30
+22/05/20,Regina Rojas Crespo,19:30
+22/05/20,Raul Duran Soto,19:30
+22/05/20,Raciel Edmundo Escudero Diaz,06:30
+22/05/20,Pablo Manuel Gayosso Chavez,19:30
+22/05/20,Melissa Azpeitia Hernandez,08:00
+22/05/20,Martha Guerrero Olvera,19:30
+22/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+22/05/20,Maria Esther Hernandez Diaz,19:30
+22/05/20,Marco Antonio Banos Rubio,19:30
+22/05/20,Magali Citlalli Reyes Garcia,19:30
+22/05/20,Luis David Cruz Olivares,19:30
+22/05/20,Luis Alejandro Cortes Rodriguez,19:30
+22/05/20,Luba Miriam Laski Covarrubias,19:30
+22/05/20,Julio Cesar Hernandez Velasco,08:00
+22/05/20,Juan Francisco Bello Jardines,19:30
+22/05/20,Jose Daniel Perez Nunez,10:00
+22/05/20,Jose Daniel Garcia Rios,10:00
+22/05/20,Jorge Enrique Vargas Acosta,19:30
+22/05/20,Joel Ramirez Ortega,19:30
+22/05/20,Ivan Oyervides Vega,19:30
+22/05/20,Gaston Ceron Munoz,06:30
+22/05/20,Gabriela Morales Mendez,08:00
+22/05/20,Elba Zuzely Vizcaya Barrera,19:30
+22/05/20,Diego Alberto Ramirez Ceron,19:30
+22/05/20,Claudia Camacho Carreggio,06:30
+22/05/20,Cesar Israel Acosta Arias,08:00
+22/05/20,Carla Guzman Illescas,06:30
+22/05/20,Candy Nohemi Calderon Chavarria,19:30
+22/05/20,Berenice Alfaro Ponce,19:30
+22/05/20,Axel Ishac Licona Calderon,19:30
+22/05/20,Angeles Zeydel Olivares,19:30
+22/05/20,Angel Zaid Cruz Olivarez,19:30
+22/05/20,Andrea Cortes Barroeta,08:00
+22/05/20,Alma Thais Godinez Garrido,10:00
+22/05/20,Adolfo Miguel Pontigo Tovar,10:00
+23/05/20,Zyanya Cano Barroeta,10:00
+23/05/20,Raciel Edmundo Escudero Diaz,08:00
+23/05/20,Martha Guerrero Olvera,10:00
+23/05/20,Maria Teresa de Jesus Barroeta Sanchez,10:00
+23/05/20,Maria Fernanda Alfaro Gonzalez,10:00
+23/05/20,Marco Antonio Lozada Copca,08:00
+23/05/20,Marco Antonio Banos Rubio,10:00
+23/05/20,Luis Alejandro Cortes Rodriguez,10:00
+23/05/20,Luba Miriam Laski Covarrubias,08:00
+23/05/20,Jose Juan Aviles Abrego,08:00
+23/05/20,Efrain Sanchez Becerril,10:00
+23/05/20,Efrain Sanchez Becerril,10:00
+23/05/20,Claudia Camacho Carreggio,08:00
+23/05/20,Carolina Alfaro Gonzalez,10:00
+23/05/20,Carla Guzman Illescas,08:00
+23/05/20,Candy Nohemi Calderon Chavarria,08:00
+23/05/20,Axel Ishac Licona Calderon,08:00
+23/05/20,Andrea Cortes Barroeta,10:00
+23/05/20,Alba Leticia Badillo Ramirez,10:00
+23/05/20,Adrian Cortes Barroeta,10:00
+23/05/20,Adolfo Miguel Pontigo Tovar,10:00
+25/05/20,Zoe Bello Alfaro,19:30
+25/05/20,Yueh Molano Laorre,06:30
+25/05/20,Ximena Shady Godinez Garrido,10:00
+25/05/20,Vianney Alberto Melo Rios,08:00
+25/05/20,Sergio Jose Pereira Rosado,18:00
+25/05/20,Selma Janett Calleja Jaramillo,06:30
+25/05/20,Sandra Karina Tapia Navarrete,06:30
+25/05/20,Regina Rojas Crespo,18:00
+25/05/20,Raciel Edmundo Escudero Diaz,06:30
+25/05/20,Naoli Alfaro Ponce,19:30
+25/05/20,Mayra Anay Avila Martinez,18:00
+25/05/20,Martha Guerrero Olvera,19:30
+25/05/20,Mario Villarreal Mares,18:00
+25/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+25/05/20,Maria Concepcion Avila Martinez,18:00
+25/05/20,Marco Antonio Lozada Copca,06:30
+25/05/20,Marco Antonio Banos Rubio,10:00
+25/05/20,Magdalena Ponce,19:30
+25/05/20,Magali Citlalli Reyes Garcia,19:30
+25/05/20,Luis Alejandro Cortes Rodriguez,19:30
+25/05/20,Luba Miriam Laski Covarrubias,06:30
+25/05/20,Julio Cesar Hernandez Velasco,08:00
+25/05/20,Juan Francisco Bello Jardines,19:30
+25/05/20,Ivan Oyervides Vega,19:30
+25/05/20,Gaston Ceron Munoz,06:30
+25/05/20,Gabriela Morales Mendez,08:00
+25/05/20,Ernesto Gonzalez de la Cruz,06:30
+25/05/20,Claudia Camacho Carreggio,06:30
+25/05/20,Cesar Israel Acosta Arias,19:30
+25/05/20,Carla Guzman Illescas,06:30
+25/05/20,Caridad Merino Garcia,18:00
+25/05/20,Berenice Alfaro Ponce,19:30
+25/05/20,Axel Ishac Licona Calderon,06:30
+25/05/20,Andrea Cortes Barroeta,19:30
+25/05/20,Alma Thais Godinez Garrido,10:00
+25/05/20,Adrian Cortes Barroeta,19:30
+25/05/20,Adolfo Miguel Pontigo Tovar,10:00
+26/05/20,Zyanya Cano Barroeta,19:30
+26/05/20,Yueh Molano Laorre,06:30
+26/05/20,Ximena Shady Godinez Garrido,10:00
+26/05/20,Vianney Alberto Melo Rios,08:00
+26/05/20,Sergio Rogelio Perez Ramirez,19:30
+26/05/20,Selma Janett Calleja Jaramillo,06:30
+26/05/20,Sandra Karina Tapia Navarrete,06:30
+26/05/20,Regina Rojas Crespo,10:00
+26/05/20,Raciel Edmundo Escudero Diaz,06:30
+26/05/20,Mayra Anay Avila Martinez,18:00
+26/05/20,Martha Guerrero Olvera,19:30
+26/05/20,Mario Villarreal Mares,18:00
+26/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+26/05/20,Maria Concepcion Avila Martinez,18:00
+26/05/20,Marco Antonio Lozada Copca,06:30
+26/05/20,Marco Antonio Banos Rubio,10:00
+26/05/20,Magali Citlalli Reyes Garcia,19:30
+26/05/20,Luis David Cruz Olivares,19:30
+26/05/20,Luis Alejandro Cortes Rodriguez,19:30
+26/05/20,Karen Danae Avila Martinez,18:00
+26/05/20,Jose Manuel Salazar Rodriguez,06:30
+26/05/20,Jose Daniel Garcia Rios,10:00
+26/05/20,Joel Ramirez Ortega,19:30
+26/05/20,Ivan Oyervides Vega,19:30
+26/05/20,Gaston Ceron Munoz,06:30
+26/05/20,Gabriela Morales Mendez,08:00
+26/05/20,Ernesto Gonzalez de la Cruz,06:30
+26/05/20,Claudia Camacho Carreggio,06:30
+26/05/20,Carla Guzman Illescas,06:30
+26/05/20,Caridad Merino Garcia,19:30
+26/05/20,Angeles Zeydel Olivares,19:30
+26/05/20,Angel Zaid Cruz Olivarez,19:30
+26/05/20,Andrea Cortes Barroeta,19:30
+26/05/20,Alma Thais Godinez Garrido,10:00
+26/05/20,Aida Hernandez Ramirez,06:30
+26/05/20,Adrian Cortes Barroeta,19:30
+26/05/20,Adolfo Miguel Pontigo Tovar,10:00
+27/05/20,Zyanya Cano Barroeta,08:00
+27/05/20,Zoe Bello Alfaro,19:30
+27/05/20,Yueh Molano Laorre,06:30
+27/05/20,Ximena Shady Godinez Garrido,10:00
+27/05/20,Vianney Alberto Melo Rios,08:00
+27/05/20,Selma Janett Calleja Jaramillo,06:30
+27/05/20,Sandra Karina Tapia Navarrete,06:30
+27/05/20,Raul Duran Soto,08:00
+27/05/20,Raciel Edmundo Escudero Diaz,06:30
+27/05/20,Naoli Alfaro Ponce,19:30
+27/05/20,Melissa Azpeitia Hernandez,18:00
+27/05/20,Mayra Anay Avila Martinez,18:00
+27/05/20,Martha Guerrero Olvera,19:30
+27/05/20,Mario Villarreal Mares,18:00
+27/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+27/05/20,Maria Concepcion Avila Martinez,18:00
+27/05/20,Marco Antonio Banos Rubio,19:30
+27/05/20,Marco Antonio Banos Rubio,10:00
+27/05/20,Magdalena Ponce,19:30
+27/05/20,Magali Citlalli Reyes Garcia,19:30
+27/05/20,Luis David Cruz Olivares,19:30
+27/05/20,Luis Alejandro Cortes Rodriguez,19:30
+27/05/20,Karen Danae Avila Martinez,18:00
+27/05/20,Julio Cesar Hernandez Velasco,08:00
+27/05/20,Juan Francisco Bello Jardines,19:30
+27/05/20,Jose Manuel Salazar Rodriguez,06:30
+27/05/20,Gaston Ceron Munoz,06:30
+27/05/20,Gabriela Morales Mendez,08:00
+27/05/20,Diego Alberto Ramirez Ceron,18:00
+27/05/20,Cesar Israel Acosta Arias,18:00
+27/05/20,Carla Guzman Illescas,06:30
+27/05/20,Berenice Alfaro Ponce,19:30
+27/05/20,Angel Zaid Cruz Olivarez,19:30
+27/05/20,Andrea Cortes Barroeta,08:00
+27/05/20,Alma Thais Godinez Garrido,10:00
+27/05/20,Aida Hernandez Ramirez,06:30
+27/05/20,Adolfo Miguel Pontigo Tovar,10:00
+28/05/20,Zoe Bello Alfaro,19:30
+28/05/20,Yueh Molano Laorre,06:30
+28/05/20,Ximena Shady Godinez Garrido,10:00
+28/05/20,Vianney Alberto Melo Rios,08:00
+28/05/20,Sergio Jose Pereira Rosado,19:30
+28/05/20,Selma Janett Calleja Jaramillo,06:30
+28/05/20,Sandra Karina Tapia Navarrete,06:30
+28/05/20,Regina Rojas Crespo,18:00
+28/05/20,Raciel Edmundo Escudero Diaz,06:30
+28/05/20,Naoli Alfaro Ponce,19:30
+28/05/20,Mayra Anay Avila Martinez,18:00
+28/05/20,Mario Villarreal Mares,18:00
+28/05/20,Maria Concepcion Avila Martinez,18:00
+28/05/20,Marco Antonio Lozada Copca,06:30
+28/05/20,Marco Antonio Banos Rubio,19:30
+28/05/20,Marco Antonio Banos Rubio,10:00
+28/05/20,Magali Citlalli Reyes Garcia,19:30
+28/05/20,Luba Miriam Laski Covarrubias,19:30
+28/05/20,Juan Francisco Bello Jardines,19:30
+28/05/20,Jose Manuel Salazar Rodriguez,06:30
+28/05/20,Jose Daniel Garcia Rios,10:00
+28/05/20,Joel Ramirez Ortega,19:30
+28/05/20,Ivan Oyervides Vega,19:30
+28/05/20,Gaston Ceron Munoz,06:30
+28/05/20,Gabriela Morales Mendez,08:00
+28/05/20,Ernesto Gonzalez de la Cruz,06:30
+28/05/20,Dulce Alheli Torres Rodriguez,06:30
+28/05/20,Claudia Camacho Carreggio,06:30
+28/05/20,Cassandra,10:00
+28/05/20,Carla Guzman Illescas,06:30
+28/05/20,Candy Nohemi Calderon Chavarria,19:30
+28/05/20,Berenice Alfaro Ponce,19:30
+28/05/20,Axel Ishac Licona Calderon,19:30
+28/05/20,Andrea Cortes Barroeta,08:00
+28/05/20,Alma Thais Godinez Garrido,10:00
+28/05/20,Adolfo Miguel Pontigo Tovar,10:00
+29/05/20,Zyanya Cano Barroeta,19:30
+29/05/20,Yueh Molano Laorre,06:30
+29/05/20,Ximena Shady Godinez Garrido,10:00
+29/05/20,Vianney Alberto Melo Rios,08:00
+29/05/20,Sergio Rogelio Perez Ramirez,19:30
+29/05/20,Selma Janett Calleja Jaramillo,06:30
+29/05/20,Sandra Karina Tapia Navarrete,06:30
+29/05/20,Regina Rojas Crespo,19:30
+29/05/20,Regina Rojas Crespo,10:00
+29/05/20,Naoli Alfaro Ponce,19:30
+29/05/20,Mayra Anay Avila Martinez,19:30
+29/05/20,Martha Guerrero Olvera,19:30
+29/05/20,Mario Villarreal Mares,19:30
+29/05/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+29/05/20,Marco Antonio Lozada Copca,06:30
+29/05/20,Marco Antonio Banos Rubio,19:30
+29/05/20,Marco Antonio Banos Rubio,10:00
+29/05/20,Magali Citlalli Reyes Garcia,19:30
+29/05/20,Luis David Cruz Olivares,19:30
+29/05/20,Luis Alejandro Cortes Rodriguez,19:30
+29/05/20,Luba Miriam Laski Covarrubias,08:00
+29/05/20,Julio Cesar Hernandez Velasco,08:00
+29/05/20,Juan Francisco Bello Jardines,19:30
+29/05/20,Jose Manuel Salazar Rodriguez,06:30
+29/05/20,Jose Daniel Perez Nunez,19:30
+29/05/20,Jose Daniel Garcia Rios,10:00
+29/05/20,Joel Ramirez Ortega,19:30
+29/05/20,Ivan Oyervides Vega,19:30
+29/05/20,Gaston Ceron Munoz,06:30
+29/05/20,Gabriela Morales Mendez,08:00
+29/05/20,Dulce Alheli Torres Rodriguez,06:30
+29/05/20,Diego Alberto Ramirez Ceron,19:30
+29/05/20,Cassandra,10:00
+29/05/20,Carla Guzman Illescas,06:30
+29/05/20,Caridad Merino Garcia,19:30
+29/05/20,Candy Nohemi Calderon Chavarria,08:00
+29/05/20,Berenice Alfaro Ponce,19:30
+29/05/20,Axel Ishac Licona Calderon,08:00
+29/05/20,Angeles Zeydel Olivares,19:30
+29/05/20,Angel Zaid Cruz Olivarez,19:30
+29/05/20,Alma Thais Godinez Garrido,10:00
+29/05/20,Aida Hernandez Ramirez,06:30
+29/05/20,Adolfo Miguel Pontigo Tovar,10:00
+30/05/20,Zyanya Cano Barroeta,10:00
+30/05/20,Raul Duran Soto,10:00
+30/05/20,Martha Guerrero Olvera,10:00
+30/05/20,Maria Teresa de Jesus Barroeta Sanchez,10:00
+30/05/20,Marco Antonio Lozada Copca,08:00
+30/05/20,Marco Antonio Banos Rubio,10:00
+30/05/20,Luis Alejandro Cortes Rodriguez,10:00
+30/05/20,Ernesto Gonzalez de la Cruz,08:00
+30/05/20,Dulce Alheli Torres Rodriguez,08:00
+30/05/20,Claudia Camacho Carreggio,08:00
+30/05/20,Carla Guzman Illescas,08:00
+30/05/20,Andrea Cortes Barroeta,10:00
+30/05/20,Adrian Cortes Barroeta,10:00
+30/05/20,Adolfo Miguel Pontigo Tovar,10:00
+01/06/20,Zyanya Cano Barroeta,08:00
+01/06/20,Zoe Bello Alfaro,19:30
+01/06/20,Ximena Shady Godinez Garrido,10:00
+01/06/20,Vianney Alberto Melo Rios,08:00
+01/06/20,Selma Janett Calleja Jaramillo,06:30
+01/06/20,Sandra Karina Tapia Navarrete,06:30
+01/06/20,Regina Rojas Crespo,19:30
+01/06/20,Naoli Alfaro Ponce,19:30
+01/06/20,Mayra Anay Avila Martinez,18:00
+01/06/20,Martha Guerrero Olvera,19:30
+01/06/20,Mario Villarreal Mares,18:00
+01/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+01/06/20,Marco Antonio Lozada Copca,06:30
+01/06/20,Marco Antonio Banos Rubio,19:30
+01/06/20,Marco Antonio Banos Rubio,10:00
+01/06/20,Magali Citlalli Reyes Garcia,19:30
+01/06/20,Luis David Cruz Olivares,19:30
+01/06/20,Luis Alejandro Cortes Rodriguez,19:30
+01/06/20,Luba Miriam Laski Covarrubias,19:30
+01/06/20,Julio Cesar Hernandez Velasco,08:00
+01/06/20,Juan Francisco Bello Jardines,19:30
+01/06/20,Jose Manuel Salazar Rodriguez,06:30
+01/06/20,Jose Juan Aviles Abrego,19:30
+01/06/20,Joel Ramirez Ortega,19:30
+01/06/20,Ivan Oyervides Vega,19:30
+01/06/20,Itzel Martinez Rocha,06:30
+01/06/20,Gaston Ceron Munoz,06:30
+01/06/20,Gabriela Morales Mendez,08:00
+01/06/20,Claudia Camacho Carreggio,06:30
+01/06/20,Carla Guzman Illescas,06:30
+01/06/20,Candy Nohemi Calderon Chavarria,19:30
+01/06/20,Berenice Alfaro Ponce,19:30
+01/06/20,Axel Ishac Licona Calderon,06:30
+01/06/20,Angeles Zeydel Olivares,19:30
+01/06/20,Angel Zaid Cruz Olivarez,19:30
+01/06/20,Andrea Cortes Barroeta,08:00
+01/06/20,Alma Thais Godinez Garrido,10:00
+01/06/20,Alejandro Martinez Rodriguez,10:00
+01/06/20,Adrian Cortes Barroeta,19:30
+01/06/20,Adolfo Miguel Pontigo Tovar,10:00
+02/06/20,Zyanya Cano Barroeta,08:00
+02/06/20,Zoe Bello Alfaro,19:30
+02/06/20,Yueh Molano Laorre,08:00
+02/06/20,Ximena Shady Godinez Garrido,10:00
+02/06/20,Vianney Alberto Melo Rios,08:00
+02/06/20,Selma Janett Calleja Jaramillo,10:00
+02/06/20,Sandra Karina Tapia Navarrete,06:30
+02/06/20,Regina Rojas Crespo,18:00
+02/06/20,Raciel Edmundo Escudero Diaz,06:30
+02/06/20,Naoli Alfaro Ponce,19:30
+02/06/20,Mayra Anay Avila Martinez,18:00
+02/06/20,Martha Guerrero Olvera,19:30
+02/06/20,Mario Villarreal Mares,19:30
+02/06/20,Maria Concepcion Avila Martinez,18:00
+02/06/20,Marco Antonio Banos Rubio,19:30
+02/06/20,Marco Antonio Banos Rubio,10:00
+02/06/20,Magdalena Ponce,19:30
+02/06/20,Magali Citlalli Reyes Garcia,19:30
+02/06/20,Luis David Cruz Olivares,19:30
+02/06/20,Luis Alejandro Cortes Rodriguez,18:00
+02/06/20,Karen Danae Avila Martinez,18:00
+02/06/20,Juan Francisco Bello Jardines,19:30
+02/06/20,Jose Manuel Salazar Rodriguez,06:30
+02/06/20,Jose Juan Aviles Abrego,08:00
+02/06/20,Jose Daniel Garcia Rios,10:00
+02/06/20,Jorge Eduardo Vargas Cortes,10:00
+02/06/20,Ivan Oyervides Vega,19:30
+02/06/20,Itzel Martinez Rocha,06:30
+02/06/20,Gaston Ceron Munoz,08:00
+02/06/20,Gabriela Morales Mendez,08:00
+02/06/20,Ernesto Gonzalez de la Cruz,06:30
+02/06/20,Claudia Camacho Carreggio,06:30
+02/06/20,Cassandra,19:30
+02/06/20,Carla Guzman Illescas,06:30
+02/06/20,Berenice Alfaro Ponce,19:30
+02/06/20,Angeles Zeydel Olivares,19:30
+02/06/20,Angel Zaid Cruz Olivarez,19:30
+02/06/20,Andrea Cortes Barroeta,08:00
+02/06/20,Alma Thais Godinez Garrido,10:00
+02/06/20,Alejandro Martinez Rodriguez,10:00
+02/06/20,Aida Hernandez Ramirez,06:30
+02/06/20,Adolfo Miguel Pontigo Tovar,10:00
+03/06/20,Zyanya Cano Barroeta,08:00
+03/06/20,Yueh Molano Laorre,06:30
+03/06/20,Vianney Alberto Melo Rios,08:00
+03/06/20,Selma Janett Calleja Jaramillo,06:30
+03/06/20,Sandra Karina Tapia Navarrete,06:30
+03/06/20,Raciel Edmundo Escudero Diaz,06:30
+03/06/20,Miguel Angel Perez Hernandez,10:00
+03/06/20,Mayra Anay Avila Martinez,19:30
+03/06/20,Martha Guerrero Olvera,19:30
+03/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+03/06/20,Maria Fernanda Alfaro Gonzalez,10:00
+03/06/20,Maria Concepcion Avila Martinez,19:30
+03/06/20,Marco Antonio Banos Rubio,10:00
+03/06/20,Magali Citlalli Reyes Garcia,19:30
+03/06/20,Luis David Cruz Olivares,19:30
+03/06/20,Luis Alejandro Cortes Rodriguez,19:30
+03/06/20,Karen Danae Avila Martinez,19:30
+03/06/20,Julio Cesar Hernandez Velasco,08:00
+03/06/20,Jose Daniel Garcia Rios,10:00
+03/06/20,Gaston Ceron Munoz,06:30
+03/06/20,Gabriela Morales Mendez,08:00
+03/06/20,Ernesto Gonzalez de la Cruz,06:30
+03/06/20,Efrain Sanchez Becerril,10:00
+03/06/20,Claudia Camacho Carreggio,06:30
+03/06/20,Carolina Alfaro Gonzalez,10:00
+03/06/20,Carla Guzman Illescas,06:30
+03/06/20,Axel Ishac Licona Calderon,06:30
+03/06/20,Angeles Zeydel Olivares,19:30
+03/06/20,Angel Zaid Cruz Olivarez,19:30
+03/06/20,Andrea Cortes Barroeta,08:00
+03/06/20,Alma Thais Godinez Garrido,10:00
+03/06/20,Alejandro Martinez Rodriguez,10:00
+03/06/20,Alba Leticia Badillo Ramirez,10:00
+03/06/20,Aida Hernandez Ramirez,06:30
+03/06/20,Adrian Cortes Barroeta,19:30
+03/06/20,Adolfo Miguel Pontigo Tovar,10:00
+04/06/20,Zyanya Cano Barroeta,19:30
+04/06/20,Zoe Bello Alfaro,19:30
+04/06/20,Ximena Shady Godinez Garrido,10:00
+04/06/20,Vianney Alberto Melo Rios,08:00
+04/06/20,Selma Janett Calleja Jaramillo,06:30
+04/06/20,Sandra Karina Tapia Navarrete,06:30
+04/06/20,Raciel Edmundo Escudero Diaz,06:30
+04/06/20,Naoli Alfaro Ponce,19:30
+04/06/20,Mayra Anay Avila Martinez,18:00
+04/06/20,Martha Guerrero Olvera,19:30
+04/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+04/06/20,Maria Concepcion Avila Martinez,18:00
+04/06/20,Marco Antonio Banos Rubio,10:00
+04/06/20,Magdalena Ponce,19:30
+04/06/20,Luis David Cruz Olivares,19:30
+04/06/20,Luis Alejandro Cortes Rodriguez,19:30
+04/06/20,Karen Danae Avila Martinez,18:00
+04/06/20,Juan Francisco Bello Jardines,19:30
+04/06/20,Jose Manuel Salazar Rodriguez,06:30
+04/06/20,Jose Daniel Garcia Rios,10:00
+04/06/20,Ivan Oyervides Vega,19:30
+04/06/20,Gaston Ceron Munoz,06:30
+04/06/20,Gabriela Morales Mendez,08:00
+04/06/20,Ernesto Gonzalez de la Cruz,06:30
+04/06/20,Claudia Camacho Carreggio,06:30
+04/06/20,Carla Guzman Illescas,06:30
+04/06/20,Berenice Alfaro Ponce,19:30
+04/06/20,Angeles Zeydel Olivares,19:30
+04/06/20,Angel Zaid Cruz Olivarez,19:30
+04/06/20,Andrea Cortes Barroeta,08:00
+04/06/20,Alma Thais Godinez Garrido,10:00
+04/06/20,Aida Hernandez Ramirez,06:30
+04/06/20,Adrian Cortes Barroeta,19:30
+04/06/20,Adolfo Miguel Pontigo Tovar,10:00
+05/06/20,Zyanya Cano Barroeta,08:00
+05/06/20,Yueh Molano Laorre,19:30
+05/06/20,Ximena Shady Godinez Garrido,10:00
+05/06/20,Vianney Alberto Melo Rios,08:00
+05/06/20,Selma Janett Calleja Jaramillo,19:30
+05/06/20,Sandra Karina Tapia Navarrete,19:30
+05/06/20,Raciel Edmundo Escudero Diaz,19:30
+05/06/20,Mario Villarreal Mares,19:30
+05/06/20,Marco Antonio Lozada Copca,19:30
+05/06/20,Marco Antonio Banos Rubio,10:00
+05/06/20,Julio Cesar Hernandez Velasco,08:00
+05/06/20,Jose Daniel Garcia Rios,10:00
+05/06/20,Itzel Martinez Rocha,19:30
+05/06/20,Gaston Ceron Munoz,19:30
+05/06/20,Gabriela Morales Mendez,08:00
+05/06/20,Claudia Camacho Carreggio,19:30
+05/06/20,Carla Guzman Illescas,19:30
+05/06/20,Andrea Cortes Barroeta,08:00
+05/06/20,Alma Thais Godinez Garrido,10:00
+05/06/20,Aida Hernandez Ramirez,19:30
+05/06/20,Adolfo Miguel Pontigo Tovar,10:00
+06/06/20,Zyanya Cano Barroeta,10:00
+06/06/20,Sandra Karina Tapia Navarrete,08:00
+06/06/20,Regina Rojas Crespo,19:30
+06/06/20,Naoli Alfaro Ponce,19:30
+06/06/20,Mayra Anay Avila Martinez,08:00
+06/06/20,Mayra Anay Avila Martinez,19:30
+06/06/20,Martha Guerrero Olvera,19:30
+06/06/20,Mario Villarreal Mares,19:30
+06/06/20,Maria Teresa de Jesus Barroeta Sanchez,10:00
+06/06/20,Maria Concepcion Avila Martinez,10:00
+06/06/20,Maria Concepcion Avila Martinez,19:30
+06/06/20,Karen Danae Avila Martinez,10:00
+06/06/20,Juan Francisco Bello Jardines,19:30
+06/06/20,Jose Daniel Perez Nunez,19:30
+06/06/20,Jorge Enrique Vargas Acosta,19:30
+06/06/20,Ivan Oyervides Vega,19:30
+06/06/20,Ernesto Gonzalez de la Cruz,08:00
+06/06/20,Claudia Camacho Carreggio,08:00
+06/06/20,Berenice Alfaro Ponce,19:30
+06/06/20,Andrea Cortes Barroeta,10:00
+06/06/20,Alejandra Cortes Barroeta,10:00
+08/06/20,Zyanya Cano Barroeta,19:30
+08/06/20,Ximena Shady Godinez Garrido,10:00
+08/06/20,Vianney Alberto Melo Rios,08:00
+08/06/20,Selma Janett Calleja Jaramillo,06:30
+08/06/20,Regina Rojas Crespo,10:00
+08/06/20,Raciel Edmundo Escudero Diaz,06:30
+08/06/20,Mayra Anay Avila Martinez,18:00
+08/06/20,Mario Villarreal Mares,18:00
+08/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+08/06/20,Maria Concepcion Avila Martinez,18:00
+08/06/20,Marco Antonio Lozada Copca,06:30
+08/06/20,Marco Antonio Banos Rubio,10:00
+08/06/20,Luis Alejandro Cortes Rodriguez,19:30
+08/06/20,Karen Danae Avila Martinez,18:00
+08/06/20,Julio Cesar Hernandez Velasco,08:00
+08/06/20,Jose Manuel Salazar Rodriguez,06:30
+08/06/20,Itzel Martinez Rocha,06:30
+08/06/20,Gaston Ceron Munoz,06:30
+08/06/20,Gabriela Morales Mendez,08:00
+08/06/20,Ernesto Gonzalez de la Cruz,06:30
+08/06/20,Diego Alberto Ramirez Ceron,18:00
+08/06/20,Claudia Camacho Carreggio,06:30
+08/06/20,Carla Guzman Illescas,06:30
+08/06/20,Andrea Cortes Barroeta,19:30
+08/06/20,Alma Thais Godinez Garrido,10:00
+08/06/20,Aida Hernandez Ramirez,06:30
+08/06/20,Adrian Cortes Barroeta,19:30
+08/06/20,Adolfo Miguel Pontigo Tovar,10:00
+09/06/20,Zyanya Cano Barroeta,08:00
+09/06/20,Zoe Bello Alfaro,19:30
+09/06/20,Yueh Molano Laorre,06:30
+09/06/20,Ximena Shady Godinez Garrido,10:00
+09/06/20,Vianney Alberto Melo Rios,08:00
+09/06/20,Selma Janett Calleja Jaramillo,06:30
+09/06/20,Regina Rojas Crespo,19:30
+09/06/20,Raciel Edmundo Escudero Diaz,06:30
+09/06/20,Naoli Alfaro Ponce,19:30
+09/06/20,Mayra Anay Avila Martinez,18:00
+09/06/20,Maria Concepcion Avila Martinez,18:00
+09/06/20,Marco Antonio Lozada Copca,06:30
+09/06/20,Marco Antonio Banos Rubio,10:00
+09/06/20,Karen Danae Avila Martinez,18:00
+09/06/20,Juan Francisco Bello Jardines,19:30
+09/06/20,Joel Ramirez Ortega,19:30
+09/06/20,Ivan Oyervides Vega,08:00
+09/06/20,Gaston Ceron Munoz,06:30
+09/06/20,Gabriela Morales Mendez,08:00
+09/06/20,Claudia Camacho Carreggio,06:30
+09/06/20,Cassandra,10:00
+09/06/20,Carla Guzman Illescas,06:30
+09/06/20,Berenice Alfaro Ponce,19:30
+09/06/20,Angeles Zeydel Olivares,19:30
+09/06/20,Angel Zaid Cruz Olivarez,19:30
+09/06/20,Andrea Cortes Barroeta,08:00
+09/06/20,Alma Thais Godinez Garrido,10:00
+09/06/20,Alejandro Martinez Rodriguez,10:00
+09/06/20,Aida Hernandez Ramirez,06:30
+09/06/20,Adolfo Miguel Pontigo Tovar,10:00
+10/06/20,Zyanya Cano Barroeta,19:30
+10/06/20,Zoe Bello Alfaro,19:30
+10/06/20,Yueh Molano Laorre,06:30
+10/06/20,Ximena Shady Godinez Garrido,10:00
+10/06/20,Vianney Alberto Melo Rios,08:00
+10/06/20,Selma Janett Calleja Jaramillo,06:30
+10/06/20,Regina Rojas Crespo,10:00
+10/06/20,Raul Duran Soto,10:00
+10/06/20,Naoli Alfaro Ponce,19:30
+10/06/20,Mayra Anay Avila Martinez,19:30
+10/06/20,Mario Villarreal Mares,10:00
+10/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+10/06/20,Maria Concepcion Avila Martinez,19:30
+10/06/20,Marco Antonio Lozada Copca,19:30
+10/06/20,Marco Antonio Banos Rubio,08:00
+10/06/20,Magdalena Ponce,19:30
+10/06/20,Luis David Cruz Olivares,19:30
+10/06/20,Luis Alejandro Cortes Rodriguez,19:30
+10/06/20,Karen Danae Avila Martinez,19:30
+10/06/20,Julio Cesar Hernandez Velasco,08:00
+10/06/20,Juan Francisco Bello Jardines,19:30
+10/06/20,Jose Manuel Salazar Rodriguez,06:30
+10/06/20,Gaston Ceron Munoz,06:30
+10/06/20,Gabriela Morales Mendez,08:00
+10/06/20,Diego Alberto Ramirez Ceron,19:30
+10/06/20,Claudia Camacho Carreggio,06:30
+10/06/20,Cassandra,19:30
+10/06/20,Carla Guzman Illescas,06:30
+10/06/20,Berenice Alfaro Ponce,19:30
+10/06/20,Angeles Zeydel Olivares,19:30
+10/06/20,Angel Zaid Cruz Olivarez,19:30
+10/06/20,Andrea Cortes Barroeta,08:00
+10/06/20,Alma Thais Godinez Garrido,10:00
+10/06/20,Alejandro Martinez Rodriguez,10:00
+10/06/20,Aida Hernandez Ramirez,06:30
+10/06/20,Adrian Cortes Barroeta,19:30
+10/06/20,Adolfo Miguel Pontigo Tovar,10:00
+11/06/20,Vianney Alberto Melo Rios,08:00
+11/06/20,Selma Janett Calleja Jaramillo,06:30
+11/06/20,Sandra Karina Tapia Navarrete,06:30
+11/06/20,Regina Rojas Crespo,10:00
+11/06/20,Raciel Edmundo Escudero Diaz,06:30
+11/06/20,Mayra Anay Avila Martinez,18:00
+11/06/20,Mario Villarreal Mares,18:00
+11/06/20,Maria Concepcion Avila Martinez,18:00
+11/06/20,Marco Antonio Lozada Copca,06:30
+11/06/20,Karen Danae Avila Martinez,18:00
+11/06/20,Ivan Oyervides Vega,08:00
+11/06/20,Gaston Ceron Munoz,06:30
+11/06/20,Gabriela Morales Mendez,08:00
+11/06/20,Claudia Camacho Carreggio,06:30
+11/06/20,Carla Guzman Illescas,06:30
+11/06/20,Axel Ishac Licona Calderon,08:00
+11/06/20,Andrea Cortes Barroeta,08:00
+11/06/20,Alma Thais Godinez Garrido,10:00
+11/06/20,Aida Hernandez Ramirez,06:30
+11/06/20,Adolfo Miguel Pontigo Tovar,10:00
+12/06/20,Yueh Molano Laorre,06:30
+12/06/20,Vianney Alberto Melo Rios,08:00
+12/06/20,Selma Janett Calleja Jaramillo,06:30
+12/06/20,Sandra Karina Tapia Navarrete,06:30
+12/06/20,Raciel Edmundo Escudero Diaz,06:30
+12/06/20,Pablo Manuel Gayosso Chavez,19:30
+12/06/20,Orlando Jair Lopez Santiago,19:30
+12/06/20,Naoli Alfaro Ponce,19:30
+12/06/20,Mario Villarreal Mares,19:30
+12/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+12/06/20,Maria Esther Hernandez Diaz,19:30
+12/06/20,Marco Antonio Lozada Copca,06:30
+12/06/20,Magdalena Ponce,19:30
+12/06/20,Luis Alejandro Cortes Rodriguez,19:30
+12/06/20,Julio Cesar Hernandez Velasco,08:00
+12/06/20,Juan Francisco Bello Jardines,19:30
+12/06/20,Jose Manuel Salazar Rodriguez,06:30
+12/06/20,Jose Juan Aviles Abrego,10:00
+12/06/20,Jorge Enrique Vargas Acosta,19:30
+12/06/20,Joel Ramirez Ortega,19:30
+12/06/20,Ivan Oyervides Vega,19:30
+12/06/20,Gaston Ceron Munoz,06:30
+12/06/20,Gabriela Morales Mendez,08:00
+12/06/20,Claudia Camacho Carreggio,06:30
+12/06/20,Carla Guzman Illescas,06:30
+12/06/20,Berenice Alfaro Ponce,19:30
+12/06/20,Andrea Cortes Barroeta,08:00
+12/06/20,Adrian Cortes Barroeta,19:30
+12/06/20,Adolfo Miguel Pontigo Tovar,10:00
+13/06/20,Sandra Karina Tapia Navarrete,08:00
+13/06/20,Maria Teresa de Jesus Barroeta Sanchez,10:00
+13/06/20,Maria Concepcion Avila Martinez,10:00
+13/06/20,Marco Antonio Lozada Copca,08:00
+13/06/20,Marco Antonio Banos Rubio,08:00
+13/06/20,Luis Alejandro Cortes Rodriguez,08:00
+13/06/20,Karen Danae Avila Martinez,10:00
+13/06/20,Jose Juan Aviles Abrego,08:00
+13/06/20,Carla Guzman Illescas,08:00
+13/06/20,Andrea Cortes Barroeta,10:00
+13/06/20,Adrian Cortes Barroeta,10:00
+15/06/20,Zyanya Cano Barroeta,08:00
+15/06/20,Zoe Bello Alfaro,19:30
+15/06/20,Ximena Shady Godinez Garrido,10:00
+15/06/20,Vianney Alberto Melo Rios,08:00
+15/06/20,Selma Janett Calleja Jaramillo,06:30
+15/06/20,Sandra Karina Tapia Navarrete,08:00
+15/06/20,Regina Rojas Crespo,19:30
+15/06/20,Naoli Alfaro Ponce,19:30
+15/06/20,Mayra Anay Avila Martinez,19:30
+15/06/20,Mario Villarreal Mares,10:00
+15/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+15/06/20,Maria Concepcion Avila Martinez,19:30
+15/06/20,Marco Antonio Lozada Copca,19:30
+15/06/20,Marco Antonio Banos Rubio,19:30
+15/06/20,Magdalena Ponce,19:30
+15/06/20,Luis Alejandro Cortes Rodriguez,19:30
+15/06/20,Julio Cesar Hernandez Velasco,08:00
+15/06/20,Juan Francisco Bello Jardines,19:30
+15/06/20,Joel Ramirez Ortega,19:30
+15/06/20,Gaston Ceron Munoz,06:30
+15/06/20,Gabriela Morales Mendez,08:00
+15/06/20,Diego Alberto Ramirez Ceron,19:30
+15/06/20,Carla Guzman Illescas,06:30
+15/06/20,Berenice Alfaro Ponce,19:30
+15/06/20,Axel Ishac Licona Calderon,10:00
+15/06/20,Andrea Cortes Barroeta,19:30
+15/06/20,Alma Thais Godinez Garrido,10:00
+15/06/20,Alejandro Martinez Rodriguez,10:00
+15/06/20,Aida Hernandez Ramirez,06:30
+15/06/20,Adrian Cortes Barroeta,19:30
+15/06/20,Adolfo Miguel Pontigo Tovar,10:00
+16/06/20,Zyanya Cano Barroeta,19:30
+16/06/20,Zoe Bello Alfaro,19:30
+16/06/20,Ximena Shady Godinez Garrido,10:00
+16/06/20,Vianney Alberto Melo Rios,08:00
+16/06/20,Selma Janett Calleja Jaramillo,06:30
+16/06/20,Sandra Karina Tapia Navarrete,06:30
+16/06/20,Regina Rojas Crespo,19:30
+16/06/20,Raciel Edmundo Escudero Diaz,06:30
+16/06/20,Naoli Alfaro Ponce,19:30
+16/06/20,Mayra Anay Avila Martinez,18:00
+16/06/20,Mario Villarreal Mares,19:30
+16/06/20,Maria Concepcion Avila Martinez,18:00
+16/06/20,Marco Antonio Lozada Copca,06:30
+16/06/20,Marco Antonio Banos Rubio,19:30
+16/06/20,Luis David Cruz Olivares,19:30
+16/06/20,Luis Alejandro Cortes Rodriguez,19:30
+16/06/20,Juan Francisco Bello Jardines,19:30
+16/06/20,Jose Manuel Salazar Rodriguez,06:30
+16/06/20,Ivan Oyervides Vega,19:30
+16/06/20,Gaston Ceron Munoz,06:30
+16/06/20,Gabriela Morales Mendez,08:00
+16/06/20,Claudia Camacho Carreggio,06:30
+16/06/20,Cassandra,19:30
+16/06/20,Carla Guzman Illescas,06:30
+16/06/20,Berenice Alfaro Ponce,19:30
+16/06/20,Axel Ishac Licona Calderon,10:00
+16/06/20,Andrea Cortes Barroeta,08:00
+16/06/20,Alma Thais Godinez Garrido,10:00
+16/06/20,Aida Hernandez Ramirez,06:30
+16/06/20,Adrian Cortes Barroeta,19:30
+16/06/20,Adolfo Miguel Pontigo Tovar,10:00
+17/06/20,Zyanya Cano Barroeta,19:30
+17/06/20,Zoe Bello Alfaro,19:30
+17/06/20,Ximena Shady Godinez Garrido,10:00
+17/06/20,Vianney Alberto Melo Rios,08:00
+17/06/20,Naoli Alfaro Ponce,19:30
+17/06/20,Mayra Anay Avila Martinez,19:30
+17/06/20,Mario Villarreal Mares,18:00
+17/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+17/06/20,Maria Concepcion Avila Martinez,18:00
+17/06/20,Marco Antonio Lozada Copca,06:30
+17/06/20,Marco Antonio Banos Rubio,10:00
+17/06/20,Luis Alejandro Cortes Rodriguez,19:30
+17/06/20,Julio Cesar Hernandez Velasco,08:00
+17/06/20,Juan Francisco Bello Jardines,19:30
+17/06/20,Jose Manuel Salazar Rodriguez,06:30
+17/06/20,Joel Ramirez Ortega,19:30
+17/06/20,Gaston Ceron Munoz,06:30
+17/06/20,Gabriela Morales Mendez,08:00
+17/06/20,Diego Alberto Ramirez Ceron,19:30
+17/06/20,Claudia Camacho Carreggio,06:30
+17/06/20,Cassandra,10:00
+17/06/20,Carla Guzman Illescas,06:30
+17/06/20,Berenice Alfaro Ponce,19:30
+17/06/20,Axel Ishac Licona Calderon,10:00
+17/06/20,Andrea Cortes Barroeta,08:00
+17/06/20,Alma Thais Godinez Garrido,10:00
+17/06/20,Aida Hernandez Ramirez,06:30
+17/06/20,Adrian Cortes Barroeta,19:30
+17/06/20,Adolfo Miguel Pontigo Tovar,10:00
+18/06/20,Zyanya Cano Barroeta,19:30
+18/06/20,Ximena Shady Godinez Garrido,10:00
+18/06/20,Vianney Alberto Melo Rios,08:00
+18/06/20,Selma Janett Calleja Jaramillo,06:30
+18/06/20,Raciel Edmundo Escudero Diaz,06:30
+18/06/20,Mario Villarreal Mares,19:30
+18/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+18/06/20,Maria Concepcion Avila Martinez,19:30
+18/06/20,Marco Antonio Banos Rubio,19:30
+18/06/20,Luis Alejandro Cortes Rodriguez,19:30
+18/06/20,Karen Danae Avila Martinez,19:30
+18/06/20,Gaston Ceron Munoz,06:30
+18/06/20,Gabriela Morales Mendez,08:00
+18/06/20,Claudia Camacho Carreggio,06:30
+18/06/20,Cassandra,19:30
+18/06/20,Carla Guzman Illescas,06:30
+18/06/20,Axel Ishac Licona Calderon,10:00
+18/06/20,Alma Thais Godinez Garrido,10:00
+18/06/20,Alejandro Martinez Rodriguez,10:00
+18/06/20,Aida Hernandez Ramirez,06:30
+18/06/20,Adrian Cortes Barroeta,19:30
+18/06/20,Adolfo Miguel Pontigo Tovar,10:00
+19/06/20,Ximena Shady Godinez Garrido,10:00
+19/06/20,Vianney Alberto Melo Rios,08:00
+19/06/20,Selma Janett Calleja Jaramillo,06:30
+19/06/20,Sandra Karina Tapia Navarrete,06:30
+19/06/20,Regina Rojas Crespo,10:00
+19/06/20,Raciel Edmundo Escudero Diaz,06:30
+19/06/20,Naoli Alfaro Ponce,19:30
+19/06/20,Mayra Anay Avila Martinez,19:30
+19/06/20,Mario Villarreal Mares,19:30
+19/06/20,Maria Teresa de Jesus Barroeta Sanchez,08:00
+19/06/20,Maria Concepcion Avila Martinez,19:30
+19/06/20,Marco Antonio Lozada Copca,06:30
+19/06/20,Luis Alejandro Cortes Rodriguez,19:30
+19/06/20,Julio Cesar Hernandez Velasco,08:00
+19/06/20,Juan Francisco Bello Jardines,19:30
+19/06/20,Jose Manuel Salazar Rodriguez,06:30
+19/06/20,Jorge Enrique Vargas Acosta,19:30
+19/06/20,Gaston Ceron Munoz,06:30
+19/06/20,Gabriela Morales Mendez,08:00
+19/06/20,Ernesto Gonzalez de la Cruz,06:30
+19/06/20,Diego Alberto Ramirez Ceron,19:30
+19/06/20,Claudia Camacho Carreggio,06:30
+19/06/20,Carla Guzman Illescas,06:30
+19/06/20,Berenice Alfaro Ponce,19:30
+19/06/20,Axel Ishac Licona Calderon,10:00
+19/06/20,Andrea Cortes Barroeta,08:00
+19/06/20,Aida Hernandez Ramirez,06:30
+19/06/20,Adolfo Miguel Pontigo Tovar,10:00
+20/06/20,Zyanya Cano Barroeta,10:00
+20/06/20,Sandra Karina Tapia Navarrete,08:00
+20/06/20,Maria Teresa de Jesus Barroeta Sanchez,10:00
+20/06/20,Marco Antonio Lozada Copca,08:00
+20/06/20,Luis Alejandro Cortes Rodriguez,10:00
+20/06/20,Ernesto Gonzalez de la Cruz,08:00
+20/06/20,Claudia Camacho Carreggio,08:00
+20/06/20,Carla Guzman Illescas,08:00
+20/06/20,Andrea Cortes Barroeta,10:00
+20/06/20,Adrian Cortes Barroeta,10:00
+20/06/20,Adolfo Miguel Pontigo Tovar,10:00
+22/06/20,Zyanya Cano Barroeta,19:30
+22/06/20,Ximena Shady Godinez Garrido,10:00
+22/06/20,Vianney Alberto Melo Rios,08:00
+22/06/20,Selma Janett Calleja Jaramillo,06:30
+22/06/20,Sandra Karina Tapia Navarrete,06:30
+22/06/20,Rodrigo Cano Barroeta,19:30
+22/06/20,Regina Rojas Crespo,18:00
+22/06/20,Raciel Edmundo Escudero Diaz,06:30
+22/06/20,Naoli Alfaro Ponce,19:30
+22/06/20,Mario Villarreal Mares,18:00
+22/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+22/06/20,Maria Concepcion Avila Martinez,18:00
+22/06/20,Marco Antonio Banos Rubio,10:00
+22/06/20,Magdalena Ponce,19:30
+22/06/20,Luis David Cruz Olivares,19:30
+22/06/20,Luis Alejandro Cortes Rodriguez,19:30
+22/06/20,Karen Danae Avila Martinez,18:00
+22/06/20,Julio Cesar Hernandez Velasco,08:00
+22/06/20,Juan Francisco Bello Jardines,19:30
+22/06/20,Ivan Oyervides Vega,19:30
+22/06/20,Gaston Ceron Munoz,06:30
+22/06/20,Gabriela Morales Mendez,08:00
+22/06/20,Ernesto Gonzalez de la Cruz,06:30
+22/06/20,Claudia Camacho Carreggio,06:30
+22/06/20,Berenice Alfaro Ponce,19:30
+22/06/20,Angeles Zeydel Olivares,19:30
+22/06/20,Angel Zaid Cruz Olivarez,19:30
+22/06/20,Andrea Cortes Barroeta,19:30
+22/06/20,Alma Thais Godinez Garrido,10:00
+22/06/20,Adrian Cortes Barroeta,19:30
+22/06/20,Adolfo Miguel Pontigo Tovar,10:00
+23/06/20,Zyanya Cano Barroeta,19:30
+23/06/20,Zoe Bello Alfaro,19:30
+23/06/20,Ximena Shady Godinez Garrido,10:00
+23/06/20,Vianney Alberto Melo Rios,08:00
+23/06/20,Selma Janett Calleja Jaramillo,06:30
+23/06/20,Sandra Karina Tapia Navarrete,06:30
+23/06/20,Rodrigo Cano Barroeta,19:30
+23/06/20,Regina Rojas Crespo,18:00
+23/06/20,Raciel Edmundo Escudero Diaz,06:30
+23/06/20,Naoli Alfaro Ponce,19:30
+23/06/20,Mayra Anay Avila Martinez,18:00
+23/06/20,Mario Villarreal Mares,19:30
+23/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+23/06/20,Maria Concepcion Avila Martinez,18:00
+23/06/20,Maria Alejandra Cortes Barroeta,08:00
+23/06/20,Marco Antonio Lozada Copca,06:30
+23/06/20,Marco Antonio Banos Rubio,10:00
+23/06/20,Magdalena Ponce,19:30
+23/06/20,Luis Alejandro Cortes Rodriguez,19:30
+23/06/20,Luba Miriam Laski Covarrubias,19:30
+23/06/20,Juan Francisco Bello Jardines,19:30
+23/06/20,Jose Manuel Salazar Rodriguez,06:30
+23/06/20,Gaston Ceron Munoz,06:30
+23/06/20,Gabriela Morales Mendez,08:00
+23/06/20,Claudia Camacho Carreggio,06:30
+23/06/20,Carla Guzman Illescas,06:30
+23/06/20,Berenice Alfaro Ponce,19:30
+23/06/20,Axel Ishac Licona Calderon,19:30
+23/06/20,Andrea Cortes Barroeta,08:00
+23/06/20,Alma Thais Godinez Garrido,10:00
+23/06/20,Aida Hernandez Ramirez,06:30
+23/06/20,Adolfo Miguel Pontigo Tovar,10:00
+24/06/20,Zoe Bello Alfaro,19:30
+24/06/20,Ximena Shady Godinez Garrido,10:00
+24/06/20,Vianney Alberto Melo Rios,08:00
+24/06/20,Selma Janett Calleja Jaramillo,06:30
+24/06/20,Regina Rojas Crespo,19:30
+24/06/20,Raciel Edmundo Escudero Diaz,06:30
+24/06/20,Naoli Alfaro Ponce,19:30
+24/06/20,Mayra Anay Avila Martinez,18:00
+24/06/20,Mario Villarreal Mares,18:00
+24/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+24/06/20,Maria Concepcion Avila Martinez,18:00
+24/06/20,Maria Alejandra Cortes Barroeta,08:00
+24/06/20,Marco Antonio Banos Rubio,08:00
+24/06/20,Luis David Cruz Olivares,19:30
+24/06/20,Luis Alejandro Cortes Rodriguez,19:30
+24/06/20,Luba Miriam Laski Covarrubias,19:30
+24/06/20,Julio Cesar Hernandez Velasco,08:00
+24/06/20,Juan Francisco Bello Jardines,19:30
+24/06/20,Gaston Ceron Munoz,06:30
+24/06/20,Gabriela Morales Mendez,08:00
+24/06/20,Diego Alberto Ramirez Ceron,18:00
+24/06/20,Claudia Camacho Carreggio,06:30
+24/06/20,Carla Guzman Illescas,06:30
+24/06/20,Berenice Alfaro Ponce,19:30
+24/06/20,Axel Ishac Licona Calderon,19:30
+24/06/20,Angeles Zeydel Olivares,19:30
+24/06/20,Angel Zaid Cruz Olivarez,19:30
+24/06/20,Andrea Cortes Barroeta,08:00
+24/06/20,Alma Thais Godinez Garrido,10:00
+24/06/20,Alejandro Martinez Rodriguez,10:00
+24/06/20,Aida Hernandez Ramirez,06:30
+24/06/20,Adolfo Miguel Pontigo Tovar,10:00
+25/06/20,Zyanya Cano Barroeta,10:00
+25/06/20,Zoe Bello Alfaro,19:30
+25/06/20,Ximena Shady Godinez Garrido,10:00
+25/06/20,Vianney Alberto Melo Rios,08:00
+25/06/20,Selma Janett Calleja Jaramillo,06:30
+25/06/20,Sandra Karina Tapia Navarrete,06:30
+25/06/20,Rodrigo Cano Barroeta,10:00
+25/06/20,Regina Rojas Crespo,10:00
+25/06/20,Naoli Alfaro Ponce,19:30
+25/06/20,Mayra Anay Avila Martinez,18:00
+25/06/20,Mario Villarreal Mares,18:00
+25/06/20,Maria Concepcion Avila Martinez,18:00
+25/06/20,Marco Antonio Banos Rubio,19:30
+25/06/20,Luis Alejandro Cortes Rodriguez,19:30
+25/06/20,Juan Francisco Bello Jardines,19:30
+25/06/20,Jose Manuel Salazar Rodriguez,06:30
+25/06/20,Jorge Enrique Vargas Acosta,19:30
+25/06/20,Gaston Ceron Munoz,06:30
+25/06/20,Gabriela Morales Mendez,08:00
+25/06/20,Ernesto Gonzalez de la Cruz,06:30
+25/06/20,Claudia Camacho Carreggio,06:30
+25/06/20,Carla Guzman Illescas,06:30
+25/06/20,Berenice Alfaro Ponce,19:30
+25/06/20,Axel Ishac Licona Calderon,19:30
+25/06/20,Andrea Cortes Barroeta,08:00
+25/06/20,Alma Thais Godinez Garrido,10:00
+25/06/20,Aida Hernandez Ramirez,06:30
+25/06/20,Adolfo Miguel Pontigo Tovar,10:00
+26/06/20,Zyanya Cano Barroeta,10:00
+26/06/20,Ximena Shady Godinez Garrido,10:00
+26/06/20,Vianney Alberto Melo Rios,08:00
+26/06/20,Selma Janett Calleja Jaramillo,06:30
+26/06/20,Sandra Karina Tapia Navarrete,06:30
+26/06/20,Rodrigo Cano Barroeta,10:00
+26/06/20,Raciel Edmundo Escudero Diaz,06:30
+26/06/20,Maria Teresa de Jesus Barroeta Sanchez,08:00
+26/06/20,Marco Antonio Lozada Copca,06:30
+26/06/20,Marco Antonio Banos Rubio,08:00
+26/06/20,Julio Cesar Hernandez Velasco,08:00
+26/06/20,Gaston Ceron Munoz,06:30
+26/06/20,Gabriela Morales Mendez,08:00
+26/06/20,Claudia Camacho Carreggio,06:30
+26/06/20,Carla Guzman Illescas,06:30
+26/06/20,Andrea Cortes Barroeta,08:00
+26/06/20,Alma Thais Godinez Garrido,10:00
+26/06/20,Aida Hernandez Ramirez,06:30
+26/06/20,Adolfo Miguel Pontigo Tovar,10:00
+27/06/20,Zyanya Cano Barroeta,10:00
+27/06/20,Sandra Karina Tapia Navarrete,08:00
+27/06/20,Rodrigo Cano Barroeta,10:00
+27/06/20,Raciel Edmundo Escudero Diaz,08:00
+27/06/20,Maria Teresa de Jesus Barroeta Sanchez,10:00
+27/06/20,Marco Antonio Lozada Copca,08:00
+27/06/20,Luis Alejandro Cortes Rodriguez,08:00
+27/06/20,Ernesto Gonzalez de la Cruz,08:00
+27/06/20,Claudia Camacho Carreggio,08:00
+27/06/20,Carla Guzman Illescas,08:00
+27/06/20,Andrea Cortes Barroeta,10:00
+27/06/20,Alejandro Martinez Rodriguez,10:00
+27/06/20,Adrian Cortes Barroeta,08:00
+29/06/20,Zyanya Cano Barroeta,19:30
+29/06/20,Zoe Bello Alfaro,19:30
+29/06/20,Ximena Shady Godinez Garrido,10:00
+29/06/20,Vianney Alberto Melo Rios,08:00
+29/06/20,Selma Janett Calleja Jaramillo,06:30
+29/06/20,Sandra Karina Tapia Navarrete,10:00
+29/06/20,Rodrigo Cano Barroeta,10:00
+29/06/20,Mayra Anay Avila Martinez,18:00
+29/06/20,Mario Villarreal Mares,19:30
+29/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+29/06/20,Maria Concepcion Avila Martinez,18:00
+29/06/20,Marco Antonio Lozada Copca,06:30
+29/06/20,Magali Citlalli Reyes Garcia,19:30
+29/06/20,Luis David Cruz Olivares,19:30
+29/06/20,Luis Alejandro Cortes Rodriguez,19:30
+29/06/20,Karen Danae Avila Martinez,18:00
+29/06/20,Julio Cesar Hernandez Velasco,08:00
+29/06/20,Juan Francisco Bello Jardines,19:30
+29/06/20,Gabriela Morales Mendez,08:00
+29/06/20,Ernesto Gonzalez de la Cruz,10:00
+29/06/20,Diego Alberto Ramirez Ceron,19:30
+29/06/20,Claudia Camacho Carreggio,06:30
+29/06/20,Carla Guzman Illescas,06:30
+29/06/20,Berenice Alfaro Ponce,19:30
+29/06/20,Angeles Zeydel Olivares,19:30
+29/06/20,Angel Zaid Cruz Olivarez,19:30
+29/06/20,Andrea Cortes Barroeta,08:00
+29/06/20,Alma Thais Godinez Garrido,10:00
+29/06/20,Aida Hernandez Ramirez,06:30
+29/06/20,Adrian Cortes Barroeta,19:30
+29/06/20,Adolfo Miguel Pontigo Tovar,10:00
+30/06/20,Zoe Bello Alfaro,19:30
+30/06/20,Vianney Alberto Melo Rios,08:00
+30/06/20,Selma Janett Calleja Jaramillo,06:30
+30/06/20,Sandra Karina Tapia Navarrete,06:30
+30/06/20,Rodrigo Cano Barroeta,08:00
+30/06/20,Regina Rojas Crespo,18:00
+30/06/20,Mayra Anay Avila Martinez,18:00
+30/06/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+30/06/20,Maria Concepcion Avila Martinez,18:00
+30/06/20,Marco Antonio Lozada Copca,06:30
+30/06/20,Magali Citlalli Reyes Garcia,19:30
+30/06/20,Luis Alejandro Cortes Rodriguez,19:30
+30/06/20,Luba Miriam Laski Covarrubias,19:30
+30/06/20,Karen Danae Avila Martinez,18:00
+30/06/20,Juan Francisco Bello Jardines,19:30
+30/06/20,Gaston Ceron Munoz,06:30
+30/06/20,Gabriela Morales Mendez,08:00
+30/06/20,Ernesto Gonzalez de la Cruz,06:30
+30/06/20,Carla Guzman Illescas,06:30
+30/06/20,Berenice Alfaro Ponce,19:30
+30/06/20,Axel Ishac Licona Calderon,19:30
+30/06/20,Andrea Cortes Barroeta,08:00
+30/06/20,Alma Thais Godinez Garrido,10:00
+30/06/20,Aida Hernandez Ramirez,06:30
+30/06/20,Adrian Cortes Barroeta,19:30
+30/06/20,Adolfo Miguel Pontigo Tovar,10:00
+01/07/20,Zoe Bello Alfaro,19:30
+01/07/20,Vianney Alberto Melo Rios,08:00
+01/07/20,Valerio Ivan Charolet Islas,08:00
+01/07/20,Selma Janett Calleja Jaramillo,06:30
+01/07/20,Sandra Karina Tapia Navarrete,18:00
+01/07/20,Rodrigo Cano Barroeta,06:30
+01/07/20,Regina Rojas Crespo,10:00
+01/07/20,Raciel Edmundo Escudero Diaz,06:30
+01/07/20,Naoli Alfaro Ponce,19:30
+01/07/20,Mayra Anay Avila Martinez,18:00
+01/07/20,Mario Villarreal Mares,18:00
+01/07/20,Maria Concepcion Avila Martinez,18:00
+01/07/20,Marco Antonio Lozada Copca,06:30
+01/07/20,Marco Antonio Banos Rubio,19:30
+01/07/20,Luis Alejandro Cortes Rodriguez,19:30
+01/07/20,Karen Danae Avila Martinez,18:00
+01/07/20,Julio Cesar Hernandez Velasco,08:00
+01/07/20,Juan Francisco Bello Jardines,19:30
+01/07/20,Jorge Enrique Vargas Acosta,19:30
+01/07/20,Gaston Ceron Munoz,06:30
+01/07/20,Gabriela Morales Mendez,08:00
+01/07/20,Ernesto Gonzalez de la Cruz,18:00
+01/07/20,Claudia Camacho Carreggio,06:30
+01/07/20,Carla Guzman Illescas,06:30
+01/07/20,Berenice Alfaro Ponce,19:30
+01/07/20,Axel Ishac Licona Calderon,19:30
+01/07/20,Andrea Cortes Barroeta,08:00
+01/07/20,Alma Thais Godinez Garrido,10:00
+02/07/20,Zyanya Cano Barroeta,19:30
+02/07/20,Vianney Alberto Melo Rios,08:00
+02/07/20,Selma Janett Calleja Jaramillo,06:30
+02/07/20,Sandra Karina Tapia Navarrete,06:30
+02/07/20,Rodrigo Cano Barroeta,18:00
+02/07/20,Regina Rojas Crespo,19:30
+02/07/20,Raul Duran,10:00
+02/07/20,Naoli Alfaro Ponce,19:30
+02/07/20,Mayra Anay Avila Martinez,18:00
+02/07/20,Mario Villarreal Mares,19:30
+02/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+02/07/20,Maria Concepcion Avila Martinez,18:00
+02/07/20,Marco Antonio Lozada Copca,06:30
+02/07/20,Marco Antonio Banos Rubio,19:30
+02/07/20,Magali Citlalli Reyes Garcia,19:30
+02/07/20,Luis Alejandro Cortes Rodriguez,19:30
+02/07/20,Karen Danae Avila Martinez,18:00
+02/07/20,Juan Francisco Bello Jardines,19:30
+02/07/20,Gaston Ceron Munoz,06:30
+02/07/20,Gabriela Morales Mendez,08:00
+02/07/20,Claudia Camacho Carreggio,06:30
+02/07/20,Carla Guzman Illescas,06:30
+02/07/20,Berenice Alfaro Ponce,19:30
+02/07/20,Angeles Zeydel Olivares,19:30
+02/07/20,Angel Zaid Cruz Olivarez,19:30
+02/07/20,Andrea Cortes Barroeta,08:00
+02/07/20,Alma Thais Godinez Garrido,10:00
+02/07/20,Aida Hernandez Ramirez,06:30
+02/07/20,Adolfo Miguel Pontigo Tovar,10:00
+03/07/20,Zyanya Cano Barroeta,19:30
+03/07/20,Vianney Alberto Melo Rios,08:00
+03/07/20,Valerio Ivan Charolet Islas,06:30
+03/07/20,Selma Janett Calleja Jaramillo,06:30
+03/07/20,Sandra Karina Tapia Navarrete,06:30
+03/07/20,Rodrigo Cano Barroeta,08:00
+03/07/20,Regina Rojas Crespo,19:30
+03/07/20,Raciel Edmundo Escudero Diaz,06:30
+03/07/20,Naoli Alfaro Ponce,19:30
+03/07/20,Mayra Anay Avila Martinez,19:30
+03/07/20,Mario Villarreal Mares,19:30
+03/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+03/07/20,Maria Concepcion Avila Martinez,19:30
+03/07/20,Marco Antonio Lozada Copca,06:30
+03/07/20,Marco Antonio Banos Rubio,19:30
+03/07/20,Magali Citlalli Reyes Garcia,19:30
+03/07/20,Luis Alejandro Cortes Rodriguez,19:30
+03/07/20,Karen Danae Avila Martinez,19:30
+03/07/20,Juan Francisco Bello Jardines,19:30
+03/07/20,Gaston Ceron Munoz,06:30
+03/07/20,Gabriela Morales Mendez,08:00
+03/07/20,Ernesto Gonzalez de la Cruz,06:30
+03/07/20,Claudia Camacho Carreggio,06:30
+03/07/20,Carla Guzman Illescas,06:30
+03/07/20,Berenice Alfaro Ponce,19:30
+03/07/20,Angeles Zeydel Olivares,19:30
+03/07/20,Angel Zaid Cruz Olivarez,19:30
+03/07/20,Andrea Cortes Barroeta,08:00
+03/07/20,Alma Thais Godinez Garrido,10:00
+03/07/20,Aida Hernandez Ramirez,06:30
+03/07/20,Adolfo Miguel Pontigo Tovar,10:00
+04/07/20,Zyanya Cano Barroeta,10:00
+04/07/20,Sandra Karina Tapia Navarrete,08:00
+04/07/20,Rodrigo Cano Barroeta,10:00
+04/07/20,Regina Rojas Crespo,10:00
+04/07/20,Mayra Anay Avila Martinez,08:00
+04/07/20,Maria Concepcion Avila Martinez,10:00
+04/07/20,Marco Antonio Lozada Copca,08:00
+04/07/20,Karen Danae Avila Martinez,10:00
+04/07/20,Ernesto Gonzalez de la Cruz,08:00
+04/07/20,Claudia Camacho Carreggio,08:00
+04/07/20,Carla Guzman Illescas,08:00
+06/07/20,Zyanya Cano Barroeta,10:00
+06/07/20,Ximena Shady Godinez Garrido,10:00
+06/07/20,Vianney Alberto Melo Rios,08:00
+06/07/20,Valerio Ivan Charolet Islas,06:30
+06/07/20,Sandra Karina Tapia Navarrete,06:30
+06/07/20,Raciel Edmundo Escudero Diaz,06:30
+06/07/20,Naoli Alfaro Ponce,19:30
+06/07/20,Mayra Anay Avila Martinez,18:00
+06/07/20,Mario Villarreal Mares,18:00
+06/07/20,Maria Concepcion Avila Martinez,18:00
+06/07/20,Marco Antonio Lozada Copca,19:30
+06/07/20,Marco Antonio Banos Rubio,10:00
+06/07/20,Magali Citlalli Reyes Garcia,19:30
+06/07/20,Luis Alejandro Cortes Rodriguez,19:30
+06/07/20,Karen Danae Avila Martinez,18:00
+06/07/20,Julio Cesar Hernandez Velasco,08:00
+06/07/20,Juan Francisco Bello Jardines,19:30
+06/07/20,Jorge Enrique Vargas Acosta,19:30
+06/07/20,Gaston Ceron Munoz,06:30
+06/07/20,Gabriela Morales Mendez,08:00
+06/07/20,Ernesto Gonzalez de la Cruz,06:30
+06/07/20,Diego Alberto Ramirez Ceron,19:30
+06/07/20,Carla Guzman Illescas,06:30
+06/07/20,Berenice Alfaro Ponce,19:30
+06/07/20,Andrea Cortes Barroeta,19:30
+06/07/20,Alma Thais Godinez Garrido,10:00
+06/07/20,Aida Hernandez Ramirez,06:30
+06/07/20,Adrian Cortes Barroeta,19:30
+06/07/20,Adolfo Miguel Pontigo Tovar,10:00
+07/07/20,Ximena Shady Godinez Garrido,10:00
+07/07/20,Vianney Alberto Melo Rios,08:00
+07/07/20,Selma Janett Calleja Jaramillo,06:30
+07/07/20,Rodrigo Cano Barroeta,18:00
+07/07/20,Regina Rojas Crespo,18:00
+07/07/20,Raciel Edmundo Escudero Diaz,06:30
+07/07/20,Mario Villarreal Mares,19:30
+07/07/20,Marco Antonio Lozada Copca,06:30
+07/07/20,Marco Antonio Banos Rubio,10:00
+07/07/20,Magali Citlalli Reyes Garcia,19:30
+07/07/20,Luis David Cruz Olivares,19:30
+07/07/20,Jorge Enrique Vargas Acosta,19:30
+07/07/20,Gaston Ceron Munoz,06:30
+07/07/20,Gabriela Morales Mendez,08:00
+07/07/20,Claudia Camacho Carreggio,06:30
+07/07/20,Carla Guzman Illescas,06:30
+07/07/20,Angeles Zeydel Olivares,19:30
+07/07/20,Angel Zaid Cruz Olivarez,19:30
+07/07/20,Andrea Cortes Barroeta,08:00
+07/07/20,Alma Thais Godinez Garrido,10:00
+07/07/20,Aida Hernandez Ramirez,06:30
+07/07/20,Adrian Cortes Barroeta,19:30
+07/07/20,Adolfo Miguel Pontigo Tovar,10:00
+08/07/20,Ximena Shady Godinez Garrido,10:00
+08/07/20,Vianney Alberto Melo Rios,08:00
+08/07/20,Selma Janett Calleja Jaramillo,06:30
+08/07/20,Sandra Karina Tapia Navarrete,06:30
+08/07/20,Rodrigo Cano Barroeta,08:00
+08/07/20,Naoli Alfaro Ponce,19:30
+08/07/20,Maria Concepcion Avila Martinez,18:00
+08/07/20,Marco Antonio Lozada Copca,19:30
+08/07/20,Marco Antonio Lozada Copca,06:30
+08/07/20,Marco Antonio Banos Rubio,08:00
+08/07/20,Magali Citlalli Reyes Garcia,19:30
+08/07/20,Luis Alejandro Cortes Rodriguez,19:30
+08/07/20,Karen Danae Avila Martinez,18:00
+08/07/20,Julio Cesar Hernandez Velasco,08:00
+08/07/20,Juan Francisco Bello Jardines,19:30
+08/07/20,Jorge Enrique Vargas Acosta,19:30
+08/07/20,Gaston Ceron Munoz,06:30
+08/07/20,Diego Alberto Ramirez Ceron,19:30
+08/07/20,Claudia Camacho Carreggio,06:30
+08/07/20,Carla Guzman Illescas,06:30
+08/07/20,Berenice Alfaro Ponce,19:30
+08/07/20,Andrea Cortes Barroeta,19:30
+08/07/20,Alma Thais Godinez Garrido,10:00
+08/07/20,Adrian Cortes Barroeta,19:30
+08/07/20,Adolfo Miguel Pontigo Tovar,10:00
+09/07/20,Vianney Alberto Melo Rios,08:00
+09/07/20,Selma Janett Calleja Jaramillo,06:30
+09/07/20,Sandra Karina Tapia Navarrete,06:30
+09/07/20,Rodrigo Cano Barroeta,18:00
+09/07/20,Regina Rojas Crespo,19:30
+09/07/20,Naoli Alfaro Ponce,19:30
+09/07/20,Mario Villarreal Mares,18:00
+09/07/20,Marco Antonio Lozada Copca,06:30
+09/07/20,Marco Antonio Banos Rubio,10:00
+09/07/20,Luba Miriam Laski Covarrubias,19:30
+09/07/20,Julio Cesar Hernandez Velasco,08:00
+09/07/20,Juan Francisco Bello Jardines,19:30
+09/07/20,Gaston Ceron Munoz,06:30
+09/07/20,Gabriela Morales Mendez,08:00
+09/07/20,Cassandra,10:00
+09/07/20,Carla Guzman Illescas,06:30
+09/07/20,Berenice Alfaro Ponce,19:30
+09/07/20,Axel Ishac Licona Calderon,19:30
+09/07/20,Adolfo Miguel Pontigo Tovar,10:00
+10/07/20,Zoe Bello Alfaro,19:30
+10/07/20,Ximena Shady Godinez Garrido,10:00
+10/07/20,Vianney Alberto Melo Rios,08:00
+10/07/20,Selma Janett Calleja Jaramillo,06:30
+10/07/20,Raciel Edmundo Escudero Diaz,06:30
+10/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+10/07/20,Magali Citlalli Reyes Garcia,19:30
+10/07/20,Luis Alejandro Cortes Rodriguez,19:30
+10/07/20,Luba Miriam Laski Covarrubias,19:30
+10/07/20,Julio Cesar Hernandez Velasco,08:00
+10/07/20,Juan Francisco Bello Jardines,19:30
+10/07/20,Ivan Oyervides Vega,08:00
+10/07/20,Gaston Ceron Munoz,06:30
+10/07/20,Gabriela Morales Mendez,08:00
+10/07/20,Diego Alberto Ramirez Ceron,19:30
+10/07/20,Claudia Camacho Carreggio,06:30
+10/07/20,Carla Guzman Illescas,06:30
+10/07/20,Berenice Alfaro Ponce,19:30
+10/07/20,Axel Ishac Licona Calderon,19:30
+10/07/20,Andrea Cortes Barroeta,19:30
+10/07/20,Alma Thais Godinez Garrido,10:00
+10/07/20,Adrian Cortes Barroeta,19:30
+10/07/20,Adolfo Miguel Pontigo Tovar,10:00
+11/07/20,Sandra Karina Tapia Navarrete,08:00
+11/07/20,Raciel Edmundo Escudero Diaz,08:00
+11/07/20,Maria Concepcion Avila Martinez,10:00
+11/07/20,Marco Antonio Banos Rubio,08:00
+11/07/20,Karen Danae Avila Martinez,10:00
+11/07/20,Claudia Camacho Carreggio,08:00
+11/07/20,Carla Guzman Illescas,08:00
+11/07/20,Adolfo Miguel Pontigo Tovar,10:00
+13/07/20,Zyanya Cano Barroeta,19:30
+13/07/20,Ximena Shady Godinez Garrido,10:00
+13/07/20,Vianney Alberto Melo Rios,08:00
+13/07/20,Selma Janett Calleja Jaramillo,06:30
+13/07/20,Sandra Karina Tapia Navarrete,06:30
+13/07/20,Rodrigo Cano Barroeta,10:00
+13/07/20,Raciel Edmundo Escudero Diaz,06:30
+13/07/20,Marco Antonio Lozada Copca,06:30
+13/07/20,Magali Citlalli Reyes Garcia,19:30
+13/07/20,Luis David Cruz Olivares,19:30
+13/07/20,Luis Alejandro Cortes Rodriguez,19:30
+13/07/20,Julio Cesar Hernandez Velasco,08:00
+13/07/20,Juan Francisco Bello Jardines,19:30
+13/07/20,Gaston Ceron Munoz,06:30
+13/07/20,Gabriela Morales Mendez,08:00
+13/07/20,Ernesto Gonzalez de la Cruz,06:30
+13/07/20,Diego Alberto Ramirez Ceron,19:30
+13/07/20,Claudia Camacho Carreggio,06:30
+13/07/20,Carla Guzman Illescas,06:30
+13/07/20,Berenice Alfaro Ponce,19:30
+13/07/20,Angeles Zeydel Olivares,19:30
+13/07/20,Angel Zaid Cruz Olivarez,19:30
+13/07/20,Andrea Cortes Barroeta,19:30
+13/07/20,Alma Thais Godinez Garrido,10:00
+13/07/20,Adrian Cortes Barroeta,19:30
+13/07/20,Adolfo Miguel Pontigo Tovar,10:00
+14/07/20,Zyanya Cano Barroeta,08:00
+14/07/20,Zoe Bello Alfaro,19:30
+14/07/20,Ximena Shady Godinez Garrido,10:00
+14/07/20,Vianney Alberto Melo Rios,08:00
+14/07/20,Selma Janett Calleja Jaramillo,06:30
+14/07/20,Sandra Karina Tapia Navarrete,06:30
+14/07/20,Rodrigo Cano Barroeta,10:00
+14/07/20,Naoli Alfaro Ponce,19:30
+14/07/20,Marco Antonio Lozada Copca,06:30
+14/07/20,Magali Citlalli Reyes Garcia,19:30
+14/07/20,Luis Alejandro Cortes Rodriguez,19:30
+14/07/20,Luba Miriam Laski Covarrubias,19:30
+14/07/20,Juan Francisco Bello Jardines,19:30
+14/07/20,Gaston Ceron Munoz,06:30
+14/07/20,Gabriela Morales Mendez,08:00
+14/07/20,Ernesto Gonzalez de la Cruz,06:30
+14/07/20,Claudia Camacho Carreggio,06:30
+14/07/20,Carla Guzman Illescas,06:30
+14/07/20,Berenice Alfaro Ponce,19:30
+14/07/20,Axel Ishac Licona Calderon,19:30
+14/07/20,Andrea Cortes Barroeta,08:00
+14/07/20,Alma Thais Godinez Garrido,10:00
+14/07/20,Adrian Cortes Barroeta,19:30
+14/07/20,Adolfo Miguel Pontigo Tovar,10:00
+15/07/20,Zyanya Cano Barroeta,19:30
+15/07/20,Zoe Bello Alfaro,19:30
+15/07/20,Ximena Shady Godinez Garrido,10:00
+15/07/20,Vianney Alberto Melo Rios,08:00
+15/07/20,Selma Janett Calleja Jaramillo,06:30
+15/07/20,Sandra Karina Tapia Navarrete,06:30
+15/07/20,Rodrigo Cano Barroeta,10:00
+15/07/20,Regina Rojas Crespo,10:00
+15/07/20,Mayra Anay Avila Martinez,19:30
+15/07/20,Mario Villarreal Mares,19:30
+15/07/20,Maria Concepcion Avila Martinez,19:30
+15/07/20,Marco Antonio Lozada Copca,06:30
+15/07/20,Magali Citlalli Reyes Garcia,19:30
+15/07/20,Luis David Cruz Olivares,19:30
+15/07/20,Luba Miriam Laski Covarrubias,19:30
+15/07/20,Karen Danae Avila Martinez,19:30
+15/07/20,Julio Cesar Hernandez Velasco,08:00
+15/07/20,Juan Francisco Bello Jardines,19:30
+15/07/20,Gaston Ceron Munoz,06:30
+15/07/20,Gabriela Morales Mendez,08:00
+15/07/20,Ernesto Gonzalez de la Cruz,06:30
+15/07/20,Claudia Camacho Carreggio,06:30
+15/07/20,Carla Guzman Illescas,06:30
+15/07/20,Berenice Alfaro Ponce,19:30
+15/07/20,Axel Ishac Licona Calderon,19:30
+15/07/20,Angeles Zeydel Olivares,19:30
+15/07/20,Angel Zaid Cruz Olivarez,19:30
+15/07/20,Alma Thais Godinez Garrido,10:00
+15/07/20,Adrian Cortes Barroeta,19:30
+15/07/20,Adolfo Miguel Pontigo Tovar,10:00
+16/07/20,Zyanya Cano Barroeta,19:30
+16/07/20,Zoe Bello Alfaro,19:30
+16/07/20,Ximena Shady Godinez Garrido,10:00
+16/07/20,Vianney Alberto Melo Rios,08:00
+16/07/20,Valerio Ivan Charolet Islas,08:00
+16/07/20,Selma Janett Calleja Jaramillo,06:30
+16/07/20,Sandra Karina Tapia Navarrete,06:30
+16/07/20,Regina Rojas Crespo,18:00
+16/07/20,Raciel Edmundo Escudero Diaz,06:30
+16/07/20,Naoli Alfaro Ponce,19:30
+16/07/20,Mayra Anay Avila Martinez,18:00
+16/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+16/07/20,Maria Concepcion Avila Martinez,18:00
+16/07/20,Marco Antonio Lozada Copca,06:30
+16/07/20,Luba Miriam Laski Covarrubias,19:30
+16/07/20,Juan Francisco Bello Jardines,19:30
+16/07/20,Gaston Ceron Munoz,06:30
+16/07/20,Gabriela Morales Mendez,08:00
+16/07/20,Claudia Camacho Carreggio,06:30
+16/07/20,Carla Guzman Illescas,06:30
+16/07/20,Berenice Alfaro Ponce,19:30
+16/07/20,Axel Ishac Licona Calderon,19:30
+16/07/20,Angeles Zeydel Olivares,19:30
+16/07/20,Angel Zaid Cruz Olivarez,19:30
+16/07/20,Andrea Cortes Barroeta,19:30
+16/07/20,Alma Thais Godinez Garrido,10:00
+16/07/20,Adrian Cortes Barroeta,19:30
+16/07/20,Adolfo Miguel Pontigo Tovar,10:00
+17/07/20,Zyanya Cano Barroeta,10:00
+17/07/20,Vianney Alberto Melo Rios,08:00
+17/07/20,Rodrigo Cano Barroeta,10:00
+17/07/20,Regina Rojas Crespo,19:30
+17/07/20,Raciel Edmundo Escudero Diaz,06:30
+17/07/20,Mayra Anay Avila Martinez,19:30
+17/07/20,Mario Villarreal Mares,19:30
+17/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+17/07/20,Maria Concepcion Avila Martinez,19:30
+17/07/20,Marco Antonio Lozada Copca,06:30
+17/07/20,Luba Miriam Laski Covarrubias,19:30
+17/07/20,Karen Danae Avila Martinez,19:30
+17/07/20,Julio Cesar Hernandez Velasco,08:00
+17/07/20,Gaston Ceron Munoz,06:30
+17/07/20,Gabriela Morales Mendez,08:00
+17/07/20,Diego Alberto Ramirez Ceron,19:30
+17/07/20,Claudia Camacho Carreggio,06:30
+17/07/20,Carla Guzman Illescas,08:00
+17/07/20,Axel Ishac Licona Calderon,19:30
+17/07/20,Andrea Cortes Barroeta,19:30
+17/07/20,Adrian Cortes Barroeta,19:30
+17/07/20,Adolfo Miguel Pontigo Tovar,10:00
+18/07/20,Raciel Edmundo Escudero Diaz,08:00
+18/07/20,Mayra Anay Avila Martinez,08:00
+18/07/20,Marco Antonio Lozada Copca,08:00
+18/07/20,Claudia Camacho Carreggio,08:00
+18/07/20,Carla Guzman Illescas,08:00
+20/07/20,Zyanya Cano Barroeta,18:00
+20/07/20,Ximena Shady Godinez Garrido,10:00
+20/07/20,Selma Janett Calleja Jaramillo,06:30
+20/07/20,Regina Rojas Crespo,19:30
+20/07/20,Naoli Alfaro Ponce,19:30
+20/07/20,Mario Villarreal Mares,19:30
+20/07/20,Maria Teresa de Jesus Barroeta Sanchez,18:00
+20/07/20,Maria Concepcion Avila Martinez,18:00
+20/07/20,Marco Antonio Lozada Copca,06:30
+20/07/20,Magdalena Ponce,19:30
+20/07/20,Luis David Cruz Olivares,19:30
+20/07/20,Luba Miriam Laski Covarrubias,19:30
+20/07/20,Karen Danae Avila Martinez,18:00
+20/07/20,Julio Cesar Hernandez Velasco,08:00
+20/07/20,Juan Francisco Bello Jardines,19:30
+20/07/20,Gaston Ceron Munoz,06:30
+20/07/20,Diego Alberto Ramirez Ceron,19:30
+20/07/20,Carla Guzman Illescas,06:30
+20/07/20,Berenice Alfaro Ponce,19:30
+20/07/20,Axel Ishac Licona Calderon,19:30
+20/07/20,Angeles Zeydel Olivares,19:30
+20/07/20,Angel Zaid Cruz Olivarez,19:30
+20/07/20,Andrea Cortes Barroeta,08:00
+20/07/20,Alma Thais Godinez Garrido,10:00
+20/07/20,Adrian Cortes Barroeta,18:00
+20/07/20,Adolfo Miguel Pontigo Tovar,10:00
+21/07/20,Zyanya Cano Barroeta,08:00
+21/07/20,Ximena Shady Godinez Garrido,10:00
+21/07/20,Selma Janett Calleja Jaramillo,06:30
+21/07/20,Sandra Karina Tapia Navarrete,06:30
+21/07/20,Regina Rojas Crespo,19:30
+21/07/20,Naoli Alfaro Ponce,19:30
+21/07/20,Mayra Anay Avila Martinez,18:00
+21/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+21/07/20,Maria Concepcion Avila Martinez,18:00
+21/07/20,Marco Antonio Lozada Copca,06:30
+21/07/20,Magdalena Ponce,19:30
+21/07/20,Magali Citlalli Reyes Garcia,19:30
+21/07/20,Luis David Cruz Olivares,19:30
+21/07/20,Karen Danae Avila Martinez,18:00
+21/07/20,Juan Francisco Bello Jardines,19:30
+21/07/20,Gaston Ceron Munoz,06:30
+21/07/20,Ernesto Gonzalez de la Cruz,06:30
+21/07/20,Diego Alberto Ramirez Ceron,10:00
+21/07/20,Carla Guzman Illescas,06:30
+21/07/20,Berenice Alfaro Ponce,19:30
+21/07/20,Angeles Zeydel Olivares,19:30
+21/07/20,Angel Zaid Cruz Olivarez,19:30
+21/07/20,Andrea Cortes Barroeta,08:00
+21/07/20,Alma Thais Godinez Garrido,10:00
+21/07/20,Adrian Cortes Barroeta,19:30
+21/07/20,Adolfo Miguel Pontigo Tovar,10:00
+22/07/20,Zyanya Cano Barroeta,08:00
+22/07/20,Ximena Shady Godinez Garrido,10:00
+22/07/20,Selma Janett Calleja Jaramillo,06:30
+22/07/20,Sandra Karina Tapia Navarrete,06:30
+22/07/20,Rodrigo Cano Barroeta,10:00
+22/07/20,Raciel Edmundo Escudero Diaz,06:30
+22/07/20,Otto Garcia,19:30
+22/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+22/07/20,Marco Antonio Lozada Copca,06:30
+22/07/20,Magali Citlalli Reyes Garcia,19:30
+22/07/20,Luis David Cruz Olivares,19:30
+22/07/20,Linett Pasquel Najera,10:00
+22/07/20,Julio Cesar Hernandez Velasco,08:00
+22/07/20,Juan Francisco Bello Jardines,19:30
+22/07/20,Ernesto Gonzalez de la Cruz,06:30
+22/07/20,Diego Alberto Ramirez Ceron,19:30
+22/07/20,Claudia Camacho Carreggio,06:30
+22/07/20,Carla Guzman Illescas,06:30
+22/07/20,Berenice Alfaro Ponce,19:30
+22/07/20,Angeles Zeydel Olivares,19:30
+22/07/20,Angel Zaid Cruz Olivarez,19:30
+22/07/20,Andrea Cortes Barroeta,08:00
+22/07/20,Alma Thais Godinez Garrido,10:00
+22/07/20,Adolfo Miguel Pontigo Tovar,10:00
+23/07/20,Zyanya Cano Barroeta,08:00
+23/07/20,Ximena Shady Godinez Garrido,10:00
+23/07/20,Vianney Alberto Melo Rios,08:00
+23/07/20,Selma Janett Calleja Jaramillo,06:30
+23/07/20,Raciel Edmundo Escudero Diaz,06:30
+23/07/20,Naoli Alfaro Ponce,19:30
+23/07/20,Mario Villarreal Mares,19:30
+23/07/20,Maria Concepcion Avila Martinez,18:00
+23/07/20,Luis David Cruz Olivares,19:30
+23/07/20,Luba Miriam Laski Covarrubias,19:30
+23/07/20,Linett Pasquel Najera,10:00
+23/07/20,Karen Danae Avila Martinez,18:00
+23/07/20,Juan Francisco Bello Jardines,19:30
+23/07/20,Juan Francisco Bello Jardines,10:00
+23/07/20,Gaston Ceron Munoz,06:30
+23/07/20,Gabriela Morales Mendez,08:00
+23/07/20,Diego Alberto Ramirez Ceron,19:30
+23/07/20,Claudia Camacho Carreggio,06:30
+23/07/20,Carla Guzman Illescas,08:00
+23/07/20,Berenice Alfaro Ponce,10:00
+23/07/20,Axel Ishac Licona Calderon,19:30
+23/07/20,Angeles Zeydel Olivares,19:30
+23/07/20,Angel Zaid Cruz Olivarez,19:30
+23/07/20,Andrea Cortes Barroeta,08:00
+23/07/20,Alma Thais Godinez Garrido,10:00
+23/07/20,Adrian Cortes Barroeta,19:30
+23/07/20,Adolfo Miguel Pontigo Tovar,10:00
+24/07/20,Zoe Bello Alfaro,19:30
+24/07/20,Vianney Alberto Melo Rios,08:00
+24/07/20,Selma Janett Calleja Jaramillo,06:30
+24/07/20,Raciel Edmundo Escudero Diaz,06:30
+24/07/20,Naoli Alfaro Ponce,19:30
+24/07/20,Mario Villarreal Mares,19:30
+24/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+24/07/20,Maria Concepcion Avila Martinez,19:30
+24/07/20,Marco Antonio Lozada Copca,06:30
+24/07/20,Magali Citlalli Reyes Garcia,19:30
+24/07/20,Luis Alejandro Cortes Rodriguez,19:30
+24/07/20,Karen Danae Avila Martinez,19:30
+24/07/20,Julio Cesar Hernandez Velasco,08:00
+24/07/20,Juan Francisco Bello Jardines,19:30
+24/07/20,Gaston Ceron Munoz,06:30
+24/07/20,Gabriela Morales Mendez,08:00
+24/07/20,Elba Zuzely Vizcaya Barrera,06:30
+24/07/20,Claudia Camacho Carreggio,06:30
+24/07/20,Carla Guzman Illescas,08:00
+24/07/20,Berenice Alfaro Ponce,19:30
+24/07/20,Andrea Cortes Barroeta,08:00
+24/07/20,Alma Thais Godinez Garrido,10:00
+24/07/20,Adrian Cortes Barroeta,19:30
+24/07/20,Adolfo Miguel Pontigo Tovar,10:00
+25/07/20,Zyanya Cano Barroeta,10:00
+25/07/20,Maria Teresa de Jesus Barroeta Sanchez,10:00
+25/07/20,Maria Concepcion Avila Martinez,10:00
+25/07/20,Marco Antonio Lozada Copca,08:00
+25/07/20,Karen Danae Avila Martinez,10:00
+25/07/20,Carla Guzman Illescas,08:00
+25/07/20,Andrea Cortes Barroeta,10:00
+27/07/20,Ximena Shady Godinez Garrido,10:00
+27/07/20,Vianney Alberto Melo Rios,08:00
+27/07/20,Selma Janett Calleja Jaramillo,06:30
+27/07/20,Sandra Karina Tapia Navarrete,06:30
+27/07/20,Raciel Edmundo Escudero Diaz,06:30
+27/07/20,Otto Garcia,19:30
+27/07/20,Naoli Alfaro Ponce,19:30
+27/07/20,Mario Alberto Mendoza Pineiro,19:30
+27/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+27/07/20,Marco Antonio Lozada Copca,06:30
+27/07/20,Magdalena Ponce,19:30
+27/07/20,Magali Citlalli Reyes Garcia,19:30
+27/07/20,Linett Pasquel Najera,10:00
+27/07/20,Julio Cesar Hernandez Velasco,08:00
+27/07/20,Juan Francisco Bello Jardines,19:30
+27/07/20,Gaston Ceron Munoz,06:30
+27/07/20,Gabriela Morales Mendez,08:00
+27/07/20,Gabriel Galvan Pardo,06:30
+27/07/20,Ernesto Gonzalez de la Cruz,06:30
+27/07/20,Diego Alberto Ramirez Ceron,19:30
+27/07/20,Claudia Camacho Carreggio,06:30
+27/07/20,Carla Guzman Illescas,06:30
+27/07/20,Berenice Alfaro Ponce,19:30
+27/07/20,Andrea Cortes Barroeta,19:30
+27/07/20,Alma Thais Godinez Garrido,10:00
+27/07/20,Adolfo Miguel Pontigo Tovar,10:00
+28/07/20,Zyanya Cano Barroeta,19:30
+28/07/20,Ximena Shady Godinez Garrido,10:00
+28/07/20,Vianney Alberto Melo Rios,08:00
+28/07/20,Selma Janett Calleja Jaramillo,06:30
+28/07/20,Rodrigo Cano Barroeta,10:00
+28/07/20,Raciel Edmundo Escudero Diaz,06:30
+28/07/20,Mario Villarreal Mares,10:00
+28/07/20,Maria Concepcion Avila Martinez,19:30
+28/07/20,Marco Antonio Lozada Copca,06:30
+28/07/20,Magali Citlalli Reyes Garcia,19:30
+28/07/20,Luis David Cruz Olivares,19:30
+28/07/20,Luba Miriam Laski Covarrubias,19:30
+28/07/20,Karen Danae Avila Martinez,19:30
+28/07/20,Gaston Ceron Munoz,06:30
+28/07/20,Gabriela Morales Mendez,08:00
+28/07/20,Gabriel Galvan Pardo,06:30
+28/07/20,Elba Zuzely Vizcaya Barrera,06:30
+28/07/20,Claudia Camacho Carreggio,06:30
+28/07/20,Carla Guzman Illescas,06:30
+28/07/20,Axel Ishac Licona Calderon,19:30
+28/07/20,Angeles Zeydel Olivares,19:30
+28/07/20,Angel Zaid Cruz Olivarez,19:30
+28/07/20,Andrea Cortes Barroeta,08:00
+28/07/20,Alma Thais Godinez Garrido,10:00
+28/07/20,Adrian Cortes Barroeta,19:30
+28/07/20,Adolfo Miguel Pontigo Tovar,10:00
+29/07/20,Zyanya Cano Barroeta,19:30
+29/07/20,Ximena Shady Godinez Garrido,10:00
+29/07/20,Rodrigo Cano Barroeta,08:00
+29/07/20,Naoli Alfaro Ponce,19:30
+29/07/20,Mario Villarreal Mares,10:00
+29/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+29/07/20,Maria Concepcion Avila Martinez,19:30
+29/07/20,Marco Antonio Lozada Copca,06:30
+29/07/20,Magali Citlalli Reyes Garcia,19:30
+29/07/20,Luba Miriam Laski Covarrubias,19:30
+29/07/20,Karen Danae Avila Martinez,19:30
+29/07/20,Julio Cesar Hernandez Velasco,08:00
+29/07/20,Juan Francisco Bello Jardines,19:30
+29/07/20,Gaston Ceron Munoz,06:30
+29/07/20,Gabriela Morales Mendez,08:00
+29/07/20,Claudia Camacho Carreggio,06:30
+29/07/20,Carla Guzman Illescas,06:30
+29/07/20,Berenice Alfaro Ponce,19:30
+29/07/20,Axel Ishac Licona Calderon,19:30
+29/07/20,Andrea Cortes Barroeta,08:00
+29/07/20,Alma Thais Godinez Garrido,10:00
+29/07/20,Adrian Cortes Barroeta,19:30
+30/07/20,Ximena Shady Godinez Garrido,10:00
+30/07/20,Vianney Alberto Melo Rios,08:00
+30/07/20,Rodrigo Cano Barroeta,10:00
+30/07/20,Raciel Edmundo Escudero Diaz,06:30
+30/07/20,Marco Antonio Lozada Copca,06:30
+30/07/20,Joel Ramirez Ortega,08:00
+30/07/20,Gaston Ceron Munoz,06:30
+30/07/20,Gabriela Morales Mendez,08:00
+30/07/20,Diego Alberto Ramirez Ceron,08:00
+30/07/20,Claudia Camacho Carreggio,06:30
+30/07/20,Carla Guzman Illescas,06:30
+30/07/20,Andrea Cortes Barroeta,08:00
+30/07/20,Alma Thais Godinez Garrido,10:00
+30/07/20,Adolfo Miguel Pontigo Tovar,10:00
+31/07/20,Vianney Alberto Melo Rios,08:00
+31/07/20,Valerio Ivan Charolet Islas,06:30
+31/07/20,Raciel Edmundo Escudero Diaz,06:30
+31/07/20,Naoli Alfaro Ponce,19:39
+31/07/20,Mario Villarreal Mares,19:39
+31/07/20,Maria Concepcion Avila Martinez,08:00
+31/07/20,Marco Antonio Lozada Copca,06:30
+31/07/20,Karen Danae Avila Martinez,08:00
+31/07/20,Julio Cesar Hernandez Velasco,08:00
+31/07/20,Juan Francisco Bello Jardines,19:39
+31/07/20,Gaston Ceron Munoz,06:30
+31/07/20,Gabriela Morales Mendez,08:00
+31/07/20,Claudia Camacho Carreggio,06:30
+31/07/20,Carla Guzman Illescas,06:30
+31/07/20,Berenice Alfaro Ponce,19:39
+31/07/20,Angel Zaid Cruz Olivarez,19:39
+31/07/20,Andrea Cortes Barroeta,08:00
+31/07/20,Adolfo Miguel Pontigo Tovar,08:00
+01/08/20,Vianney Alberto Melo Rios,08:00
+01/08/20,Maria Teresa Barroeta Sanchez,11:00
+01/08/20,Marco Antonio Lozada Copca,08:00
+01/08/20,Carla Guzman Illescas,08:00
+01/08/20,Andrea Cortes Barroeta,11:00
+01/08/20,Alejandro Martinez Rodriguez,11:00
+03/08/20,Vianney Alberto Melo Rios,08:00
+03/08/20,Valerio Ivan Islas Charolet,08:00
+03/08/20,Selma Janett Calleja Jaramillo,06:30
+03/08/20,Regina Rojas Crespo,18:00
+03/08/20,Raciel Edmundo Escudero Diaz,06:30
+03/08/20,Naoli Alfaro Ponce,19:30
+03/08/20,Mayra Anay Avila Martinez,18:00
+03/08/20,Mario Villarreal Mares,19:30
+03/08/20,Maria Concepcion Avila Martinez,19:30
+03/08/20,Marco Antonio Lozada Copca,06:30
+03/08/20,Magali Citlalli Reyes Garcia,19:30
+03/08/20,Luis David Cruz Olivares,19:30
+03/08/20,Karen Danae Avila Martinez,19:30
+03/08/20,Julio Cesar Hernandez Velasco,08:00
+03/08/20,Juan Francisco Bello Jardines,19:30
+03/08/20,Joel Ramirez Ortega,10:00
+03/08/20,Gabriela Morales Mendez,08:00
+03/08/20,Diego Alberto Ramirez Ceron,19:30
+03/08/20,Claudia Camacho Carreggio,06:30
+03/08/20,Carla Guzman Illescas,06:30
+03/08/20,Berenice Alfaro Ponce,19:30
+03/08/20,Axel Ishac Licona Calderon,10:00
+03/08/20,Angeles Zeydel Olivares,19:30
+03/08/20,Angel Zaid Cruz Olivarez,19:30
+03/08/20,Andrea Cortes Barroeta,19:30
+03/08/20,Alma Thais Godinez Garrido,10:00
+04/08/20,Vianney Alberto Melo Rios,08:00
+04/08/20,Selma Janett Calleja Jaramillo,06:30
+04/08/20,Regina Rojas Crespo,19:30
+04/08/20,Raciel Edmundo Escudero Diaz,06:30
+04/08/20,Mayra Anay Avila Martinez,18:00
+04/08/20,Mario Villarreal Mares,19:30
+04/08/20,Maria Concepcion Avila Martinez,18:00
+04/08/20,Marco Antonio Lozada Copca,06:30
+04/08/20,Magali Citlalli Reyes Garcia,19:30
+04/08/20,Luis David Cruz Olivares,19:30
+04/08/20,Luba Miriam Laski Cobarruvias,10:00
+04/08/20,Karen Danae Avila Martinez,18:00
+04/08/20,Gaston Ceron Munoz,06:30
+04/08/20,Gabriela Morales Mendez,08:00
+04/08/20,Dulce Maria Ramirez Ceron,08:00
+04/08/20,Diego Alberto Ramirez Ceron,19:30
+04/08/20,Claudia Camacho Carreggio,06:30
+04/08/20,Carla Guzman Illescas,06:30
+04/08/20,Angeles Zeydel Olivares,19:30
+04/08/20,Andrea Cortes Barroeta,08:00
+04/08/20,Alma Thais Godinez Garrido,10:00
+04/08/20,Adrian Cortes Barroeta,19:30
+04/08/20,Adolfo Miguel Pontigo Tovar,10:00
+05/08/20,Vianney Alberto Melo Rios,08:00
+05/08/20,Valerio Ivan Islas Charolet,06:30
+05/08/20,Selma Janett Calleja Jaramillo,06:30
+05/08/20,Regina Rojas Crespo,19:30
+05/08/20,Raciel Edmundo Escudero Diaz,06:30
+05/08/20,Mayra Anay Avila Martinez,18:00
+05/08/20,Mario Villarreal Mares,19:30
+05/08/20,Maria Concepcion Avila Martinez,18:00
+05/08/20,Marco Antonio Lozada Copca,06:30
+05/08/20,Magali Citlalli Reyes Garcia,19:30
+05/08/20,Luis David Cruz Olivares,19:30
+05/08/20,Luba Miriam Laski Cobarruvias,10:00
+05/08/20,Karen Danae Avila Martinez,18:00
+05/08/20,Julio Cesar Hernandez Velasco,08:00
+05/08/20,Juan Francisco Bello Jardines,19:30
+05/08/20,Joel Ramirez Ortega,10:00
+05/08/20,Gaston Ceron Munoz,06:30
+05/08/20,Gabriela Morales Mendez,08:00
+05/08/20,Dulce Maria Ramirez Ceron,08:00
+05/08/20,Diego Alberto Ramirez Ceron,19:30
+05/08/20,Claudia Camacho Carreggio,06:30
+05/08/20,Carla Guzman Illescas,06:30
+05/08/20,Berenice Alfaro Ponce,19:30
+05/08/20,Axel Ishac Licona Calderon,10:00
+05/08/20,Angeles Zeydel Olivares,19:30
+05/08/20,Alma Thais Godinez Garrido,10:00
+05/08/20,Alejandro Martinez Rodriguez,10:00
+05/08/20,Adolfo Miguel Pontigo Tovar,10:00
+06/08/20,Zoe Bello Alfaro,19:30
+06/08/20,Vianney Alberto Melo Rios,08:00
+06/08/20,Selma Janett Calleja Jaramillo,06:30
+06/08/20,Regina Rojas Crespo,19:30
+06/08/20,Raciel Edmundo Escudero Diaz,06:30
+06/08/20,Naoli Alfaro Ponce,19:30
+06/08/20,Mayra Anay Avila Martinez,18:00
+06/08/20,Mario Villarreal Mares,19:30
+06/08/20,Maria Concepcion Avila Martinez,18:00
+06/08/20,Marco Antonio Lozada Copca,06:30
+06/08/20,Magali Citlalli Reyes Garcia,19:30
+06/08/20,Karen Danae Avila Martinez,18:00
+06/08/20,Juan Francisco Bello Jardines,19:30
+06/08/20,Gaston Ceron Munoz,06:30
+06/08/20,Gabriela Morales Mendez,08:00
+06/08/20,Dulce Maria Ramirez Ceron,08:00
+06/08/20,Claudia Camacho Carreggio,06:30
+06/08/20,Carla Guzman Illescas,06:30
+06/08/20,Berenice Alfaro Ponce,19:30
+06/08/20,Andrea Cortes Barroeta,19:30
+06/08/20,Alma Thais Godinez Garrido,10:00
+07/08/20,Valerio Ivan Islas Charolet,06:30
+07/08/20,Selma Janett Calleja Jaramillo,06:30
+07/08/20,Regina Rojas Crespo,10:00
+07/08/20,Naoli Alfaro Ponce,19:30
+07/08/20,Mayra Anay Avila Martinez,19:30
+07/08/20,Maria Concepcion Avila Martinez,19:30
+07/08/20,Marco Antonio Lozada Copca,06:30
+07/08/20,Magali Citlalli Reyes Garcia,19:30
+07/08/20,Luba Miriam Laski Cobarruvias,10:00
+07/08/20,Karen Danae Avila Martinez,19:30
+07/08/20,Julio Cesar Hernandez Velasco,08:00
+07/08/20,Juan Francisco Bello Jardines,19:30
+07/08/20,Joel Ramirez Ortega,10:00
+07/08/20,Gaston Ceron Munoz,06:30
+07/08/20,Gabriela Morales Mendez,08:00
+07/08/20,Claudia Camacho Carreggio,06:30
+07/08/20,Carla Guzman Illescas,06:30
+07/08/20,Berenice Alfaro Ponce,19:30
+07/08/20,Axel Ishac Licona Calderon,10:00
+07/08/20,Alejandro Martinez Rodriguez,10:00
+07/08/20,Adolfo Miguel Pontigo Tovar,10:00
+08/08/20,Raciel Edmundo Escudero Diaz,08:00
+08/08/20,Mayra Anay Avila Martinez,08:00
+08/08/20,Maria Concepcion Avila Martinez,08:00
+08/08/20,Marco Antonio Lozada Copca,08:00
+08/08/20,Claudia Camacho Carreggio,08:00
+08/08/20,Carla Guzman Illescas,08:00
+10/08/20,Zyanya Cano Barroeta,19:30
+10/08/20,Vianney Alberto Melo Rios,08:00
+10/08/20,Mario Villarreal Mares,19:30
+10/08/20,Marco Antonio Lozada Copca,19:30
+10/08/20,Luis David Cruz Olivares,19:30
+10/08/20,Julio Cesar Hernandez Velasco,08:00
+10/08/20,Juan Francisco Bello Jardines,19:30
+10/08/20,Joel Ramirez Ortega,10:00
+10/08/20,Jesus Octavio Olivares Gonz‡lez,19:30
+10/08/20,Gaston Ceron Munoz,06:30
+10/08/20,Gabriela Morales Mendez,08:00
+10/08/20,Dulce Maria Ramirez Ceron,08:00
+10/08/20,Diego Alberto Ramirez Ceron,19:30
+10/08/20,Claudia Camacho Carreggio,06:30
+10/08/20,Carla Guzman Illescas,06:30
+10/08/20,Berenice Alfaro Ponce,19:30
+10/08/20,Axel Ishac Licona Calderon,19:30
+10/08/20,Angeles Zeydel Olivares,19:30
+10/08/20,Angel Zaid Cruz Olivarez,19:30
+10/08/20,Andrea Cortes Barroeta,08:00
+10/08/20,Alma Thais Godinez Garrido,10:00
+10/08/20,Alejandro Martinez Rodriguez,10:00
+10/08/20,Adolfo Miguel Pontigo Tovar,10:00
+11/08/20,Vianney Alberto Melo Rios,08:00
+11/08/20,Selma Janett Calleja Jaramillo,06:30
+11/08/20,Raciel Edmundo Escudero Diaz,06:30
+11/08/20,Naoli Alfaro Ponce,18:00
+11/08/20,Mayra Anay Avila Martinez,18:00
+11/08/20,Mario Villarreal Mares,18:00
+11/08/20,Maria Concepcion Avila Martinez,18:00
+11/08/20,Marco Antonio Lozada Copca,06:30
+11/08/20,Magdalena Ponce,18:00
+11/08/20,Magali Citlalli Reyes Garcia,19:30
+11/08/20,Luis David Cruz Olivares,10:00
+11/08/20,Karen Danae Avila Martinez,18:00
+11/08/20,Juan Francisco Bello Jardines,18:00
+11/08/20,Jesus Octavio Olivares Gonz‡lez,10:00
+11/08/20,Gabriela Morales Mendez,08:00
+11/08/20,Claudia Camacho Carreggio,06:30
+11/08/20,Carla Guzman Illescas,06:30
+11/08/20,Berenice Alfaro Ponce,18:00
+11/08/20,Axel Ishac Licona Calderon,19:30
+11/08/20,Angel Zaid Cruz Olivarez,10:00
+11/08/20,Andrea Cortes Barroeta,08:00
+11/08/20,Alma Thais Godinez Garrido,10:00
+11/08/20,Adolfo Miguel Pontigo Tovar,10:00
+12/08/20,Vianney Alberto Melo Rios,08:00
+12/08/20,Selma Janett Calleja Jaramillo,06:30
+12/08/20,Regina Rojas Crespo,19:30
+12/08/20,Raciel Edmundo Escudero Diaz,06:30
+12/08/20,Mayra Anay Avila Martinez,18:00
+12/08/20,Mario Villarreal Mares,19:30
+12/08/20,Maria Concepcion Avila Martinez,18:00
+12/08/20,Marco Antonio Lozada Copca,06:30
+12/08/20,Magali Citlalli Reyes Garcia,19:30
+12/08/20,Luis David Cruz Olivares,19:30
+12/08/20,Karen Danae Avila Martinez,18:00
+12/08/20,Julio Cesar Hernandez Velasco,08:00
+12/08/20,Juan Francisco Bello Jardines,19:30
+12/08/20,Jesus Octavio Olivares Gonz‡lez,19:30
+12/08/20,Gabriela Morales Mendez,08:00
+12/08/20,Dulce Maria Ramirez Ceron,08:00
+12/08/20,Diego Alberto Ramirez Ceron,19:30
+12/08/20,Claudia Camacho Carreggio,06:30
+12/08/20,Carla Guzman Illescas,06:30
+12/08/20,Berenice Alfaro Ponce,19:30
+12/08/20,Angel Zaid Cruz Olivarez,10:00
+12/08/20,Andrea Cortes Barroeta,08:00
+12/08/20,Alma Thais Godinez Garrido,10:00
+12/08/20,Alejandro Martinez Rodriguez,10:00
+12/08/20,Adolfo Miguel Pontigo Tovar,10:00
+13/08/20,Zyanya Cano Barroeta,19:30
+13/08/20,Vianney Alberto Melo Rios,08:00
+13/08/20,Selma Janett Calleja Jaramillo,06:30
+13/08/20,Regina Rojas Crespo,19:30
+13/08/20,Raciel Edmundo Escudero Diaz,06:30
+13/08/20,Naoli Alfaro Ponce,18:00
+13/08/20,Mayra Anay Avila Martinez,18:00
+13/08/20,Mario Villarreal Mares,19:30
+13/08/20,Maria Concepcion Avila Martinez,18:00
+13/08/20,Marco Antonio Lozada Copca,06:30
+13/08/20,Luis David Cruz Olivares,19:30
+13/08/20,Luis Alejandro Cortes Rodriguez,19:30
+13/08/20,Karen Danae Avila Martinez,18:00
+13/08/20,Juan Francisco Bello Jardines,18:00
+13/08/20,Jesus Octavio Olivares Gonz‡lez,19:30
+13/08/20,Gaston Ceron Munoz,06:30
+13/08/20,Gabriela Morales Mendez,08:00
+13/08/20,Claudia Camacho Carreggio,06:30
+13/08/20,Carla Guzman Illescas,06:30
+13/08/20,Berenice Alfaro Ponce,18:00
+13/08/20,Angeles Zeydel Olivares,19:30
+13/08/20,Angel Zaid Cruz Olivarez,19:30
+13/08/20,Andrea Cortes Barroeta,08:00
+13/08/20,Alma Thais Godinez Garrido,10:00
+13/08/20,Adolfo Miguel Pontigo Tovar,10:00
+14/08/20,Selma Janett Calleja Jaramillo,06:30
+14/08/20,Regina Rojas Crespo,19:30
+14/08/20,Raciel Edmundo Escudero Diaz,06:30
+14/08/20,Mario Villarreal Mares,19:30
+14/08/20,Marco Antonio Lozada Copca,06:30
+14/08/20,Magali Citlalli Reyes Garcia,19:30
+14/08/20,Luis David Cruz Olivares,19:30
+14/08/20,Julio Cesar Hernandez Velasco,08:00
+14/08/20,Gaston Ceron Munoz,06:30
+14/08/20,Gabriela Morales Mendez,08:00
+14/08/20,Claudia Camacho Carreggio,06:30
+14/08/20,Carla Guzman Illescas,06:30
+14/08/20,Angeles Zeydel Olivares,19:30
+14/08/20,Angel Zaid Cruz Olivarez,19:30
+14/08/20,Andrea Cortes Barroeta,19:30
+14/08/20,Alma Thais Godinez Garrido,10:00
+14/08/20,Adolfo Miguel Pontigo Tovar,10:00
+15/08/20,Marco Antonio Lozada Copca,08:00
+15/08/20,Claudia Camacho Carreggio,08:00
+15/08/20,Carla Guzman Illescas,08:00
+17/08/20,Selma Janett Calleja Jaramillo,06:30
+17/08/20,Raciel Edmundo Escudero Diaz,06:30
+17/08/20,Naoli Alfaro Ponce,19:30
+17/08/20,Mayra Anay Avila Martinez,19:30
+17/08/20,Mario Villarreal Mares,19:30
+17/08/20,Maria Concepcion Avila Martinez,19:30
+17/08/20,Luis David Cruz Olivares,19:30
+17/08/20,Karen Danae Avila Martinez,19:30
+17/08/20,Julio Cesar Hernandez Velasco,08:00
+17/08/20,Juan Francisco Bello Jardines,19:30
+17/08/20,Jesus Octavio Olivares Gonz‡lez,19:30
+17/08/20,Gaston Ceron Munoz,06:30
+17/08/20,Claudia Camacho Carreggio,06:30
+17/08/20,Carla Guzman Illescas,06:30
+17/08/20,Berenice Alfaro Ponce,19:30
+17/08/20,Angeles Zeydel Olivares,19:30
+17/08/20,Angel Zaid Cruz Olivarez,19:30
+17/08/20,Alma Thais Godinez Garrido,10:00
+17/08/20,Adolfo Miguel Pontigo Tovar,10:00
+18/08/20,Selma Janett Calleja Jaramillo,06:30
+18/08/20,Raciel Edmundo Escudero Diaz,06:30
+18/08/20,Otto Garcia,19:30
+18/08/20,Mayra Anay Avila Martinez,18:00
+18/08/20,Mario Villarreal Mares,19:30
+18/08/20,Maria Concepcion Avila Martinez,18:00
+18/08/20,Marco Antonio Lozada Copca,06:30
+18/08/20,Luis David Cruz Olivares,19:30
+18/08/20,Luba Miriam Laski Covarrubias,19:30
+18/08/20,Karen Danae Avila Martinez,18:00
+18/08/20,Jesus Octavio Olivares Gonz‡lez,19:30
+18/08/20,Gaston Ceron Munoz,06:30
+18/08/20,Gabriela Morales Mendez,08:00
+18/08/20,Claudia Camacho Carreggio,06:30
+18/08/20,Carla Guzman Illescas,06:30
+18/08/20,Axel Ishac Licona Calderon,19:30
+18/08/20,Angeles Zeydel Olivares,19:30
+18/08/20,Angel Zaid Cruz Olivarez,19:30
+18/08/20,Andrea Cortes Barroeta,19:30
+18/08/20,Alma Thais Godinez Garrido,10:00
+18/08/20,Adolfo Miguel Pontigo Tovar,10:00
+19/08/20,Vianney Alberto Melo Rios,06:30
+19/08/20,Valerio Ivan Islas Charolet,06:30
+19/08/20,Selma Janett Calleja Jaramillo,06:30
+19/08/20,Regina Rojas Crespo,18:00
+19/08/20,Raciel Edmundo Escudero Diaz,06:30
+19/08/20,Naoli Alfaro Ponce,19:30
+19/08/20,Mayra Anay Avila Martinez,10:00
+19/08/20,Mario Villarreal Mares,19:30
+19/08/20,Maria Concepcion Avila Martinez,18:00
+19/08/20,Marco Antonio Lozada Copca,06:30
+19/08/20,Magali Citlalli Reyes Garcia,19:30
+19/08/20,Luis David Cruz Olivares,19:30
+19/08/20,Luis Alejandro Cortes Rodriguez,19:30
+19/08/20,Luba Miriam Laski Covarrubias,19:30
+19/08/20,Karen Danae Avila Martinez,18:00
+19/08/20,Julio Cesar Hernandez Velasco,08:00
+19/08/20,Juan Francisco Bello Jardines,19:30
+19/08/20,Jesus Octavio Olivares Gonz‡lez,19:30
+19/08/20,Gaston Ceron Munoz,06:30
+19/08/20,Gabriela Morales Mendez,08:00
+19/08/20,Diego Alberto Ramirez Ceron,19:30
+19/08/20,Claudia Camacho Carreggio,19:30
+19/08/20,Claudia Camacho Carreggio,06:30
+19/08/20,Carla Guzman Illescas,06:30
+19/08/20,Berenice Alfaro Ponce,19:30
+19/08/20,Axel Ishac Licona Calderon,19:30
+19/08/20,Angeles Zeydel Olivares,19:30
+19/08/20,Angel Zaid Cruz Olivarez,19:30
+19/08/20,Andrea Cortes Barroeta,19:30
+19/08/20,Alma Thais Godinez Garrido,08:00
+19/08/20,Adolfo Miguel Pontigo Tovar,10:00
+20/08/20,Zyanya Cano Barroeta,08:00
+20/08/20,Vianney Alberto Melo Rios,06:30
+20/08/20,Valerio Ivan Islas Charolet,06:30
+20/08/20,Selma Janett Calleja Jaramillo,06:30
+20/08/20,Regina Rojas Crespo,18:00
+20/08/20,Raciel Edmundo Escudero Diaz,06:30
+20/08/20,Naoli Alfaro Ponce,19:30
+20/08/20,Mayra Anay Avila Martinez,18:00
+20/08/20,Mario Villarreal Mares,18:00
+20/08/20,Maria Concepcion Avila Martinez,18:00
+20/08/20,Marco Antonio Lozada Copca,06:30
+20/08/20,Luis David Cruz Olivares,19:30
+20/08/20,Luis Alejandro Cortes Rodriguez,19:30
+20/08/20,Karen Danae Avila Martinez,10:00
+20/08/20,Juan Francisco Bello Jardines,19:30
+20/08/20,Jesus Octavio Olivares Gonz‡lez,19:30
+20/08/20,Gaston Ceron Munoz,06:30
+20/08/20,Gabriela Morales Mendez,08:00
+20/08/20,Claudia Camacho Carreggio,19:30
+20/08/20,Carla Guzman Illescas,06:30
+20/08/20,Berenice Alfaro Ponce,19:30
+20/08/20,Angeles Zeydel Olivares,19:30
+20/08/20,Angel Zaid Cruz Olivarez,19:30
+20/08/20,Andrea Cortes Barroeta,08:00
+20/08/20,Alma Thais Godinez Garrido,10:00
+20/08/20,Adolfo Miguel Pontigo Tovar,08:00
+21/08/20,Vianney Alberto Melo Rios,06:30
+21/08/20,Valerio Ivan Islas Charolet,06:30
+21/08/20,Selma Janett Calleja Jaramillo,06:30
+21/08/20,Raciel Edmundo Escudero Diaz,06:30
+21/08/20,Mario Villarreal Mares,19:30
+21/08/20,Maria Concepcion Avila Martinez,08:00
+21/08/20,Marco Antonio Lozada Copca,06:30
+21/08/20,Luis David Cruz Olivares,19:30
+21/08/20,Karen Danae Avila Martinez,08:00
+21/08/20,Juan Francisco Bello Jardines,19:30
+21/08/20,Jesus Octavio Olivares Gonz‡lez,10:00
+21/08/20,Gaston Ceron Munoz,06:30
+21/08/20,Gabriela Morales Mendez,08:00
+21/08/20,Carla Guzman Illescas,06:30
+21/08/20,Berenice Alfaro Ponce,19:30
+21/08/20,Angeles Zeydel Olivares,10:00
+21/08/20,Angel Zaid Cruz Olivarez,19:30
+21/08/20,Alma Thais Godinez Garrido,10:00
+21/08/20,Adolfo Miguel Pontigo Tovar,08:00
+24/08/20,Zaira Sanchez Omana,08:00
+24/08/20,Vianney Alberto Melo Rios,08:00
+24/08/20,Sergio Rogelio Perez Ramirez,19:30
+24/08/20,Selma Janett Calleja Jaramillo,06:00
+24/08/20,Regina Rojas Crespo,19:30
+24/08/20,Raciel Edmundo Escudero Diaz,06:00
+24/08/20,Oscar Nashiel Gonzalez Lara,08:00
+24/08/20,Naydelin Ruiz Hern‡ndez,19:30
+24/08/20,Naoli Alfaro Ponce,19:30
+24/08/20,Martha Guerrero Olvera,19:30
+24/08/20,Mario Villarreal Mares,19:30
+24/08/20,Marco Antonio Lozada Copca,06:00
+24/08/20,Luis David Cruz Olivares,19:30
+24/08/20,Luba Miriam Laski Covarrubias,19:30
+24/08/20,Julio Cesar Hernandez Velasco,08:00
+24/08/20,Juan Francisco Bello Jardines,19:30
+24/08/20,Jesus Octavio Olivares Gonz‡lez,06:00
+24/08/20,Gaston Ceron Munoz,06:00
+24/08/20,Gabriela Morales Mendez,08:00
+24/08/20,Elba Barrera Hernandez,08:00
+24/08/20,Eduardo Garcia Gomez,19:30
+24/08/20,Danya Sanchez Omana,08:00
+24/08/20,Crisalida Yohel Ramirez Rodriguez,19:30
+24/08/20,Claudia Camacho Carreggio,06:00
+24/08/20,Carla Guzman Illescas,06:00
+24/08/20,Berenice Alfaro Ponce,19:30
+24/08/20,Axel Ishac Licona Calderon,19:30
+24/08/20,Angeles Zeydel Olivares,19:30
+24/08/20,Angel Zaid Cruz Olivarez,19:30
+25/08/20,Vianney Alberto Melo Rios,08:00
+25/08/20,Valerio Ivan Islas Charolet,06:00
+25/08/20,Sergio Rogelio Perez Ramirez,19:30
+25/08/20,Selma Janett Calleja Jaramillo,06:00
+25/08/20,Raciel Edmundo Escudero Diaz,06:00
+25/08/20,Naydelin Ruiz Hern‡ndez,19:30
+25/08/20,Martha Guerrero Olvera,19:30
+25/08/20,Mario Villarreal Mares,19:30
+25/08/20,Marco D,19:30
+25/08/20,Marco Antonio Lozada Copca,06:00
+25/08/20,Magali Citlalli Reyes Garcia,19:30
+25/08/20,Luba Miriam Laski Covarrubias,19:30
+25/08/20,Jesus Octavio Olivares Gonz‡lez,06:00
+25/08/20,Israel Ulises Hernandez Martinez,06:00
+25/08/20,Gaston Ceron Munoz,06:00
+25/08/20,Gabriela Morales Mendez,08:00
+25/08/20,Crisalida Yohel Ramirez Rodriguez,19:30
+25/08/20,Claudia Camacho Carreggio,06:00
+25/08/20,Carla Guzman Illescas,06:00
+25/08/20,Axel Ishac Licona Calderon,19:30
+26/08/20,Zaira Sanchez Omana,08:00
+26/08/20,Vianney Alberto Melo Rios,08:00
+26/08/20,Valerio Ivan Islas Charolet,06:00
+26/08/20,Selma Janett Calleja Jaramillo,06:00
+26/08/20,Regina Rojas Crespo,19:30
+26/08/20,Raciel Edmundo Escudero Diaz,06:00
+26/08/20,Oscar Nashiel Gonzalez Lara,08:00
+26/08/20,Naoli Alfaro Ponce,19:30
+26/08/20,Martha Guerrero Olvera,19:30
+26/08/20,Mario Villarreal Mares,19:30
+26/08/20,Marco Antonio Lozada Copca,06:00
+26/08/20,Magali Citlalli Reyes Garcia,19:30
+26/08/20,Luis David Cruz Olivares,19:30
+26/08/20,Luba Miriam Laski Covarrubias,19:30
+26/08/20,Juan Francisco Bello Jardines,19:30
+26/08/20,Jesus Octavio Olivares Gonz‡lez,06:00
+26/08/20,Israel Ulises Hernandez Martinez,06:00
+26/08/20,Gaston Ceron Munoz,06:00
+26/08/20,Gabriela Morales Mendez,08:00
+26/08/20,Danya Sanchez Omana,08:00
+26/08/20,Claudia Camacho Carreggio,06:00
+26/08/20,Carla Guzman Illescas,06:00
+26/08/20,Berenice Alfaro Ponce,19:30
+26/08/20,Axel Ishac Licona Calderon,19:30
+26/08/20,Angeles Zeydel Olivares,19:30
+26/08/20,Angel Zaid Cruz Olivarez,19:30
+27/08/20,Vianney Alberto Melo Rios,08:00
+27/08/20,Valerio Ivan Islas Charolet,06:00
+27/08/20,Selma Janett Calleja Jaramillo,06:00
+27/08/20,Regina Rojas Crespo,19:30
+27/08/20,Raciel Edmundo Escudero Diaz,06:00
+27/08/20,Naydelin Ruiz Hern‡ndez,19:30
+27/08/20,Mario Villarreal Mares,19:30
+27/08/20,Marco Antonio Lozada Copca,06:00
+27/08/20,Magali Citlalli Reyes Garcia,19:30
+27/08/20,Luba Miriam Laski Covarrubias,19:30
+27/08/20,Juan Francisco Bello Jardines,19:30
+27/08/20,Israel Ulises Hernandez Martinez,06:00
+27/08/20,Gaston Ceron Munoz,06:00
+27/08/20,Gabriela Morales Mendez,08:00
+27/08/20,Claudia Camacho Carreggio,06:00
+27/08/20,Carla Guzman Illescas,06:00
+27/08/20,Candy Nohemi Calderon Chavarria,08:00
+27/08/20,Axel Ishac Licona Calderon,19:30
+28/08/20,Zaira Sanchez Omana,08:00
+28/08/20,Selma Janett Calleja Jaramillo,06:00
+28/08/20,Regina Rojas Crespo,19:30
+28/08/20,Raciel Edmundo Escudero Diaz,06:00
+28/08/20,Oscar Nashiel Gonzalez Lara,08:00
+28/08/20,Naoli Alfaro Ponce,19:30
+28/08/20,Mario Villarreal Mares,19:30
+28/08/20,Marco Antonio Lozada Copca,06:00
+28/08/20,Luis David Cruz Olivares,19:30
+28/08/20,Luba Miriam Laski Covarrubias,19:30
+28/08/20,Julio Cesar Hernandez Velasco,08:00
+28/08/20,Juan Francisco Bello Jardines,19:30
+28/08/20,Jesus Octavio Olivares Gonz‡lez,06:00
+28/08/20,Israel Ulises Hernandez Martinez,06:00
+28/08/20,Gaston Ceron Munoz,06:00
+28/08/20,Danya Sanchez Omana,08:00
+28/08/20,Claudia Camacho Carreggio,06:00
+28/08/20,Carla Guzman Illescas,06:00
+28/08/20,Candy Nohemi Calderon Chavarria,08:00
+28/08/20,Berenice Alfaro Ponce,19:30
+28/08/20,Axel Ishac Licona Calderon,19:30
+28/08/20,Angeles Zeydel Olivares,19:30
+28/08/20,Angel Zaid Cruz Olivarez,19:30
+31/08/20,Zaira Sanchez Omana,08:00
+31/08/20,Vianney Alberto Melo Rios,08:00
+31/08/20,Sergio Rogelio Perez Ramirez,19:30
+31/08/20,Selma Janett Calleja Jaramillo,06:00
+31/08/20,Rodrigo Osvaldo Cortes Montiel,08:00
+31/08/20,Oscar Nashiel Gonzalez Lara,08:00
+31/08/20,Naydelin Ruiz Hern‡ndez,19:30
+31/08/20,Naoli Alfaro Ponce,19:30
+31/08/20,Martha Guerrero Olvera,19:30
+31/08/20,Mario Villarreal Mares,19:30
+31/08/20,Marco Antonio Lozada Copca,06:00
+31/08/20,Luis David Cruz Olivares,19:30
+31/08/20,Luba Miriam Laski Covarrubias,19:30
+31/08/20,Julio Cesar Hernandez Velasco,08:00
+31/08/20,Juan Francisco Bello Jardines,19:30
+31/08/20,Jose Daniel Perez Nunez,08:00
+31/08/20,Jorge Alberto Gonzalez Melendez,08:00
+31/08/20,Jesus Octavio Olivares Gonz‡lez,06:00
+31/08/20,Gaston Ceron Munoz,06:00
+31/08/20,Gabriela Morales Mendez,08:00
+31/08/20,Danya Sanchez Omana,08:00
+31/08/20,Carla Guzman Illescas,06:00
+31/08/20,Candy Nohemi Calderon Chavarria,08:00
+31/08/20,Berenice Alfaro Ponce,19:30
+31/08/20,Axel Ishac Licona Calderon,19:30
+31/08/20,Angeles Zeydel Olivares,19:30
+31/08/20,Angel Zaid Cruz Olivarez,19:30
+01/09/20,Vianney Alberto Melo Rios,08:00
+01/09/20,Valerio Ivan Islas Charolet,06:00
+01/09/20,Suriel,08:00
+01/09/20,Sergio Rogelio Perez Ramirez,19:30
+01/09/20,Selma Janett Calleja Jaramillo,06:00
+01/09/20,Regina Rojas Crespo,19:30
+01/09/20,Raciel Edmundo Escudero Diaz,06:00
+01/09/20,Pablo Manuel Gayosso Chavez,19:30
+01/09/20,Naydelin Ruiz Hern‡ndez,19:30
+01/09/20,Martha Guerrero Olvera,19:30
+01/09/20,Maria Esther Hernandez Diaz,19:30
+01/09/20,Maria de los Angeles Villanueva Espinosa,08:00
+01/09/20,Marco Antonio Lozada Copca,06:00
+01/09/20,Magali Citlalli Reyes Garcia,19:30
+01/09/20,Luba Miriam Laski Covarrubias,19:30
+01/09/20,Jose Daniel Perez Nunez,08:00
+01/09/20,Jorge Alberto Gonzalez Melendez,08:00
+01/09/20,Gaston Ceron Munoz,06:00
+01/09/20,Gabriela Morales Mendez,08:00
+01/09/20,Claudia Camacho Carreggio,06:00
+01/09/20,Carla Guzman Illescas,06:00
+01/09/20,Candy Nohemi Calderon Chavarria,08:00
+01/09/20,Axel Ishac Licona Calderon,19:30
+02/09/20,Zaira Sanchez Omana,08:00
+02/09/20,Suriel Martinez Serrano,19:30
+02/09/20,Selma Janett Calleja Jaramillo,06:00
+02/09/20,Rodrigo Osvaldo Cortes Montiel,08:00
+02/09/20,Raciel Edmundo Escudero Diaz,06:00
+02/09/20,Oscar Nashiel Gonzalez Lara,08:00
+02/09/20,Martha Guerrero Olvera,19:30
+02/09/20,Mario Villarreal Mares,19:30
+02/09/20,Marco D,19:30
+02/09/20,Marco Antonio Lozada Copca,06:00
+02/09/20,Magali Citlalli Reyes Garcia,19:30
+02/09/20,Luis David Cruz Olivares,19:30
+02/09/20,Luba Miriam Laski Covarrubias,19:30
+02/09/20,Julio Cesar Hernandez Velasco,08:00
+02/09/20,Jose Daniel Perez Nunez,08:00
+02/09/20,Jorge Alberto Gonzalez Melendez,08:00
+02/09/20,Jesus Octavio Olivares Gonz‡lez,06:00
+02/09/20,Israel Ulises Hernandez Martinez,06:00
+02/09/20,Gaston Ceron Munoz,06:00
+02/09/20,Gabriela Morales Mendez,08:00
+02/09/20,Danya Sanchez Omana,08:00
+02/09/20,Crisalida Yohel Ramirez Rodriguez,19:30
+02/09/20,Claudia Camacho Carreggio,06:00
+02/09/20,Carla Guzman Illescas,06:00
+02/09/20,Candy Nohemi Calderon Chavarria,08:00
+02/09/20,Axel Ishac Licona Calderon,19:30
+02/09/20,Angeles Zeydel Olivares,19:30
+02/09/20,Angel Zaid Cruz Olivarez,19:30
+03/09/20,Vianney Alberto Melo Rios,08:00
+03/09/20,Selma Janett Calleja Jaramillo,06:00
+03/09/20,Regina Rojas Crespo,19:30
+03/09/20,Raciel Edmundo Escudero Diaz,06:00
+03/09/20,Naydelin Ruiz Hern‡ndez,19:30
+03/09/20,Naoli Alfaro Ponce,19:30
+03/09/20,Mario Villarreal Mares,19:30
+03/09/20,Maria Esther Hernandez Diaz,19:30
+03/09/20,Maria de los Angeles Villanueva Espinosa,08:00
+03/09/20,Marco Antonio Lozada Copca,06:00
+03/09/20,Luba Miriam Laski Covarrubias,19:30
+03/09/20,Juan Francisco Bello Jardines,19:30
+03/09/20,Jose Daniel Perez Nunez,08:00
+03/09/20,Jorge Armando Paz Estrada,08:00
+03/09/20,Israel Ulises Hernandez Martinez,06:00
+03/09/20,Gabriela Morales Mendez,08:00
+03/09/20,Claudia Camacho Carreggio,06:00
+03/09/20,Carla Guzman Illescas,06:00
+03/09/20,Candy Nohemi Calderon Chavarria,08:00
+03/09/20,Berenice Alfaro Ponce,19:30
+03/09/20,Axel Ishac Licona Calderon,19:30
+04/09/20,Zaira Sanchez Omana,08:00
+04/09/20,Vianney Alberto Melo Rios,08:00
+04/09/20,Selma Janett Calleja Jaramillo,06:00
+04/09/20,Rodrigo Osvaldo Cortes Montiel,08:00
+04/09/20,Raciel Edmundo Escudero Diaz,06:00
+04/09/20,Oscar Nashiel Gonzalez Lara,08:00
+04/09/20,Naoli Alfaro Ponce,19:30
+04/09/20,Mario Villarreal Mares,19:30
+04/09/20,Maria Esther Hernandez Diaz,19:30
+04/09/20,Marco Antonio Lozada Copca,06:00
+04/09/20,Magali Citlalli Reyes Garcia,19:30
+04/09/20,Luba Miriam Laski Covarrubias,19:30
+04/09/20,Julio Cesar Hernandez Velasco,08:00
+04/09/20,Juan Francisco Bello Jardines,19:30
+04/09/20,Jose Daniel Perez Nunez,08:00
+04/09/20,Jorge Armando Paz Estrada,08:00
+04/09/20,Israel Ulises Hernandez Martinez,06:00
+04/09/20,Gabriela Morales Mendez,08:00
+04/09/20,Danya Sanchez Omana,08:00
+04/09/20,Claudia Camacho Carreggio,06:00
+04/09/20,Carla Guzman Illescas,06:00
+04/09/20,Candy Nohemi Calderon Chavarria,08:00
+04/09/20,Berenice Alfaro Ponce,19:30
+04/09/20,Axel Ishac Licona Calderon,19:30
+05/09/20,Maria de los Angeles Villanueva Espinosa,06:00
+05/09/20,Jorge Alberto Gonzalez Melendez,06:00
+05/09/20,Gaston Ceron Munoz,06:00
+05/09/20,Claudia Camacho Carreggio,06:00
+05/09/20,Carla Guzman Illescas,06:00
+07/09/20,Zaira Sanchez Omana,08:00
+07/09/20,Vianney Alberto Melo Rios,08:00
+07/09/20,Selma Janett Calleja Jaramillo,06:00
+07/09/20,Rodrigo Osvaldo Cortes Montiel,08:00
+07/09/20,Raciel Edmundo Escudero Diaz,06:00
+07/09/20,Oscar Nashiel Gonzalez Lara,08:00
+07/09/20,Naydelin Ruiz Hern‡ndez,19:30
+07/09/20,Martha Guerrero Olvera,19:30
+07/09/20,Mario Villarreal Mares,19:30
+07/09/20,Maria Esther Hernandez Diaz,08:00
+07/09/20,Marco Dominguez Lopez,19:30
+07/09/20,Marco Antonio Lozada Copca,19:30
+07/09/20,Luis David Cruz Olivares,19:30
+07/09/20,Luba Miriam Laski Covarrubias,19:30
+07/09/20,Julio Cesar Hernandez Velasco,08:00
+07/09/20,Jose Daniel Perez Nunez,08:00
+07/09/20,Jorge Armando Paz Estrada,08:00
+07/09/20,Jesus Octavio Olivares Gonz‡lez,06:00
+07/09/20,Gaston Ceron Munoz,06:00
+07/09/20,Gabriela Morales Mendez,08:00
+07/09/20,Gabriela Barranco Mendoza,08:00
+07/09/20,Danya Sanchez Omana,08:00
+07/09/20,Crisalida Yohel Ramirez Rodriguez,19:30
+07/09/20,Claudia Camacho Carreggio,06:00
+07/09/20,Carla Guzman Illescas,06:00
+07/09/20,Candy Nohemi Calderon Chavarria,06:00
+07/09/20,Axel Ishac Licona Calderon,19:30
+07/09/20,Angeles Zeydel Olivares,19:30
+07/09/20,Angel Zaid Cruz Olivarez,19:30
+08/09/20,Vianney Alberto Melo Rios,08:00
+08/09/20,Suriel Martinez Serrano,08:00
+08/09/20,Selma Janett Calleja Jaramillo,06:00
+08/09/20,Raciel Edmundo Escudero Diaz,06:00
+08/09/20,Naydelin Ruiz Hern‡ndez,07:30
+08/09/20,Mitzi Yael Porras Perez,08:00
+08/09/20,Martha Guerrero Olvera,07:30
+08/09/20,Mario Villarreal Mares,07:30
+08/09/20,Maria Esther Hernandez Diaz,08:00
+08/09/20,Maria de los Angeles Villanueva Espinosa,08:00
+08/09/20,Marco Dominguez Lopez,07:30
+08/09/20,Marco Antonio Lozada Copca,06:00
+08/09/20,Magali Citlalli Reyes Garcia,07:30
+08/09/20,Luba Miriam Laski Covarrubias,07:30
+08/09/20,Jose Antonio Alonso Cervantes,07:30
+08/09/20,Jorge Armando Paz Estrada,08:00
+08/09/20,Gaston Ceron Munoz,06:00
+08/09/20,Gabriela Morales Mendez,08:00
+08/09/20,Crisalida Yohel Ramirez Rodriguez,07:30
+08/09/20,Claudia Camacho Carreggio,06:00
+08/09/20,Catalina Hidalgo Ledezma,07:30
+08/09/20,Carla Guzman Illescas,06:00
+08/09/20,Axel Ishac Licona Calderon,07:30
+09/09/20,Zaira Sanchez Omana,08:00
+09/09/20,Vianney Alberto Melo Rios,08:00
+09/09/20,Selma Janett Calleja Jaramillo,06:00
+09/09/20,Rodrigo Osvaldo Cortes Montiel,08:00
+09/09/20,Raciel Edmundo Escudero Diaz,06:00
+09/09/20,Oscar Nashiel Gonzalez Lara,08:00
+09/09/20,Martha Guerrero Olvera,19:00
+09/09/20,Mario Villarreal Mares,19:00
+09/09/20,Maria Esther Hernandez Diaz,08:00
+09/09/20,Marco Dominguez Lopez,19:00
+09/09/20,Marco Antonio Lozada Copca,06:00
+09/09/20,Magali Citlalli Reyes Garcia,19:00
+09/09/20,Luis David Cruz Olivares,19:00
+09/09/20,Luba Miriam Laski Covarrubias,19:00
+09/09/20,Julio Cesar Hernandez Velasco,08:00
+09/09/20,Jose Daniel Perez Nunez,08:00
+09/09/20,Jorge Armando Paz Estrada,08:00
+09/09/20,Jorge Alberto Gonzalez Melendez,08:00
+09/09/20,Jesus Octavio Olivares Gonz‡lez,06:00
+09/09/20,Israel Ulises Hernandez Martinez,06:00
+09/09/20,Gaston Ceron Munoz,06:00
+09/09/20,Gabriela Morales Mendez,08:00
+09/09/20,Gabriela Barranco Mendoza,08:00
+09/09/20,Elba Zuzely Vizcaya Barrera,19:00
+09/09/20,Danya Sanchez Omana,08:00
+09/09/20,Crisalida Yohel Ramirez Rodriguez,19:00
+09/09/20,Claudia Camacho Carreggio,06:00
+09/09/20,Carla Guzman Illescas,06:00
+09/09/20,Candy Nohemi Calderon Chavarria,06:00
+09/09/20,Axel Ishac Licona Calderon,19:00
+09/09/20,Angeles Zeydel Olivares,19:00
+09/09/20,Angel Zaid Cruz Olivarez,19:00
+10/09/20,Vianney Alberto Melo Rios,08:00
+10/09/20,Suriel Martinez Serrano,08:00
+10/09/20,Regina Rojas Crespo,18:00
+10/09/20,Raciel Edmundo Escudero Diaz,06:00
+10/09/20,Paloma Ashly Covarrubias Hernandez,18:00
+10/09/20,Naydelin Ruiz Hern‡ndez,19:30
+10/09/20,Naoli Alfaro Ponce,18:00
+10/09/20,Mitzi Yael Porras Perez,08:00
+10/09/20,Mario Villarreal Mares,19:30
+10/09/20,Marianne Alfaro ,18:00
+10/09/20,Maria Esther Hernandez Diaz,08:00
+10/09/20,Maria de los Angeles Villanueva Espinosa,08:00
+10/09/20,Marco Antonio Lozada Copca,06:00
+10/09/20,Luis David Cruz Olivares,19:30
+10/09/20,Luba Miriam Laski Covarrubias,19:30
+10/09/20,Juan Francisco Bello Jardines,18:00
+10/09/20,Jose Antonio Alonso Cervantes,18:00
+10/09/20,Jorge Armando Paz Estrada,19:30
+10/09/20,Jorge Alberto Gonzalez Melendez,08:00
+10/09/20,Israel Ulises Hernandez Martinez,06:00
+10/09/20,Gaston Ceron Munoz,06:00
+10/09/20,Gabriela Morales Mendez,08:00
+10/09/20,Claudia Camacho Carreggio,06:00
+10/09/20,Catalina Hidalgo Ledezma,08:00
+10/09/20,Carla Guzman Illescas,06:00
+10/09/20,Candy Nohemi Calderon Chavarria,08:00
+10/09/20,Berenice Alfaro Ponce,18:00
+10/09/20,Axel Ishac Licona Calderon,19:30
+10/09/20,Angeles Zeydel Olivares,19:30
+10/09/20,Angel Zaid Cruz Olivarez,19:30
+11/09/20,Zaira Sanchez Omana,08:00
+11/09/20,Vianney Alberto Melo Rios,08:00
+11/09/20,Valerio Ivan Islas Charolet,06:00
+11/09/20,Raciel Edmundo Escudero Diaz,06:00
+11/09/20,Oscar Nashiel Gonzalez Lara,08:00
+11/09/20,Martha Guerrero Olvera,19:30
+11/09/20,Mario Villarreal Mares,19:30
+11/09/20,Maria Esther Hernandez Diaz,08:00
+11/09/20,Marco Antonio Lozada Copca,06:00
+11/09/20,Magali Citlalli Reyes Garcia,19:30
+11/09/20,Luba Miriam Laski Covarrubias,19:30
+11/09/20,Julio Cesar Hernandez Velasco,08:00
+11/09/20,Jorge Armando Paz Estrada,19:30
+11/09/20,Jorge Alberto Gonzalez Melendez,08:00
+11/09/20,Gaston Ceron Munoz,06:00
+11/09/20,Gabriela Morales Mendez,08:00
+11/09/20,Danya Sanchez Omana,08:00
+11/09/20,Claudia Camacho Carreggio,06:00
+11/09/20,Carla Guzman Illescas,06:00
+11/09/20,Candy Nohemi Calderon Chavarria,06:00
+11/09/20,Axel Ishac Licona Calderon,19:30
+12/09/20,Naoli Alfaro Ponce,08:00
+12/09/20,Mario Villarreal Mares,08:00
+12/09/20,Marianne Alfaro ,08:00
+12/09/20,Juan Francisco Bello Jardines,08:00
+12/09/20,Jesus Octavio Olivares Gonz‡lez,08:00
+12/09/20,Claudia Camacho Carreggio,08:00
+12/09/20,Catalina Hidalgo Ledezma,08:00
+12/09/20,Carla Guzman Illescas,08:00
+12/09/20,Berenice Alfaro Ponce,08:00
+14/09/20,Vianney Alberto Melo Rios,08:00
+14/09/20,Selma Janett Calleja Jaramillo,08:00
+14/09/20,Rodrigo Osvaldo Cortes Montiel,08:00
+14/09/20,Raœl Sampedro Carmona,18:30
+14/09/20,Naydelin Ruiz Hern‡ndez,18:30
+14/09/20,Mario Villarreal Mares,18:30
+14/09/20,Maria Esther Hernandez Diaz,20:00
+14/09/20,Marco Dominguez Lopez,18:30
+14/09/20,Luba Miriam Laski Covarrubias,18:30
+14/09/20,Jorge Enrique Vargas Acosta,20:00
+14/09/20,Jorge Armando Paz Estrada,18:30
+14/09/20,Jesus Octavio Olivares Gonz‡lez,06:00
+14/09/20,Heberto Vizcaya Barrera,08:00
+14/09/20,Gaston Ceron Munoz,06:00
+14/09/20,Gabriela Morales Mendez,08:00
+14/09/20,Gabriela Barranco Mendoza,08:00
+14/09/20,Eduardo Garcia Gomez,20:00
+14/09/20,David Lopez Marquez,20:00
+14/09/20,Crisalida Yohel Ramirez Rodriguez,18:30
+14/09/20,Claudia Camacho Carreggio,06:00
+14/09/20,Catalina Hidalgo Ledezma,18:30
+14/09/20,Carla Guzman Illescas,06:00
+14/09/20,Candy Nohemi Calderon Chavarria,06:00
+14/09/20,Axel Ishac Licona Calderon,18:30
+14/09/20,Angeles Zeydel Olivares,20:00
+14/09/20,Angel Zaid Cruz Olivarez,20:00
+15/09/20,Suriel Martinez Serrano,08:00
+15/09/20,Selma Janett Calleja Jaramillo,08:00
+15/09/20,Raciel Edmundo Escudero Diaz,06:00
+15/09/20,Paloma Ashly Covarrubias Hernandez,18:00
+15/09/20,Naydelin Ruiz Hern‡ndez,18:00
+15/09/20,Mitzi Yael Porras Perez,08:00
+15/09/20,Maria Esther Hernandez Diaz,20:00
+15/09/20,Maria de los Angeles Villanueva Espinosa,08:00
+15/09/20,Marco Antonio Lozada Copca,06:00
+15/09/20,Luba Miriam Laski Covarrubias,18:00
+15/09/20,Julio Sanchez Ramirez,20:00
+15/09/20,Juan Antonio Zavala Manzanares,20:00
+15/09/20,Jose Antonio Alonso Cervantes,08:00
+15/09/20,Jorge Enrique Vargas Acosta,20:00
+15/09/20,Heberto Vizcaya Barrera,08:00
+15/09/20,Gaston Ceron Munoz,06:00
+15/09/20,Claudia Camacho Carreggio,06:00
+15/09/20,Carla Guzman Illescas,06:00
+15/09/20,Candy Nohemi Calderon Chavarria,06:00
+15/09/20,Axel Ishac Licona Calderon,18:00
+17/09/20,Vianney Alberto Melo Rios,08:00
+17/09/20,Selma Janett Calleja Jaramillo,08:00
+17/09/20,Raciel Edmundo Escudero Diaz,06:00
+17/09/20,Martha Guerrero Olvera,08:00
+17/09/20,Maria de los Angeles Villanueva Espinosa,08:00
+17/09/20,Jose Antonio Alonso Cervantes,08:00
+17/09/20,Heberto Vizcaya Barrera,08:00
+17/09/20,Gaston Ceron Munoz,06:00
+17/09/20,Gabriela Morales Mendez,08:00
+17/09/20,Gabriela Barranco Mendoza,08:00
+17/09/20,Claudia Camacho Carreggio,06:00
+17/09/20,Carla Guzman Illescas,06:00
+17/09/20,Candy Nohemi Calderon Chavarria,06:00

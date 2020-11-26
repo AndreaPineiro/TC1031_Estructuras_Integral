@@ -3,7 +3,7 @@
 
  *
  *  Created on: 21/09/2020
- *      Author: Andrea Piñeiro Cavazos
+ *      Author: Andrea Pineiro Cavazos
  *
  */
 
@@ -23,7 +23,7 @@ class Sorts {
 		vector<string> busqueda(vector<int>, vector<string>, int , int);
 		void mergeSort(vector<string> &, vector<T> &);
 
-	// Funciones privadas, que serán usadas como auxiliares
+	// Funciones privadas, que seran usadas como auxiliares
 	private:
 		void swap(vector<T>&, int, int);
 		void swapString(vector<string>&, int, int);
@@ -35,7 +35,7 @@ class Sorts {
 		
 };
 
-// Esta función auxiliar realiza un cambio entre 2 índices del vector;
+// Esta funcion auxiliar realiza un cambio entre 2 indices del vector;
 // el dato del primero pasa al segundo y viceversa. 
 
 // Complejidad: O(1) CONSTANTE
@@ -46,7 +46,7 @@ void Sorts<T>::swap(vector<T> &original, int x, int y){
 	original[y] = temp;
 }
 
-// Esta función hace lo mismo pero con un vector de strings
+// Esta funcion hace lo mismo pero con un vector de strings
 template <class T>
 void Sorts<T>::swapString(vector<string> &original, int x, int y){
 	string temp = original[x];
@@ -55,12 +55,12 @@ void Sorts<T>::swapString(vector<string> &original, int x, int y){
 }
 
 
-// Está función implementa el algoritmo SelectionSort, en el cual
-// se recorre el arreglo, se busca el elemento más pequeño de todo arreglo
-// y después se le coloca en la primera posición.
+// Esta funcion implementa el algoritmo SelectionSort, en el cual
+// se recorre el arreglo, se busca el elemento mas pequeno de todo arreglo
+// y despues se le coloca en la primera posicion.
 // Recibe el vector y lo devuelve ordenado
 
-// Complejidad: O(n^2) CUADRÁTICA
+// Complejidad: O(n^2) CUADRaTICA
 template <class T>
 void Sorts<T>::ordenaSeleccion(vector<T> &original, vector<string> &v2){
 	int pos;
@@ -81,12 +81,12 @@ void Sorts<T>::ordenaSeleccion(vector<T> &original, vector<string> &v2){
 
 
 
-// Esta función lo que hace es dividir el vector por la mitad, si el número
-// en la mitad es igual al número que buscamos, regresamos su índice, pues ya lo
-// hemos encontrado. Si es menor llama la función de nuevo desde low hasta mid-1; si es mayor
+// Esta funcion lo que hace es dividir el vector por la mitad, si el numero
+// en la mitad es igual al numero que buscamos, regresamos su indice, pues ya lo
+// hemos encontrado. Si es menor llama la funcion de nuevo desde low hasta mid-1; si es mayor
 // la llama desde mid+1 hasta high. 
 
-//Complejidad: O(log (n)) LOGARÍTMICA
+//Complejidad: O(log (n)) LOGARITMICA
 template <class T>
 int Sorts<T>::busqBinaria(vector<int> original, int x, bool inicial){
 	int mid;
@@ -118,9 +118,9 @@ int Sorts<T>::busqBinaria(vector<int> original, int x, bool inicial){
 	return low;
 }
 
-// Esta función manda llamar 2 veces la busqueda binaria, para encontrar la posicioón de la
-// fecha inicial, y la de la fecha final. Si se encuentran por debajo o exceden el línite muestra
-// un mensaje. Si esta dentro del rango, escribe la información en un vector.
+// Esta funcion manda llamar 2 veces la busqueda binaria, para encontrar la posicioon de la
+// fecha inicial, y la de la fecha final. Si se encuentran por debajo o exceden el lInite muestra
+// un mensaje. Si esta dentro del rango, escribe la informacion en un vector.
 
 // Complejidad: O(n) Debido a que el vector depende del rango n de datos dentro de las fechas que 
 // hayamos declarado.
@@ -133,10 +133,10 @@ vector<string> Sorts<T>::busqueda(vector<int> fecha, vector<string> inf, int fec
     cout << endl;
 
     if (fechaInicial > fecha[fecha.size() - 1]){
-        cout << "Las fechas exceden el límite. \n" << endl;
+        cout << "Las fechas exceden el limite. \n" << endl;
     }
     else if(fechaFinal < fecha[0]){
-        cout << "Las fechas están por debajo del límite. \n" << endl;
+        cout << "Las fechas estan por debajo del limite. \n" << endl;
     }
     else {
     	for (int i = posInicial; i <= posFinal; i++){
@@ -148,8 +148,8 @@ vector<string> Sorts<T>::busqueda(vector<int> fecha, vector<string> inf, int fec
 }
 
 
-// Esta función auxiliar recibe dos vectores y dos números, los datos
-// entre ambos índices se copian del primero al segundo.
+// Esta funcion auxiliar recibe dos vectores y dos numeros, los datos
+// entre ambos indices se copian del primero al segundo.
 
 // Complejidad: O(n) LINEAL
 template <class T>
@@ -161,11 +161,11 @@ void Sorts<T>::copyArray(vector<string> &A, vector<T> &A2,vector<string> &B, vec
 }
 
 
-// Esta función auxiliar para MergeSort lo que hace es recibir 2 vectores y 3 números; los
-// números están divididos entre los datos desde low a mid, y desde mid+1 a high.
-// Lo que hace la función es ordenar los datos entre ambos segmentos en el vector B,
+// Esta funcion auxiliar para MergeSort lo que hace es recibir 2 vectores y 3 numeros; los
+// numeros estan divididos entre los datos desde low a mid, y desde mid+1 a high.
+// Lo que hace la funcion es ordenar los datos entre ambos segmentos en el vector B,
 
-// Complejidad: O(log (n) LOGARÍTMICA
+// Complejidad: O(log (n) LOGARiTMICA
 template <class T>
 void Sorts<T>::mergeArray(vector<string> &A, vector<T> &A2,vector<string> &B, vector<T> &B2, int low, int mid, int high) {
     int i, j, k;
@@ -201,10 +201,10 @@ void Sorts<T>::mergeArray(vector<string> &A, vector<T> &A2,vector<string> &B, ve
 	}
 }
 
-// Esta función auxiliar para mergeSort, recibe 2 vectores y 2 números; lo que hace es
+// Esta funcion auxiliar para mergeSort, recibe 2 vectores y 2 numeros; lo que hace es
 // dividir en 2 segmentos esa parte del arreglo de forma recursiva, hasta que tengamos 
 // 1 solo elemento. Cuando se ha llegado al caso base, se manda llamar a MergeArray para
-// ordenar los números y a copyArray para copiarlo en el vector original. 
+// ordenar los numeros y a copyArray para copiarlo en el vector original. 
 // La complejidad del split es de O(n), y la de mergeArray que se manda a llamar O(log(n))
 
 // Complejidad del split: O(n) LINEAL
@@ -223,7 +223,7 @@ void Sorts<T>::mergeSplit(vector<string> &A, vector<T> &A2,vector<string> &B, ve
 	}
 }
 
-// Función que realiza el algoritmo de sort, haciendo 2 copias del vector
+// Funcion que realiza el algoritmo de sort, haciendo 2 copias del vector
 template <class T>
 void Sorts<T>::mergeSort(vector<string> &A, vector<T> &A2) {
 	vector<string> B(A.size());
