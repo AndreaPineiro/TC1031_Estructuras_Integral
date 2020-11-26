@@ -1,3 +1,5 @@
+Andrea Piñeiro Cavazos A01705681
+
 Este programa recibe datos del CSV "MetroRoma" en este se da la información de las conecciones de todas las estaciones del metro de Roma. Este programa te permite ver todas las conecciones de todos los nodos,o a las estaciones que puedes llegar desde una inicial. Así como darte información de por qué estaciones pasar para llegar de una a otra, y cuál es el camino más corto.
 
 El programa muestra 5 opciones al usuario.
@@ -7,6 +9,12 @@ El programa muestra 5 opciones al usuario.
 3.  Obtener camino de un punto a otro. Esta función implementa DFS
 4.  Obtener el camino más corto de un punto a otro. Se implementa BFS.
 5.  Salir
+
+
+# Casos de prueba
+Se encuentran algunos al final del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
+casos de prueba. 
+
 
 ## LOAD GRAPH LIST
 	** Análisis de complejidad temporal **
