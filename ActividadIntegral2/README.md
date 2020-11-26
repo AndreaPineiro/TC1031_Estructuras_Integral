@@ -1,3 +1,14 @@
+Andrea Piñeiro Cavazos
+
+Este programa recibe datos del txt "Cuponeras" en este se da la información del número de cuponeras que ha adquirido cada atleta del gimnasio Black Bull Fitness. Estas cuponeras incluyen 4 clases para que el atleta tome. En este registro se guarda la información de cada atleta y el número de cuponeras. Para esta entrega uso una Double Linked List para ordenar los datos con ordena selección. Y esta sirve para guardar los objetos Data y poder hacer las búsquedas por número de cuponeras. 
+
+El programa muestra 3 opciones al usuario.
+
+1. Ver los datos ordenados Esta opción crea un ".txt" donde el usuario puede ver los datos ordenados por número de cuponeras.
+2. Buscar por número de cuponeras. Esta opción permite al usuario ingresar el número de cuponeras y muestra todos los usuarios que han adquirido ese número de cuponeras..
+3. Salir Saca al usuario del programa.
+
+
 ## DLINK ADD
 	** Análisis de complejidad temporal **
 	Gracias a previous, la función ya no tiene que recorrer todos los elementos para llegar al final. Este apuntador nos permite llegar directamente, y ligar el "next" del nuevo objeto a 0, y el previous del objeto al "tail" anterior. 
