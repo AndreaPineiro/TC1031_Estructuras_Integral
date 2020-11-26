@@ -22,3 +22,16 @@ AVANCE 4: En el cuarto avance implemente grafos; cambié el proyecto. Use la ima
 Italia, y un txt en el que se dan todas las conecciones entre 2 nodos. El proyecto te permite ver todas
 las conecciones de cada nodo, hacer una búsqueda por DFS y por BFS para encontrar el camino más corto 
 desde un lugar de origen a otro, permitiendo al usuario ingresar estos datos.
+
+# CORRECCIONES
+
+## Actividad Integral 1
+- Se corrigió el problema de que no compilaba por las "ñ.
+- Se incluyó un main que corre los casos de prueba.
+
+## Actividad Integral 2
+- Se incluyó un main que corre los casos de prueba.
+
+## Actividad Integral 3
+- Se incluyó un main que corre los casos de prueba.
+- Decía que no compilaba, sin embargo si compila.
