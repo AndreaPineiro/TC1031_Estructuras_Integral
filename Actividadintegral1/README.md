@@ -5,6 +5,10 @@ En este avance se obtienen los datos de un archivo .csv que contiene las asisten
 En un vector se ordenan estos datos con Ordena Selección por fecha, y te permite ver la información ordenada y 
 buscar en un rango de fechas.
 
+# Casos de prueba
+Se encuentran algunos al final del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
+casos de prueba. 
+
 ## ORDENA MERGE 
 	** Análisis de complejidad temporal **
 	Este algoritmo tiene complejidad O(n * log(n)). 
