@@ -1,3 +1,5 @@
+Andrea Piñeiro Cavazos
+
 Este programa recibe datos del CSV "Préstamos" en este se da la información del material de entrenamiento que el gimnasio Black Bull fitness prestó a sus clientes donde la cuartentena. 
 Tiene los datos del nombre de la persona, la fecha, la cantidad de piezas y el nombre del equipo de entrenamiento (ej. cuerda, barra).
 Para esta entrega uso una Double Linked List para ordenar los datos con ordena selección. Y esta sirve para guardar los objetos prestamo y poder hacer las búsquedas por nombre de equipo.
@@ -13,6 +15,9 @@ El programa muestra 4 opciones al usuario.
 4. Salir
 	Saca al usuario del programa. 
 
+# Casos de prueba
+Se encuentran algunos al final del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
+casos de prueba. 
 
 # DLINK 
 
