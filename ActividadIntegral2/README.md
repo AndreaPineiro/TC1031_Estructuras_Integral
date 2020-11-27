@@ -9,6 +9,11 @@ El programa muestra 3 opciones al usuario.
 3. Salir Saca al usuario del programa.
 
 
+# Casos de prueba
+Se encuentran algunos al final del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
+casos de prueba. 
+
+
 ## DLINK ADD
 	** Análisis de complejidad temporal **
 	Gracias a previous, la función ya no tiene que recorrer todos los elementos para llegar al final. 
