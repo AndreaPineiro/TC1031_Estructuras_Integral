@@ -59,8 +59,12 @@ int main(){
                     cin.ignore();
                     getline(cin, ciudad);
                     cout << endl;
-                    cout << g.connectionsFromOrigin(ciudad);
-                    cout << endl << endl << endl;
+                    if (g.NodeInGraph(ciudad) == false){
+                        cout << "\tLa estación no existe" << endl << endl << endl;
+                    } else {
+                        cout << g.connectionsFromOrigin(ciudad);
+                        cout << endl << endl << endl;
+                    }
                 }
             break;
 
@@ -75,8 +79,14 @@ int main(){
                     cout << "Introduce el nombre de la estación de destino: ";
                     getline(cin, destino);
                     cout << endl;
-                    cout << "\t" << g.DFS(origen, destino) << "\t";
-                    cout << endl << endl << endl;
+                    if (g.NodeInGraph(origen) == false){
+                        cout << "\tLa estación de origen no existe." << endl << endl << endl;
+                    } else if (g.NodeInGraph(destino) == false){
+                        cout << "\tLa estación de destino no existe." << endl << endl << endl;
+                    } else {
+                        cout << "\t" << g.DFS(origen, destino) << "\t";
+                        cout << endl << endl << endl;
+                    }
                 }
             break;
 
@@ -91,8 +101,14 @@ int main(){
                     cout << "Introduce el nombre de la estación de destino: ";
                     getline(cin, destino);
                     cout << endl;
-                    cout << "\t" << g.BFS(origen, destino) << "\t";
-                    cout << endl << endl << endl;
+                    if (g.NodeInGraph(origen) == false){
+                        cout << "\tLa estación de origen no existe." << endl << endl << endl;
+                    } else if (g.NodeInGraph(destino) == false){
+                        cout << "\tLa estación de destino no existe." << endl << endl << endl;
+                    } else {
+                        cout << "\t" << g.BFS(origen, destino) << "\t";
+                        cout << endl << endl << endl;
+                    }
                 }
             break;
         }

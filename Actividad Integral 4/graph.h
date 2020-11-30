@@ -47,6 +47,7 @@ class Graph {
 		string printVisited(vector<string> &visitedOrder);
 		string printPath(string path[], string inicio, string meta);
 		string connectionsFromOrigin(string);
+		bool NodeInGraph(string);
 
 };
 
@@ -57,6 +58,19 @@ class Graph {
 // =================================================================
 Graph::Graph(){
 	nodes = 0;
+}
+
+// =================================================================
+// Function that checks if a node exists on the graph.
+// Complexity O(n) 
+// =================================================================
+bool Graph::NodeInGraph(string station){
+	for (int i = 0; i < nodes; i++){
+		if (adjList[i][0] == station){
+			return true;
+		}	
+	}
+	return false;
 }
 
 // =================================================================

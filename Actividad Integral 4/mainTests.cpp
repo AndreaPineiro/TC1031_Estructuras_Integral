@@ -1,3 +1,15 @@
+/*
+
+ *
+ *  Created on: 21/09/2020
+ *      Author: Andrea Pineiro Cavazos
+ *
+ *  Programa que ordena y permite buscar en un rango de fechas, 
+ *  las asistencias al programa de entrenamiento en linea BBFIT.
+ *
+ *  Casos de prueba incluidos al final
+ */
+
 #include <iostream>
 #include <fstream>
 #include "graph.h"
