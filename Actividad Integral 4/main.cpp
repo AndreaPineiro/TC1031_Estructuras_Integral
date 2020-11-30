@@ -21,7 +21,7 @@ using namespace std;
 int main(){
     Graph g;
     // We create the adjacency list with the information about the subway
-    g.loadGraphList("MetroRoma.txt", 73, 73);
+    g.loadGraphList("MetroRoma.txt", 77, 77);
     
     cout << endl << "\t\tAndrea Piñeiro Cavazos A01705681\t\t" << endl;
     cout << "\t\t\tMETRO DE ROMA\t\t\t" << endl << endl;
@@ -47,6 +47,7 @@ int main(){
                     ofstream file("Conexiones.txt");
 		            file << g.printAdjList() << endl;
 	                file.close();
+                    cout << "Se encuentran en Conexiones.txt" << endl << endl << endl;
                 }
             break;
 
