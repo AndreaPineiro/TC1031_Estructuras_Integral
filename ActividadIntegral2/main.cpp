@@ -169,9 +169,6 @@ int main(){
 		Maria Esther Hernandez Diaz 4 
 
 
-
-
-
 Prueba 2 : Opcion 2. Buscar por rango
 	Valor inicial: -1 // Out of range
 	Valor final: 2
@@ -206,8 +203,8 @@ Prueba 2 : Opcion 2. Buscar por rango
 		Valerio Ivan Islas Charolet 2 
 
 Prueba 3 : Opcion 2. Buscar por rango
-	Valor inicial: 2 // Out of range
-	Valor final: 2 // Out of range
+	Valor inicial: 2 
+	Valor final: 2
 
 	Resultado: 
 		Magali Citlalli Reyes Garcia 2 
@@ -221,5 +218,12 @@ Prueba 3 : Opcion 2. Buscar por rango
 		Rodrigo Osvaldo Cortes Montiel 2 
 		Sergio Rogelio Perez Ramirez  2 
 		Valerio Ivan Islas Charolet 2 
+
+
+Prueba 4 : Opcion 2. Buscar por rango
+	Valor inicial: -2 // Out of range
+	Valor final: -3 // Out of range
+
+	"Los numeros estan por debajo del limite"
 
 */
