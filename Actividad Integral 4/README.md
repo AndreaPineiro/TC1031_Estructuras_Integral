@@ -12,10 +12,11 @@ El programa muestra 5 opciones al usuario.
 
 
 # Casos de prueba
-Se encuentran algunos al final del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
+Se encuentran algunos al final del README y del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
 casos de prueba. 
 
 
+#Complejidades
 ## LOAD GRAPH LIST
 	** Análisis de complejidad temporal **
 	La función lee los datos de un archivo, y con cada línea crea un edge, para guardar la relación 
@@ -141,3 +142,108 @@ casos de prueba.
 	camino esta formado por todos los nodos. 
 	Por lo que se deben recorrer todos los nodos y se usan 2 ciclos.
 	Complejidad: O(n^2). n -> número de nodos
+	
+
+# Casos de Prueba
+
+## Prueba 1 : Opcion 1. Ver todas las conecciones de cada nodo en un archivo txt
+		
+	ESTO SE ENCUENTRA EN UN ARCHIVO, "CONEXIONES.TXT"
+
+	Resultado:
+		vertex Cornelia : Battisini, Baldo del Ubaldi
+		vertex Battisini : Cornelia
+		vertex Baldo del Ubaldi : Cornelia, Valle Aurelia
+		vertex Valle Aurelia : Baldo del Ubaldi, Cipro
+		vertex Cipro : Valle Aurelia, Ottaviano
+		vertex Ottaviano : Cipro, Lepanto, Clodio Mazzini, Risorgimento
+		vertex Lepanto : Ottaviano, Barberini Fontana di Trevi
+		vertex Barberini Fontana di Trevi : Lepanto, Spagna
+		vertex Spagna : Barberini Fontana di Trevi, Barberini
+		vertex Barberini : Spagna, Repubblica
+		vertex Repubblica : Barberini, Termini
+		vertex Termini : Repubblica, Vittorio Emanuele, Castro Pretorio, Cavour
+		vertex Vittorio Emanuele : Termini, Manzoni
+		vertex Manzoni : Vittorio Emanuele, San Giovanni
+		vertex San Giovanni : Manzoni, Re di Roma, Amba Aradam, Lodi
+		vertex Re di Roma : San Giovanni, Ponte Lungo
+		vertex Ponte Lungo : Re di Roma, Furio Camillo
+		vertex Furio Camillo : Ponte Lungo, Colli Albani
+		vertex Colli Albani : Furio Camillo, Arco di Travertino
+		vertex Arco di Travertino : Colli Albani, Porta Furba
+		vertex Porta Furba : Arco di Travertino, Numidio Quadrato
+		vertex Numidio Quadrato : Porta Furba, Lucio Sestio
+		vertex Lucio Sestio : Numidio Quadrato, Giulio Agricola
+		vertex Giulio Agricola : Lucio Sestio, Subaugusta
+		vertex Subaugusta : Giulio Agricola, Cinecittà
+		vertex Cinecittà : Subaugusta, Anagnina
+		vertex Anagnina : Cinecittà
+		vertex Clodio Mazzini : Ottaviano
+		vertex Risorgimento : Ottaviano, San Pietro
+		vertex San Pietro : Risorgimento, Chiesa Nuova
+		vertex Chiesa Nuova : San Pietro, Venezia
+		vertex Venezia : Chiesa Nuova, Colosseo
+		vertex Colosseo : Venezia, Amba Aradam, Cavour, Circo Massimo
+		vertex Amba Aradam : Colosseo, San Giovanni
+		vertex Lodi : San Giovanni, Pigneto
+		vertex Pigneto : Lodi, Malatesta
+		vertex Malatesta : Pigneto, Teano
+		vertex Teano : Malatesta, Gardenie
+		vertex Gardenie : Teano, Mirti
+		vertex Mirti : Gardenie, Parco di Centocelle
+		vertex Parco di Centocelle : Mirti, Torre Spaccata
+		vertex Torre Spaccata : Parco di Centocelle, Giglioli
+		vertex Giglioli : Torre Spaccata, Giardinetti
+		vertex Giardinetti : Giglioli
+		vertex Torre Angela : Gardinetti, Torre Gaia
+		vertex Gardinetti : Torre Angela
+		vertex Torre Gaia : Torre Angela, Grotte Celoni
+		vertex Grotte Celoni : Torre Gaia, Fontana Candida
+		vertex Fontana Candida : Grotte Celoni, Borghesiana
+		vertex Borghesiana : Fontana Candida, Bolognetta
+		vertex Bolognetta : Borghesiana, Finocchio
+		vertex Finocchio : Bolognetta, Graniti
+		vertex Graniti : Finocchio, Pantano
+		vertex Pantano : Graniti
+		vertex Ponte Mammolo : Rebibbia, Santa Maria del Soccorso
+		vertex Rebibbia : Ponte Mammolo
+		vertex Santa Maria del Soccorso : Ponte Mammolo, Pietralata
+		vertex Pietralata : Santa Maria del Soccorso, Monti Tiburtini
+		vertex Monti Tiburtini : Pietralata, Quintilliani
+		vertex Quintilliani : Monti Tiburtini, Tiburtina
+		vertex Tiburtina : Quintilliani, Policlinico
+		vertex Policlinico : Tiburtina, Castro Pretorio
+		vertex Castro Pretorio : Policlinico, Termini
+		vertex Cavour : Termini, Colosseo
+		vertex Circo Massimo : Colosseo, Piramide
+		vertex Piramide : Circo Massimo, Garbatella
+		vertex Garbatella : Piramide, San Paolo Basilica
+		vertex San Paolo Basilica : Garbatella, Marconi
+		vertex Marconi : San Paolo Basilica, EUR Magliana
+		vertex EUR Magliana : Marconi, EUR Palasport
+		vertex EUR Palasport : EUR Magliana, EUR Fermi
+		vertex EUR Fermi : EUR Palasport, Laurentin
+		vertex Laurentin : EUR Fermi
+
+
+## Prueba 2 : Opcion 2. Obtener las conecciones desde una parada
+       	Introduce el nombre de la estación: "Termini"
+
+	CONSOLA RESULTADO:
+       		Vertex Termini : Repubblica, Vittorio Emanuele, Castro Pretorio, Cavour
+
+
+## Prueba 3 : Opcion 3.  Obtener camino de un punto a otro
+	Introduce el nombre de la estación inicial: Ottaviano
+    	Introduce el nombre de la estación de destino: San Giovanni 
+
+	CONSOLA RESULTADO: 
+		Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Cavour, Termini, Vittorio Emanuele, 		Manzoni, San Giovanni.
+
+
+## Prueba 4 : Opción 4. Obtener el camino más corto de un punto a otro
+    Introduce el nombre de la estación inicial: Ottaviano
+    Introduce el nombre de la estación de destino: San Giovanni 
+
+    CONSOLA RESULTADO:
+        Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Amba Aradam, San Giovanni.
