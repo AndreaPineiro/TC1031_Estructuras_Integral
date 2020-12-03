@@ -227,23 +227,23 @@ casos de prueba.
 
 
 ## Prueba 2 : Opcion 2. Obtener las conecciones desde una parada
-	Introduce el nombre de la estación: "Termini"
+Introduce el nombre de la estación: "Termini"
 
 	CONSOLA RESULTADO:
        		Vertex Termini : Repubblica, Vittorio Emanuele, Castro Pretorio, Cavour
 
 
 ## Prueba 3 : Opcion 3.  Obtener camino de un punto a otro
-	Introduce el nombre de la estación inicial: Ottaviano
-    	Introduce el nombre de la estación de destino: San Giovanni 
+Introduce el nombre de la estación inicial: Ottaviano
+Introduce el nombre de la estación de destino: San Giovanni 
 
 	CONSOLA RESULTADO: 
 		Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Cavour, Termini, Vittorio Emanuele, 		Manzoni, San Giovanni.
 
 
 ## Prueba 4 : Opción 4. Obtener el camino más corto de un punto a otro
-	Introduce el nombre de la estación inicial: Ottaviano
-    	Introduce el nombre de la estación de destino: San Giovanni 
+Introduce el nombre de la estación inicial: Ottaviano
+Introduce el nombre de la estación de destino: San Giovanni 
 
     	CONSOLA RESULTADO:
         	Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Amba Aradam, San Giovanni.
