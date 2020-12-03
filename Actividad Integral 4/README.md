@@ -242,8 +242,8 @@ casos de prueba.
 
 
 ## Prueba 4 : Opción 4. Obtener el camino más corto de un punto a otro
-    Introduce el nombre de la estación inicial: Ottaviano
-    Introduce el nombre de la estación de destino: San Giovanni 
+	Introduce el nombre de la estación inicial: Ottaviano
+    	Introduce el nombre de la estación de destino: San Giovanni 
 
-    CONSOLA RESULTADO:
-        Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Amba Aradam, San Giovanni.
+    	CONSOLA RESULTADO:
+        	Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Amba Aradam, San Giovanni.
