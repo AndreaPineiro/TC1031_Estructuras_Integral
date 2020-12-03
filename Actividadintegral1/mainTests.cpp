@@ -39,18 +39,19 @@ int dateToInt(string line){
 
 
 string opcion2(Sorts<int> &sorts, vector<int> &fechas, vector<string> &info, string ini, string fin){
-	//stringstream aux;
-	//aux.str("");
-	string res = "";
+	stringstream aux;
+	aux.str("");
+	//string res = "";
 	int fechaIni = dateToInt(ini);
 	int fechaFin = dateToInt(fin);
 
 	vector<string> range = sorts.busqueda(fechas, info, fechaIni, fechaFin);
 
 	for (int i = 0; i < range.size(); i++){
-		res += range[i] + "\n";
+		aux << range[i] << "\n";
 	}
-	return res;
+	//return res;
+	return aux.str();
 
 }
 
@@ -165,11 +166,8 @@ int main(){
 	cout << endl;
 	cout << "\tFechaIni = 15/09/20\t\t" << endl;
 	cout << "\tFechaFin = 28/09/20\t\t" << endl;
-
 	ans = "15/09/20,Suriel Martinez Serrano,08:00\n15/09/20,Selma Janett Calleja Jaramillo,08:00\n15/09/20,Raciel Edmundo Escudero Diaz,06:00\n15/09/20,Paloma Ashly Covarrubias Hernandez,18:00\n15/09/20,Naydelin Ruiz Hernandez,18:00\n15/09/20,Mitzi Yael Porras Perez,08:00\n15/09/20,Maria Esther Hernandez Diaz,20:00\n15/09/20,Maria de los Angeles Villanueva Espinosa,08:00\n15/09/20,Marco Antonio Lozada Copca,06:00\n15/09/20,Luba Miriam Laski Covarrubias,18:00\n15/09/20,Julio Sanchez Ramirez,20:00\n15/09/20,Juan Antonio Zavala Manzanares,20:00\n15/09/20,Jose Antonio Alonso Cervantes,08:00\n15/09/20,Jorge Enrique Vargas Acosta,20:00\n15/09/20,Heberto Vizcaya Barrera,08:00\n15/09/20,Gaston Ceron Munoz,06:00\n15/09/20,Claudia Camacho Carreggio,06:00\n15/09/20,Carla Guzman Illescas,06:00\n15/09/20,Candy Nohemi Calderon Chavarria,06:00\n15/09/20,Axel Ishac Licona Calderon,18:00\n17/09/20,Vianney Alberto Melo Rios,08:00\n17/09/20,Selma Janett Calleja Jaramillo,08:00\n17/09/20,Raciel Edmundo Escudero Diaz,06:00\n17/09/20,Martha Guerrero Olvera,08:00\n17/09/20,Maria de los Angeles Villanueva Espinosa,08:00\n17/09/20,Jose Antonio Alonso Cervantes,08:00\n17/09/20,Heberto Vizcaya Barrera,08:00\n17/09/20,Gaston Ceron Munoz,06:00\n17/09/20,Gabriela Morales Mendez,08:00\n17/09/20,Gabriela Barranco Mendoza,08:00\n17/09/20,Claudia Camacho Carreggio,06:00\n17/09/20,Carla Guzman Illescas,06:00\n17/09/20,Candy Nohemi Calderon Chavarria,06:00\n";
 	prueba = opcion2(sorts, fechas, info, fechaIniStr, fechaFinStr);
-
-
 	cout << "\t\t4 " << (ans.compare(prueba) ? "success\n" : "fail\n") << "\t\t";
 
 
@@ -181,13 +179,8 @@ int main(){
 	cout << endl;
 	cout << "\tFechaIni = 10/07/20\t\t" << endl;
 	cout << "\tFechaFin = 11/07/20\t\t" << endl;
-
-	ans = "10/07/20,Claudia Camacho Carreggio\n10/07/20,Raciel Edmundo Escudero Diaz\n10/07/20,Carla Guzman Illescas\n10/07/20,Selma Janett Calleja Jaramillo\n10/07/20,Gaston Ceron Munoz\n10/07/20,Ivan Oyervides Vega\n10/07/20,Julio Cesar Hernandez Velasco\n10/07/20,Gabriela Morales Mendez\n10/07/20,Vianney Alberto Melo Rios\n10/07/20,Adolfo Miguel Pontigo Tovar\n10/07/20,Alma Thais Godinez Garrido\n10/07/20,Ximena Shady Godinez Garrido\n10/07/20,Zoe Bello Alfaro\n10/07/20,Berenice Alfaro Ponce\n10/07/20,Juan Francisco Bello Jardines\n10/07/20,Axel Ishac Licona Calderon\n10/07/20,Luba Miriam Laski Covarrubias\n10/07/20,Maria Teresa de Jesus Barroeta Sanchez\n10/07/20,Luis Alejandro Cortes Rodriguez\n10/07/20,Magali Citlalli Reyes Garcia\n10/07/20,Adrian Cortes Barroeta\n10/07/20,Andrea Cortes Barroeta\n10/07/20,Diego Alberto Ramirez Ceron\n11/07/20,Raciel Edmundo Escudero Diaz\n11/07/20,Claudia Camacho Carreggio\n11/07/20,Carla Guzman Illescas\n11/07/20,Sandra Karina Tapia Navarrete\n11/07/20,Marco Antonio Banos Rubio\n11/07/20,Adolfo Miguel Pontigo Tovar\n11/07/20,Maria Concepcion Avila Martinez\n11/07/20,Karen Danae Avila Martinez\n";
-
-
+	ans = "10/07/20,Zoe Bello Alfaro,19:30\n10/07/20,Ximena Shady Godinez Garrido,10:00\n10/07/20,Vianney Alberto Melo Rios,08:00\n10/07/20,Selma Janett Calleja Jaramillo,06:30\n10/07/20,Raciel Edmundo Escudero Diaz,06:30\n10/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30\n10/07/20,Magali Citlalli Reyes Garcia,19:30\n10/07/20,Luis Alejandro Cortes Rodriguez,19:30\n10/07/20,Luba Miriam Laski Covarrubias,19:30\n10/07/20,Julio Cesar Hernandez Velasco,08:00\n10/07/20,Juan Francisco Bello Jardines,19:30\n10/07/20,Ivan Oyervides Vega,08:00\n10/07/20,Gaston Ceron Munoz,06:30\n10/07/20,Gabriela Morales Mendez,08:00\n10/07/20,Diego Alberto Ramirez Ceron,19:30\n10/07/20,Claudia Camacho Carreggio,06:30\n10/07/20,Carla Guzman Illescas,06:30\n10/07/20,Berenice Alfaro Ponce,19:30\n10/07/20,Axel Ishac Licona Calderon,19:30\n10/07/20,Andrea Cortes Barroeta,19:30\n10/07/20,Alma Thais Godinez Garrido,10:00\n10/07/20,Adrian Cortes Barroeta,19:30\n10/07/20,Adolfo Miguel Pontigo Tovar,10:00\n11/07/20,Sandra Karina Tapia Navarrete,08:00\n11/07/20,Raciel Edmundo Escudero Diaz,08:00\n11/07/20,Maria Concepcion Avila Martinez,10:00\n11/07/20,Marco Antonio Banos Rubio,08:00\n11/07/20,Karen Danae Avila Martinez,10:00\n11/07/20,Claudia Camacho Carreggio,08:00\n11/07/20,Carla Guzman Illescas,08:00\n11/07/20,Adolfo Miguel Pontigo Tovar,10:00\n";
 	prueba = opcion2(sorts, fechas, info, fechaIniStr, fechaFinStr);
-
-
 	cout << "\t\t5 " << (ans.compare(prueba) ? "success\n" : "fail\n") << "\t\t";
 
 

@@ -383,35 +383,35 @@ Prueba 5: Opcion 2. Buscar por rango
 	Fecha final: 11/07/20
 
 	Resultado:
-	10/07/20,Claudia Camacho Carreggio
-	10/07/20,Raciel Edmundo Escudero Diaz
-	10/07/20,Carla Guzman Illescas
-	10/07/20,Selma Janett Calleja Jaramillo
-	10/07/20,Gaston Ceron Munoz
-	10/07/20,Ivan Oyervides Vega
-	10/07/20,Julio Cesar Hernandez Velasco
-	10/07/20,Gabriela Morales Mendez
-	10/07/20,Vianney Alberto Melo Rios
-	10/07/20,Adolfo Miguel Pontigo Tovar
-	10/07/20,Alma Thais Godinez Garrido
-	10/07/20,Ximena Shady Godinez Garrido
-	10/07/20,Zoe Bello Alfaro
-	10/07/20,Berenice Alfaro Ponce
-	10/07/20,Juan Francisco Bello Jardines
-	10/07/20,Axel Ishac Licona Calderon
-	10/07/20,Luba Miriam Laski Covarrubias
-	10/07/20,Maria Teresa de Jesus Barroeta Sanchez
-	10/07/20,Luis Alejandro Cortes Rodriguez
-	10/07/20,Magali Citlalli Reyes Garcia
-	10/07/20,Adrian Cortes Barroeta
-	10/07/20,Andrea Cortes Barroeta
-	10/07/20,Diego Alberto Ramirez Ceron
-	11/07/20,Raciel Edmundo Escudero Diaz
-	11/07/20,Claudia Camacho Carreggio
-	11/07/20,Carla Guzman Illescas
-	11/07/20,Sandra Karina Tapia Navarrete
-	11/07/20,Marco Antonio Banos Rubio
-	11/07/20,Adolfo Miguel Pontigo Tovar
-	11/07/20,Maria Concepcion Avila Martinez
-	11/07/20,Karen Danae Avila Martinez
+	10/07/20,Zoe Bello Alfaro,19:30
+	10/07/20,Ximena Shady Godinez Garrido,10:00
+	10/07/20,Vianney Alberto Melo Rios,08:00
+	10/07/20,Selma Janett Calleja Jaramillo,06:30
+	10/07/20,Raciel Edmundo Escudero Diaz,06:30
+	10/07/20,Maria Teresa de Jesus Barroeta Sanchez,19:30
+	10/07/20,Magali Citlalli Reyes Garcia,19:30
+	10/07/20,Luis Alejandro Cortes Rodriguez,19:30
+	10/07/20,Luba Miriam Laski Covarrubias,19:30
+	10/07/20,Julio Cesar Hernandez Velasco,08:00
+	10/07/20,Juan Francisco Bello Jardines,19:30
+	10/07/20,Ivan Oyervides Vega,08:00
+	10/07/20,Gaston Ceron Munoz,06:30
+	10/07/20,Gabriela Morales Mendez,08:00
+	10/07/20,Diego Alberto Ramirez Ceron,19:30
+	10/07/20,Claudia Camacho Carreggio,06:30
+	10/07/20,Carla Guzman Illescas,06:30
+	10/07/20,Berenice Alfaro Ponce,19:30
+	10/07/20,Axel Ishac Licona Calderon,19:30
+	10/07/20,Andrea Cortes Barroeta,19:30
+	10/07/20,Alma Thais Godinez Garrido,10:00
+	10/07/20,Adrian Cortes Barroeta,19:30
+	10/07/20,Adolfo Miguel Pontigo Tovar,10:00
+	11/07/20,Sandra Karina Tapia Navarrete,08:00
+	11/07/20,Raciel Edmundo Escudero Diaz,08:00
+	11/07/20,Maria Concepcion Avila Martinez,10:00
+	11/07/20,Marco Antonio Banos Rubio,08:00
+	11/07/20,Karen Danae Avila Martinez,10:00
+	11/07/20,Claudia Camacho Carreggio,08:00
+	11/07/20,Carla Guzman Illescas,08:00
+	11/07/20,Adolfo Miguel Pontigo Tovar,10:00
 */
