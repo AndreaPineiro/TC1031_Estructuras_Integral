@@ -300,7 +300,6 @@ casos de prueba.
 
 
 ## Prueba 6: Opción 4: Obtener el camino más corto de un punto a otro
-	
 	Introduce el nombre de la estación inicial: Lod
     	Introduce el nombre de la estación de destino: Ottaviano
 
@@ -309,7 +308,6 @@ casos de prueba.
 
 
 ## Prueba 7: Opción 2: Obtener las conexiones de una parada
-	
 	Introduce el nombre de la estación: Af
 
 	CONSOLA RESULTADO:
