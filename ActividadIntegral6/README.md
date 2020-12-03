@@ -28,13 +28,28 @@ casos de prueba.
 # Complejidad
 
 ## INSERT (Trie)
-	Recibe una string la cual va a añadir al árbol Trie, como mencioné anteriormente cada caracter de la string va a estar en su respectivo nodo. La raíz del árbol tiene conexiones a 26 nodos (tamaño del alfabeto) para que en este se guarde un caracter. Al insertar va al nodo con el primer carácter, si no existe crea un nuevo nodo; y luego se mueve a la ramificación de este carácter siguiendo el camino de nodos con el respectivo caracter o creando nuevos si es necesario. 
-	Para insertar va a depender de la longitud de la string que queramos agregra, debido a que tiene que recorrer o crear un nodo por cada caracter de la palabra. S recorrer cada caracter de la palabra y en cada iteración guarda el caracter en el nodo y luego pasa al siguiente caracter. Después de agregar todos los caracteres, marcamos el nodo final como EndOfWord para saber que ahí acaba la palabra.
+	Recibe una string la cual va a añadir al árbol Trie, como mencioné anteriormente cada caracter 
+	de la string va a estar en su respectivo nodo. La raíz del árbol tiene conexiones a 26 nodos 
+	(tamaño del alfabeto) para que en este se guarde un caracter. Al insertar va al nodo con el 
+	primer carácter, si no existe crea un nuevo nodo; y luego se mueve a la ramificación de este 
+	carácter siguiendo el camino de nodos con el respectivo caracter o creando nuevos si es necesario. 
+	Para insertar va a depender de la longitud de la string que queramos agregra, debido a que tiene 
+	que recorrer o crear un nodo por cada caracter de la palabra. S recorrer cada caracter de la 
+	palabra y en cada iteración guarda el caracter en el nodo y luego pasa al siguiente caracter. 
+	Después de agregar todos los caracteres, marcamos el nodo final como EndOfWord para saber que ahí
+	acaba la palabra.
 	Complejidad: O(n)
 
 ## SEARCH (TRIE)
-	Esta función también recibe como parámetro una string con la palabra que quiere buscar dentro del Trie para saber si existe o no. La función regresa un valor boleano dependiendo si la palabra se encuentra en el árbol o no. Igual que la función anterior, la función tendrá que recorrer toda la string, para moverse de caracter en caracter. Primero se mueve al nodo con el primer caracter, pasa al segundo y va avanzando de nodos dependiendo del caracter de la string.
-	La función no pasa por todas las palabras, por lo que no se recorren todos los nodos. Si llegamos a un punto en el que el siguiente caracter de la string no se encuentre dentro del árbol significa que no esta la palabra. En cambio, si terminamos de recorrer todos los carácteres y llegamos a un nodo marcado como EndOFWord, significa que si esta dentro del árbol.
+	Esta función también recibe como parámetro una string con la palabra que quiere buscar dentro 
+	del Trie para saber si existe o no. La función regresa un valor boleano dependiendo si la palabra 
+	se encuentra en el árbol o no. Igual que la función anterior, la función tendrá que recorrer toda 
+	la string, para moverse de caracter en caracter. Primero se mueve al nodo con el primer caracter, 
+	pasa al segundo y va avanzando de nodos dependiendo del caracter de la string.
+	La función no pasa por todas las palabras, por lo que no se recorren todos los nodos. Si llegamos 
+	a un punto en el que el siguiente caracter de la string no se encuentre dentro del árbol significa 
+	que no esta la palabra. En cambio, si terminamos de recorrer todos los carácteres y llegamos a un 
+	nodo marcado como EndOFWord, significa que si esta dentro del árbol.
 	Este algoritmo sigue la misma lógica que el anterior.
 
 
