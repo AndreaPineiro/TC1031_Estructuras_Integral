@@ -301,9 +301,9 @@ casos de prueba.
 
 ## Prueba 6: Opción 4: Obtener el camino más corto de un punto a otro
 	Introduce el nombre de la estación inicial: Lod
-    	Introduce el nombre de la estación de destino: Ottaviano
+    Introduce el nombre de la estación de destino: Ottaviano
 
-    	CONSOLA RESULTADO:
+    CONSOLA RESULTADO:
     		La estación de origen no existe
 
 
