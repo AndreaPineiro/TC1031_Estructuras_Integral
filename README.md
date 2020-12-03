@@ -35,3 +35,7 @@ desde un lugar de origen a otro, permitiendo al usuario ingresar estos datos.
 ## Actividad Integral 3
 - Se incluyó un main que corre los casos de prueba.
 - Decía que no compilaba, sin embargo si compila.
+
+## Actividad Integral 4
+- Se añadío para que si ingresas una estación que no existe te lo dice. 
+
