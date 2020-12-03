@@ -28,6 +28,7 @@ casos de prueba.
 # Complejidad
 
 ## INSERT (Trie)
+	** Análisis de complejidad temporal **
 	Recibe una string la cual va a añadir al árbol Trie, como mencioné anteriormente cada caracter 
 	de la string va a estar en su respectivo nodo. La raíz del árbol tiene conexiones a 26 nodos 
 	(tamaño del alfabeto) para que en este se guarde un caracter. Al insertar va al nodo con el 
@@ -41,6 +42,7 @@ casos de prueba.
 	Complejidad: O(n)
 
 ## SEARCH (TRIE)
+	** Análisis de complejidad temporal **
 	Esta función también recibe como parámetro una string con la palabra que quiere buscar dentro 
 	del Trie para saber si existe o no. La función regresa un valor boleano dependiendo si la palabra 
 	se encuentra en el árbol o no. Igual que la función anterior, la función tendrá que recorrer toda 
