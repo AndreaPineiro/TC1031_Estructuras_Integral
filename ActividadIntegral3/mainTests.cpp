@@ -209,7 +209,7 @@ int main(){
 	   	pos1 = pos2; // La pos1 ahora es la pos 2
 	}
 
-	for (int i = 0; i < 6; i++){
+	for (int i = 0; i < 5; i++){
 		if (heap.empty()){
 			cout << "Ya no hay mas objetos";
 			continue;
@@ -224,9 +224,9 @@ int main(){
 	}
 	prueba = aux.str();
 
-	ans = "Disco 25 lbs: 23\nSeguro: 22\nDisco 15 lbs: 14\nAbmat: 13\nTapete: 13\n";
+	ans = "Disco 10 lbs: 27\nDisco 25 lbs: 23\nSeguro: 22\nDisco 15 lbs: 14\nAbmat: 13\n";
 
 	cout << prueba << endl;
 
-	cout << "\t\t5 " << (ans.compare(prueba) ? "success\n" : "fail\n") << "\t\t";
+	cout << "\t\t5 " << (!ans.compare(prueba) ? "success\n" : "fail\n") << "\t\t";
 }
