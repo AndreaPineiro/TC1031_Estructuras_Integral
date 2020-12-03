@@ -405,8 +405,9 @@ casos de prueba.
 
 	ESTO SE ENCUENTRA EN UN ARCHIVO, "DATOS.TXT"
 
-	Orlando Jair Lopez Santiago 19/3/2020 1 Caja
-	Elba Zuzely Vizcaya Barrera 19/3/2020 1 Caja
-	Claudia Camacho Carregio 06/04/20 2 Caja
-	Carla Guzman Illescas 20/05/20 1 Caja
-	Pablo Manuel Gayosso Chavez 19/3/2020 1 Caja
+	Resultado: 
+		Orlando Jair Lopez Santiago 19/3/2020 1 Caja
+		Elba Zuzely Vizcaya Barrera 19/3/2020 1 Caja
+		Claudia Camacho Carregio 06/04/20 2 Caja
+		Carla Guzman Illescas 20/05/20 1 Caja
+		Pablo Manuel Gayosso Chavez 19/3/2020 1 Caja
