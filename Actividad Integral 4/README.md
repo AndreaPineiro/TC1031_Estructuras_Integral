@@ -16,7 +16,7 @@ Se encuentran algunos al final del README y del main como comentarios, sin embar
 casos de prueba. 
 
 
-#Complejidades
+# Complejidades
 ## LOAD GRAPH LIST
 	** Análisis de complejidad temporal **
 	La función lee los datos de un archivo, y con cada línea crea un edge, para guardar la relación 
