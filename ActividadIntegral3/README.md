@@ -208,7 +208,7 @@ casos de prueba.
 
 # Casos de Prueba
 
-# Prueba 1 : Opcion 1. Ver datos ordenados
+## Prueba 1 : Opcion 1. Ver datos ordenados
 		
 	ESTO SE ENCUENTRA EN UN ARCHIVO, "DATOS.TXT"
 
@@ -354,7 +354,7 @@ casos de prueba.
 
 
 
-# Prueba 2 : Opcion 3. Obtener equipo mas prestado
+## Prueba 2 : Opcion 3. Obtener equipo mas prestado
 		
 		"Disco 10 lbs 27"
 		"1 para ver el siguiente elemento, 0 para salir: "
@@ -382,7 +382,7 @@ casos de prueba.
 		0
 
 
-# Prueba 3 : Opcion 2. Buscar por nombre de equipo
+## Prueba 3 : Opcion 2. Buscar por nombre de equipo
 	Introduce el nombre del equipo: Abmat
 
 	ESTO SE ENCUENTRA EN UN ARCHIVO, "DATOS.TXT"
@@ -400,7 +400,7 @@ casos de prueba.
 		Claudia Camacho Carregio 06/04/20 1 Abmat
 
 
-# Prueba 4 : Opcion 2. Buscar por nombre de equipo
+## Prueba 4 : Opcion 2. Buscar por nombre de equipo
 	Introduce el nombre del equipo: Caja
 
 	ESTO SE ENCUENTRA EN UN ARCHIVO, "DATOS.TXT"
