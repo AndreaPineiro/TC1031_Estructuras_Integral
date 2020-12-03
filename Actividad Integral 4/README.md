@@ -227,7 +227,7 @@ casos de prueba.
 
 
 ## Prueba 2 : Opcion 2. Obtener las conecciones desde una parada
-       	Introduce el nombre de la estación: "Termini"
+	Introduce el nombre de la estación: "Termini"
 
 	CONSOLA RESULTADO:
        		Vertex Termini : Repubblica, Vittorio Emanuele, Castro Pretorio, Cavour
