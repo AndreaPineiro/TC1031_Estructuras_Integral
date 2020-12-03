@@ -388,7 +388,7 @@ Prueba 3 : Opcion 2. Buscar por nombre de equipo
 		Claudia Camacho Carregio 06/04/20 1 Abmat
 
 
-Prueba 3 : Opcion 2. Buscar por nombre de equipo
+Prueba 4 : Opcion 2. Buscar por nombre de equipo
 	Introduce el nombre del equipo: Caja
 
 	ESTO SE ENCUENTRA EN UN ARCHIVO, "DATOS.TXT"
