@@ -10,7 +10,7 @@ El programa muestra 3 opciones al usuario.
 
 
 # Casos de prueba
-Se encuentran algunos al final del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
+Se encuentran algunos al final del RADME y del main como comentarios, sin embargo en mainTests.cpp se pueden correr 5 
 casos de prueba. 
 
 
@@ -103,3 +103,99 @@ casos de prueba.
 	Matemáticamente tiene una complejidad de ((n * (n + 1)) / 2). Sin embargo, como estamos hablando de Big O, 
 	tenemos que irnos al peor de los casos que sería O(n^2). 
 
+# Casos de Prueba
+
+# Prueba 1 : Opcion 1. Ver datos ordenados
+	Resultado en Datos.txt:
+		Crisalida Yohel Ramirez Rodriguez 1 
+		Gabriela Barranco Mendoza 1 
+		Gloria Griselda Pedrizuela Arenal 1 
+		Jose Daniel Perez Nunez 1 
+		Jesus Octavio Olivares Gonzalez 1 
+		Jorge Alberto Gonzalez Melendez 1 
+		Jorge Armando Paz Estrada 1 
+		Marco Antonio Dominguez Lopez 1 
+		Martha Guerrero Olvera 1 
+		Mitzi Yael Porras Perez 1 
+		Navil Marlen Acosta Olvera 1 
+		Naydelin Ruiz Hernandez 1 
+		Oscar Nashiel Gonzalez Lara 1 
+		Regina Rojas Crespo 1 
+		Suriel Martinez Serrano 1 
+		Zaira Omana Sanchez 1 
+		Magali Citlalli Reyes Garcia 2 
+		Maria de los Angeles Villanueva Espinosa 2 
+		﻿Angel Zaid Cruz Olivarez 2 
+		Naoli Alfaro Ponce 2 
+		Danya Omana Sanchez 2 
+		Angeles Zeydel Olivares Hidalgo 2 
+		Juan Francisco Bello Jardines  2 
+		Julio Cesar Hernandez Velasco 2 
+		Rodrigo Osvaldo Cortes Montiel 2 
+		Sergio Rogelio Perez Ramirez  2 
+		Valerio Ivan Islas Charolet 2 
+		Luis David Cruz Olivarez 2 
+		Mario Villarreal Mares  3 
+		Berenice Alfaro Ponce  3 
+		Luba Miriam Laski Covarrubias 4 
+		Axel Ishac Licona Calderon 4 
+		Maria Esther Hernandez Diaz 4 
+
+
+# Prueba 2 : Opcion 2. Buscar por rango
+	Valor inicial: -1 // Out of range
+	Valor final: 2
+
+	Resultado en Datos.txt: 
+		Crisalida Yohel Ramirez Rodriguez 1 
+		Gabriela Barranco Mendoza 1 
+		Gloria Griselda Pedrizuela Arenal 1 
+		Jose Daniel Perez Nunez 1 
+		Jesus Octavio Olivares Gonzalez 1 
+		Jorge Alberto Gonzalez Melendez 1 
+		Jorge Armando Paz Estrada 1 
+		Marco Antonio Dominguez Lopez 1 
+		Martha Guerrero Olvera 1 
+		Mitzi Yael Porras Perez 1 
+		Navil Marlen Acosta Olvera 1 
+		Naydelin Ruiz Hernandez 1 
+		Oscar Nashiel Gonzalez Lara 1 
+		Regina Rojas Crespo 1 
+		Suriel Martinez Serrano 1 
+		Zaira Omana Sanchez 1 
+		Magali Citlalli Reyes Garcia 2 
+		Maria de los Angeles Villanueva Espinosa 2 
+		﻿Angel Zaid Cruz Olivarez 2 
+		Naoli Alfaro Ponce 2 
+		Danya Omana Sanchez 2 
+		Angeles Zeydel Olivares Hidalgo 2 
+		Juan Francisco Bello Jardines  2 
+		Julio Cesar Hernandez Velasco 2 
+		Rodrigo Osvaldo Cortes Montiel 2 
+		Sergio Rogelio Perez Ramirez  2 
+		Valerio Ivan Islas Charolet 2 
+
+# Prueba 3 : Opcion 2. Buscar por rango
+	Valor inicial: 2 
+	Valor final: 2
+
+	Resultado en Datos.txt: 
+		Magali Citlalli Reyes Garcia 2 
+		Maria de los Angeles Villanueva Espinosa 2 
+		﻿Angel Zaid Cruz Olivarez 2 
+		Naoli Alfaro Ponce 2 
+		Danya Omana Sanchez 2 
+		Angeles Zeydel Olivares Hidalgo 2 
+		Juan Francisco Bello Jardines  2 
+		Julio Cesar Hernandez Velasco 2 
+		Rodrigo Osvaldo Cortes Montiel 2 
+		Sergio Rogelio Perez Ramirez  2 
+		Valerio Ivan Islas Charolet 2 
+
+
+# Prueba 4 : Opcion 2. Buscar por rango
+	Valor inicial: -2 // Out of range
+	Valor final: -3 // Out of range
+	
+	Resultado en consola:
+		"Los numeros estan por debajo del limite"
