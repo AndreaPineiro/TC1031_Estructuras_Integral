@@ -53,6 +53,7 @@ casos de prueba.
 	que no esta la palabra. En cambio, si terminamos de recorrer todos los carácteres y llegamos a un 
 	nodo marcado como EndOFWord, significa que si esta dentro del árbol.
 	Este algoritmo sigue la misma lógica que el anterior.
+	Complejidad: O(n) 
 
 
 ## LOAD GRAPH LIST
