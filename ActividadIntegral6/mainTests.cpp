@@ -40,33 +40,10 @@ int main(){
     g_ans = "Vertex Colosseo : Venezia, Amba Aradam, Cavour, Circo Massimo\n";
     cout << " 3 " << (g_ans.compare(g.connectionsFromOrigin("Colosseo")) ? "success\n" : "fail\n") << endl << endl;
 
-    cout << "PRUEBA 4: OPCIÓN 3 OBTENER CAMINO DE UN PUNTO A OTRO" << endl;
-    cout << "\tOrigen: Ottaviano\t\t" << endl;
-    cout << "\tDestino: San Giovanni\t\t" << endl;
-    g_ans = " Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Cavour, Termini, Vittorio Emanuele, Manzoni, San Giovanni.";
-    cout << " 4 " << (g_ans.compare(g.DFS("Ottaviano", "San Giovanni")) ? "success\n" : "fail\n") << endl << endl;
-
-    cout << "PRUEBA 5: OPCIÓN 4 OBTENER CAMINO MÁS CORTO DE UN PUNTO A OTRO" << endl;
-    cout << "\tOrigen: Ottaviano\t\t" << endl;
-    cout << "\tDestino: San Giovanni\t\t" << endl;
-    g_ans = " Path: Ottaviano, Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Amba Aradam, San Giovanni.";
-    cout << " 5 " << (g_ans.compare(g.BFS("Ottaviano", "San Giovanni")) ? "success\n" : "fail\n") << endl << endl;
-
-    cout << "PRUEBA 6: OPCIÓN 4 OBTENER CAMINO MÁS CORTO DE UN PUNTO A OTRO" << endl;
-    cout << "\tOrigen: Cipro\t\t" << endl;
-    cout << "\tDestino: Tiburtina\t\t" << endl;
-    g_ans = " Path: Cipro, Ottaviano, Lepanto, Barberini Fontana di Trevi, Spagna, Barberini, Repubblica, Termini, Castro Pretorio, Policlinico, Tiburtina.";
-    cout << " 6 " << (g_ans.compare(g.BFS("Cipro", "Tiburtina")) ? "success\n" : "fail\n") << endl << endl;
-
-    cout << "PRUEBA 7: OPCIÓN 3 OBTENER CAMINO DE UN PUNTO A OTRO" << endl;
-    cout << "\tOrigen: Risorgimento\t\t" << endl;
-    cout << "\tDestino: Spagna\t\t" << endl;
-    g_ans = " Path: Risorgimento, San Pietro, Chiesa Nuova, Venezia, Colosseo, Cavour, Termini, Repubblica, Barberini, Spagna.";
-    cout << " 7 " << (g_ans.compare(g.DFS("Risorgimento", "Spagna")) ? "success\n" : "fail\n") << endl << endl;
-
-    cout << "PRUEBA 8: OPCIÓN 4 OBTENER CAMINO MÁS CORTO DE UN PUNTO A OTRO" << endl;
-    cout << "\tOrigen: Risorgimento\t\t" << endl;
-    cout << "\tDestino: Spagna\t\t" << endl;
-    g_ans = " Path: Risorgimento, Ottaviano, Lepanto, Barberini Fontana di Trevi, Spagna.";
-    cout << " 8 " << (g_ans.compare(g.BFS("Risorgimento", "Spagna")) ? "success\n" : "fail\n") << endl << endl;
+    cout << "PRUEBA 4: OPCIÓN 4 OBTENER CAMINO MÁS CORTO DE UN PUNTO A OTRO" << endl;
+    cout << "\tOrigen: Termi (No existe)\t\t" << endl;
+    cout << "\tDestino: Calis (No existe)\t\t" << endl;
+    g_ans = "\tLas estaciones no existen.";
+    cout << " 5 " << (!g_ans.compare(g.BFS("Termini", "Calis")) ? "success\n" : "fail\n") << endl << endl;
+    
 }
